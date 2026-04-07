@@ -1,0 +1,1003 @@
+Order_ID,Date,Month,Quarter,Product,Category,City,Units_Sold,Cost_Per_Unit,Selling_Price_Per_Unit,Discount_Pct,Total_Cost,Revenue,Profit,Profit_Margin_Pct,Stock_Available,Stock_Status,Customer_Type,Sales_Rep,Payment_Mode,Rating,Profit_Status,Discount_Category
+TZ1000,2024-10-16,October,Q4,Desktop PC,Computing,Mumbai,5,41049,46628,5,205245,345513.48,140268.48,40.6,57,Adequate,New,Meera,EMI,3.6,Profitable,Low Discount
+TZ1001,2024-03-08,March,Q1,Laptop,Computing,Mumbai,2,49328,60247,0,98656,144592.8,45936.8,31.77,45,Adequate,New,Meera,EMI,4.1,Profitable,No Discount
+TZ1002,2024-04-04,April,Q2,Refrigerator,Appliances,Bangalore,1,28463,68753,20,28463,55002.4,26539.4,48.25,31,Adequate,Returning,Priya,Credit Card,4,Profitable,Medium Discount
+TZ1003,2023-12-11,December,Q4,Desktop PC,Computing,Mumbai,7,31338,55526,10,219366,545709.53,326343.53,59.8,48,Adequate,Returning,Rahul,UPI,4.3,Profitable,Low Discount
+TZ1004,2024-01-23,January,Q1,Desktop PC,Computing,Hyderabad,5,48700,69837,5,243500,248794.31,5294.31,2.13,55,Adequate,New,Rahul,Credit Card,4.7,Profitable,Low Discount
+TZ1005,2023-03-23,March,Q1,Smartphone,Mobile,Mumbai,7,17108,39714,10,119756,300237.84,180481.84,60.11,7,Critical,Returning,Amit,Credit Card,4.5,Profitable,Low Discount
+TZ1006,2024-12-19,December,Q4,Washing Machine,Appliances,Mumbai,5,35806,30215,10,179030,212109.3,33079.3,15.6,20,Low,Returning,Sneha,Debit Card,5,Profitable,Low Discount
+TZ1007,2024-10-17,October,Q4,Air Conditioner,Appliances,Hyderabad,2,46252,35665,10,92504,62592.08,-29911.92,-47.79,12,Low,Returning,Sneha,Debit Card,3.6,Loss,Low Discount
+TZ1008,2024-08-03,August,Q3,Air Conditioner,Appliances,Bangalore,2,57717,57928,20,115434,101953.28,-13480.72,-13.22,19,Low,Returning,Priya,Credit Card,3.7,Loss,Medium Discount
+TZ1009,2024-07-05,July,Q3,Smartwatch,Mobile,Hyderabad,7,12560,10543,10,87920,54797.24,-33122.76,-60.45,9,Critical,New,Vikram,UPI,3.6,Loss,Low Discount
+TZ1010,2023-02-18,February,Q1,Desktop PC,Computing,Delhi,3,52666,71086,0,157998,234583.8,76585.8,32.65,34,Adequate,Returning,Vikram,UPI,4.3,Profitable,No Discount
+TZ1011,2024-07-20,July,Q3,Laptop,Computing,Mumbai,5,77006,67293,0,385030,444133.8,59103.8,13.31,28,Adequate,Returning,Priya,UPI,3.5,Profitable,No Discount
+TZ1012,2023-09-27,September,Q3,Bluetooth Speaker,Audio,Delhi,9,1871,6389,5,16839,60088.54,43249.54,71.98,19,Low,Returning,Priya,EMI,4.9,Profitable,Low Discount
+TZ1013,2024-06-27,June,Q2,Laptop,Computing,Hyderabad,6,67021,46276,0,402126,208242,-193884,-93.11,33,Adequate,Returning,Priya,Cash,3.9,Loss,No Discount
+TZ1014,2024-08-03,August,Q3,Desktop PC,Computing,Mumbai,8,29535,66911,5,236280,671251.15,434971.15,64.8,18,Low,Loyal,Sneha,EMI,3.7,Profitable,Low Discount
+TZ1015,2024-06-24,June,Q2,Refrigerator,Appliances,Chennai,2,53343,68211,10,106686,104362.83,-2323.17,-2.23,55,Adequate,Returning,Sneha,Debit Card,4.2,Loss,Low Discount
+TZ1016,2024-06-13,June,Q2,Headphones,Audio,Mumbai,4,5181,3049,10,20724,13171.68,-7552.32,-57.34,11,Low,Loyal,Vikram,Credit Card,4.4,Loss,Low Discount
+TZ1017,2023-01-08,January,Q1,Desktop PC,Computing,Mumbai,4,29417,34058,10,117668,147130.56,29462.56,20.02,14,Low,Loyal,Priya,Debit Card,4.5,Profitable,Low Discount
+TZ1018,2023-08-08,August,Q3,Bluetooth Speaker,Audio,Delhi,12,5677,9244,5,68124,127511.74,59387.74,46.57,60,Adequate,Returning,Sneha,Credit Card,3.6,Profitable,Low Discount
+TZ1019,2024-11-05,November,Q4,Monitor,Display,Bangalore,7,21470,25303,10,150290,207231.57,56941.57,27.48,136,Overstocked,Loyal,Meera,Cash,3.6,Profitable,Low Discount
+TZ1020,2023-12-14,December,Q4,Desktop PC,Computing,Delhi,4,37465,67146,15,149860,326463.85,176603.85,54.1,18,Low,Returning,Priya,Debit Card,4.2,Profitable,Medium Discount
+TZ1021,2023-03-19,March,Q1,Headphones,Audio,Hyderabad,2,2328,12684,0,4656,19026,14370,75.53,15,Low,New,Priya,UPI,4.2,Profitable,No Discount
+TZ1022,2023-08-07,August,Q3,Monitor,Display,Mumbai,3,20418,10070,25,61254,29907.9,-31346.1,-104.81,83,Adequate,Returning,Amit,UPI,3.7,Loss,High Discount
+TZ1023,2024-07-23,July,Q3,Washing Machine,Appliances,Chennai,2,21222,38445,10,42444,64702.94,22258.94,34.4,13,Low,Loyal,Meera,EMI,3.6,Profitable,Low Discount
+TZ1024,2023-11-18,November,Q4,Laptop,Computing,Mumbai,8,67954,79807,5,543632,946191.79,402559.79,42.55,13,Low,Loyal,Rahul,Credit Card,3.6,Profitable,Low Discount
+TZ1025,2023-03-11,March,Q1,Washing Machine,Appliances,Delhi,4,18928,56334,10,75712,223082.64,147370.64,66.06,47,Adequate,Loyal,Rahul,EMI,3.6,Profitable,Low Discount
+TZ1026,2024-11-04,November,Q4,Refrigerator,Appliances,Hyderabad,5,38733,40089,10,193665,175890.49,-17774.51,-10.11,52,Adequate,Loyal,Amit,Credit Card,3.9,Loss,Low Discount
+TZ1027,2023-05-15,May,Q2,Washing Machine,Appliances,Bangalore,4,25360,23754,5,101440,90265.2,-11174.8,-12.38,39,Adequate,Loyal,Vikram,Cash,3.6,Loss,Low Discount
+TZ1028,2023-08-07,August,Q3,Bluetooth Speaker,Audio,Bangalore,3,3859,2627,5,11577,8235.65,-3341.35,-40.57,33,Adequate,Returning,Priya,UPI,4.8,Loss,Low Discount
+TZ1029,2024-12-21,December,Q4,Smartwatch,Mobile,Hyderabad,13,13714,12666,0,178282,160541.55,-17740.45,-11.05,19,Low,Returning,Meera,Cash,4.9,Loss,No Discount
+TZ1030,2023-05-18,May,Q2,Smartwatch,Mobile,Mumbai,15,4753,16163,5,71295,276387.3,205092.3,74.2,10,Low,Returning,Vikram,Credit Card,4.6,Profitable,Low Discount
+TZ1031,2023-07-28,July,Q3,Washing Machine,Appliances,Bangalore,5,31008,35457,5,155040,185262.83,30222.83,16.31,15,Low,Loyal,Sneha,Debit Card,3.6,Profitable,Low Discount
+TZ1032,2023-12-08,December,Q4,Tablet,Computing,Bangalore,3,26478,33077,15,79434,109650.25,30216.25,27.56,45,Adequate,New,Rahul,Cash,4.9,Profitable,Medium Discount
+TZ1033,2024-12-08,December,Q4,Tablet,Computing,Hyderabad,1,24098,34087,5,24098,31573.08,7475.08,23.68,37,Adequate,New,Rahul,Debit Card,4,Profitable,Low Discount
+TZ1034,2023-02-10,February,Q1,LED TV,Display,Delhi,11,31353,63708,10,344883,693780.12,348897.12,50.29,95,Adequate,Loyal,Sneha,EMI,4.6,Profitable,Low Discount
+TZ1035,2023-08-31,August,Q3,Tablet,Computing,Delhi,7,12812,20877,10,89684,159145.37,69461.37,43.65,60,Adequate,Returning,Meera,Credit Card,3.9,Profitable,Low Discount
+TZ1036,2024-12-19,December,Q4,Desktop PC,Computing,Chennai,1,55847,46577,5,55847,48894.21,-6952.79,-14.22,39,Adequate,Returning,Amit,Credit Card,3.8,Loss,Low Discount
+TZ1037,2024-11-06,November,Q4,Smartphone,Mobile,Chennai,6,17129,14549,10,102774,86813.88,-15960.12,-18.38,13,Low,Loyal,Vikram,UPI,4.5,Loss,Low Discount
+TZ1038,2024-07-03,July,Q3,LED TV,Display,Mumbai,2,32118,31702,30,64236,58585.3,-5650.7,-9.65,83,Adequate,New,Rahul,EMI,3.4,Loss,High Discount
+TZ1039,2023-11-18,November,Q4,Monitor,Display,Hyderabad,9,11789,22622,30,106101,138955.63,32854.63,23.64,74,Adequate,Returning,Rahul,UPI,3,Profitable,High Discount
+TZ1040,2024-07-05,July,Q3,Washing Machine,Appliances,Delhi,3,29132,23585,15,87396,72771.52,-14624.48,-20.1,49,Adequate,Returning,Meera,Cash,4.6,Loss,Medium Discount
+TZ1041,2023-11-04,November,Q4,Bluetooth Speaker,Audio,Bangalore,11,4345,6844,15,47795,83188.82,35393.82,42.55,54,Adequate,Returning,Vikram,Credit Card,3.8,Profitable,Medium Discount
+TZ1042,2024-11-11,November,Q4,Monitor,Display,Delhi,10,17861,23306,30,178610,233293.06,54683.06,23.44,50,Adequate,Returning,Amit,Credit Card,3.4,Profitable,High Discount
+TZ1043,2024-08-16,August,Q3,Refrigerator,Appliances,Bangalore,4,46952,51977,10,187808,205828.92,18020.92,8.76,42,Adequate,Returning,Meera,Credit Card,4.5,Profitable,Low Discount
+TZ1044,2023-10-18,October,Q4,Bluetooth Speaker,Audio,Hyderabad,6,1765,5348,10,10590,28157.22,17567.22,62.39,24,Low,New,Priya,Cash,3.6,Profitable,Low Discount
+TZ1045,2024-05-01,May,Q2,Refrigerator,Appliances,Mumbai,4,45160,64272,10,180640,277655.04,97015.04,34.94,55,Adequate,Loyal,Sneha,UPI,4.1,Profitable,Low Discount
+TZ1046,2023-06-01,June,Q2,Washing Machine,Appliances,Mumbai,1,40507,46862,10,40507,50610.96,10103.96,19.96,21,Low,Loyal,Vikram,UPI,3.6,Profitable,Low Discount
+TZ1047,2023-09-13,September,Q3,Desktop PC,Computing,Chennai,3,55450,66808,10,166350,153324.36,-13025.64,-8.5,58,Adequate,Returning,Vikram,EMI,4.1,Loss,Low Discount
+TZ1048,2024-07-15,July,Q3,Headphones,Audio,Delhi,12,9277,9373,10,111324,122486.36,11162.36,9.11,58,Adequate,New,Meera,Debit Card,4.6,Profitable,Low Discount
+TZ1049,2024-06-17,June,Q2,Headphones,Audio,Delhi,5,8706,3269,10,43530,16181.55,-27348.45,-169.01,25,Adequate,Returning,Amit,Debit Card,4.8,Loss,Low Discount
+TZ1050,2023-03-24,March,Q1,Tablet,Computing,Delhi,4,24551,37739,5,98204,157749.02,59545.02,37.75,55,Adequate,New,Rahul,UPI,4.1,Profitable,Low Discount
+TZ1051,2024-07-09,July,Q3,Headphones,Audio,Chennai,1,4888,8883,15,4888,7059.76,2171.76,30.76,59,Adequate,Loyal,Meera,Cash,4.8,Profitable,Medium Discount
+TZ1052,2024-08-12,August,Q3,Monitor,Display,Chennai,1,19526,19784,25,19526,13873.53,-5652.47,-40.74,103,Overstocked,Loyal,Meera,EMI,3.8,Loss,High Discount
+TZ1053,2023-08-14,August,Q3,Headphones,Audio,Delhi,5,8640,9956,0,43200,60233.8,17033.8,28.28,34,Adequate,Returning,Meera,UPI,4.6,Profitable,No Discount
+TZ1054,2024-04-23,April,Q2,Tablet,Computing,Hyderabad,1,24911,34395,0,24911,25796.25,885.25,3.43,15,Low,Loyal,Sneha,Credit Card,4.8,Profitable,No Discount
+TZ1055,2023-07-06,July,Q3,Laptop,Computing,Bangalore,7,56453,58871,15,395171,385310.7,-9860.3,-2.56,30,Adequate,Returning,Sneha,Debit Card,4.6,Loss,Medium Discount
+TZ1056,2024-03-07,March,Q1,Smartwatch,Mobile,Mumbai,8,3317,16272,0,26536,156211.2,129675.2,83.01,13,Low,New,Meera,Cash,4.7,Profitable,No Discount
+TZ1057,2024-10-29,October,Q4,Laptop,Computing,Mumbai,4,48065,99999,0,192260,623993.76,431733.76,69.19,49,Adequate,New,Priya,Credit Card,4.2,Profitable,No Discount
+TZ1058,2023-04-28,April,Q2,Refrigerator,Appliances,Delhi,4,34793,47175,10,139172,186813,47641,25.5,48,Adequate,Loyal,Meera,Cash,4.7,Profitable,Low Discount
+TZ1059,2023-06-17,June,Q2,Smartwatch,Mobile,Mumbai,10,3420,19218,10,34200,207554.4,173354.4,83.52,20,Low,Loyal,Sneha,UPI,4.9,Profitable,Low Discount
+TZ1060,2023-07-23,July,Q3,Desktop PC,Computing,Hyderabad,4,31678,51764,0,126712,170821.2,44109.2,25.82,60,Adequate,Loyal,Rahul,Debit Card,4.3,Profitable,No Discount
+TZ1061,2024-11-08,November,Q4,LED TV,Display,Mumbai,9,57437,42362,10,516933,535286.23,18353.23,3.43,103,Overstocked,Returning,Rahul,UPI,4.9,Profitable,Low Discount
+TZ1062,2024-10-12,October,Q4,Headphones,Audio,Delhi,7,4385,14022,10,30695,126324.2,95629.2,75.7,49,Adequate,Loyal,Sneha,UPI,4.2,Profitable,Low Discount
+TZ1063,2024-08-29,August,Q3,Smartwatch,Mobile,Bangalore,14,7022,17610,0,98308,271194,172886,63.75,10,Low,Returning,Priya,UPI,4.4,Profitable,No Discount
+TZ1064,2024-11-15,November,Q4,Monitor,Display,Bangalore,1,24197,20650,15,24197,22818.25,-1378.75,-6.04,112,Overstocked,New,Amit,Debit Card,4,Loss,Medium Discount
+TZ1065,2024-09-02,September,Q3,Air Conditioner,Appliances,Bangalore,5,25665,65857,10,128325,296356.5,168031.5,56.7,15,Low,New,Meera,UPI,4.2,Profitable,Low Discount
+TZ1066,2023-09-04,September,Q3,Air Conditioner,Appliances,Chennai,4,54371,33130,5,217484,107009.9,-110474.1,-103.24,28,Adequate,New,Sneha,Credit Card,4,Loss,Low Discount
+TZ1067,2024-08-18,August,Q3,LED TV,Display,Chennai,9,49794,42528,25,448146,268404.84,-179741.16,-66.97,145,Overstocked,Loyal,Amit,Debit Card,3.7,Loss,High Discount
+TZ1068,2023-10-05,October,Q4,Smartwatch,Mobile,Bangalore,4,4976,15817,5,19904,78135.98,58231.98,74.53,12,Low,New,Meera,EMI,4.9,Profitable,Low Discount
+TZ1069,2024-12-07,December,Q4,Tablet,Computing,Delhi,4,27866,24060,10,111464,123860.88,12396.88,10.01,16,Low,New,Amit,Credit Card,4,Profitable,Low Discount
+TZ1070,2023-11-06,November,Q4,Laptop,Computing,Hyderabad,3,52977,47982,0,158931,140347.35,-18583.65,-13.24,45,Adequate,Returning,Meera,Credit Card,4.5,Loss,No Discount
+TZ1071,2024-05-17,May,Q2,Desktop PC,Computing,Mumbai,5,55762,63373,15,278810,323202.3,44392.3,13.74,31,Adequate,New,Rahul,Debit Card,4.9,Profitable,Medium Discount
+TZ1072,2024-05-04,May,Q2,Desktop PC,Computing,Mumbai,7,57227,36855,0,400589,309582,-91007,-29.4,19,Low,New,Vikram,Debit Card,3.6,Loss,No Discount
+TZ1073,2023-09-12,September,Q3,Desktop PC,Computing,Hyderabad,7,39790,66247,15,278530,295627.24,17097.24,5.78,38,Adequate,Returning,Amit,EMI,5,Profitable,Medium Discount
+TZ1074,2023-11-09,November,Q4,Refrigerator,Appliances,Hyderabad,1,24503,36617,10,24503,32131.42,7628.42,23.74,26,Adequate,Loyal,Rahul,Credit Card,3.9,Profitable,Low Discount
+TZ1075,2024-07-19,July,Q3,Desktop PC,Computing,Delhi,1,51772,61524,15,51772,63277.43,11505.43,18.18,28,Adequate,New,Priya,Debit Card,4.6,Profitable,Medium Discount
+TZ1076,2024-12-20,December,Q4,Headphones,Audio,Mumbai,11,5324,6334,5,58564,103256.87,44692.87,43.28,37,Adequate,New,Vikram,Credit Card,4.5,Profitable,Low Discount
+TZ1077,2023-09-30,September,Q3,Tablet,Computing,Mumbai,1,17436,40972,10,17436,44249.76,26813.76,60.6,48,Adequate,Loyal,Vikram,Debit Card,4.2,Profitable,Low Discount
+TZ1078,2024-04-24,April,Q2,Air Conditioner,Appliances,Bangalore,4,42841,64798,20,171364,207353.6,35989.6,17.36,38,Adequate,New,Vikram,Cash,3.9,Profitable,Medium Discount
+TZ1079,2023-11-27,November,Q4,Refrigerator,Appliances,Bangalore,1,23985,38002,5,23985,46932.47,22947.47,48.89,58,Adequate,Loyal,Amit,EMI,3.6,Profitable,Low Discount
+TZ1080,2023-06-29,June,Q2,Headphones,Audio,Hyderabad,11,8745,6557,5,96195,51390.49,-44804.51,-87.18,47,Adequate,Returning,Meera,UPI,5,Loss,Low Discount
+TZ1081,2024-04-26,April,Q2,LED TV,Display,Chennai,6,36040,63917,10,216240,293379.03,77139.03,26.29,70,Adequate,Returning,Sneha,UPI,3.9,Profitable,Low Discount
+TZ1082,2024-02-15,February,Q1,Bluetooth Speaker,Audio,Mumbai,8,1721,6653,10,13768,57481.92,43713.92,76.05,30,Adequate,New,Sneha,EMI,4.7,Profitable,Low Discount
+TZ1083,2023-01-02,January,Q1,Washing Machine,Appliances,Hyderabad,4,28541,22552,10,114164,60890.4,-53273.6,-87.49,43,Adequate,Returning,Vikram,UPI,4.4,Loss,Low Discount
+TZ1084,2023-02-22,February,Q1,Smartphone,Mobile,Bangalore,9,12293,28876,15,110637,220901.4,110264.4,49.92,17,Low,New,Rahul,EMI,4.7,Profitable,Medium Discount
+TZ1085,2024-12-27,December,Q4,Tablet,Computing,Bangalore,1,30096,28369,0,30096,36879.7,6783.7,18.39,24,Low,New,Sneha,Cash,4.5,Profitable,No Discount
+TZ1086,2023-06-07,June,Q2,Headphones,Audio,Bangalore,9,5979,8807,15,53811,67373.55,13562.55,20.13,40,Adequate,New,Sneha,EMI,3.7,Profitable,Medium Discount
+TZ1087,2023-07-15,July,Q3,Refrigerator,Appliances,Hyderabad,2,22575,41104,20,45150,54257.28,9107.28,16.79,31,Adequate,Loyal,Amit,Cash,3.3,Profitable,Medium Discount
+TZ1088,2023-11-02,November,Q4,Refrigerator,Appliances,Hyderabad,4,27738,52264,20,110952,163063.68,52111.68,31.96,32,Adequate,Returning,Vikram,EMI,3.4,Profitable,Medium Discount
+TZ1089,2023-11-26,November,Q4,Smartphone,Mobile,Delhi,10,20549,25306,15,205490,307594.43,102104.43,33.19,3,Critical,Returning,Meera,UPI,4.6,Profitable,Medium Discount
+TZ1090,2024-01-26,January,Q1,Monitor,Display,Delhi,8,9213,14136,30,73704,87077.76,13373.76,15.36,125,Overstocked,Returning,Rahul,UPI,3.1,Profitable,High Discount
+TZ1091,2024-04-12,April,Q2,Laptop,Computing,Delhi,7,77911,55116,0,545377,424393.2,-120983.8,-28.51,40,Adequate,Returning,Amit,EMI,4.5,Loss,No Discount
+TZ1092,2024-10-27,October,Q4,Desktop PC,Computing,Bangalore,7,45752,73077,15,320264,565250.59,244986.59,43.34,44,Adequate,New,Vikram,Cash,3.9,Profitable,Medium Discount
+TZ1093,2024-12-01,December,Q4,Smartwatch,Mobile,Delhi,12,4480,11110,0,53760,190647.6,136887.6,71.8,5,Critical,Returning,Priya,Debit Card,4.9,Profitable,No Discount
+TZ1094,2023-02-17,February,Q1,LED TV,Display,Mumbai,5,38492,44565,25,192460,200542.5,8082.5,4.03,68,Adequate,New,Vikram,UPI,3.6,Profitable,High Discount
+TZ1095,2023-07-04,July,Q3,Tablet,Computing,Delhi,2,31971,43535,15,63942,89551.5,25609.5,28.6,49,Adequate,Loyal,Priya,UPI,4.9,Profitable,Medium Discount
+TZ1096,2023-05-27,May,Q2,Smartphone,Mobile,Chennai,11,16322,40118,10,179542,337592.97,158050.97,46.82,2,Critical,Returning,Amit,EMI,3.7,Profitable,Low Discount
+TZ1097,2024-03-28,March,Q1,LED TV,Display,Hyderabad,5,56873,47807,20,284365,143421,-140944,-98.27,108,Overstocked,Returning,Priya,UPI,3.9,Loss,Medium Discount
+TZ1098,2023-04-20,April,Q2,Smartphone,Mobile,Chennai,10,19762,47670,10,197620,364675.5,167055.5,45.81,11,Low,New,Meera,UPI,3.9,Profitable,Low Discount
+TZ1099,2024-08-02,August,Q3,Washing Machine,Appliances,Mumbai,5,39417,51553,15,197085,289212.33,92127.33,31.85,59,Adequate,New,Vikram,Debit Card,3.8,Profitable,Medium Discount
+TZ1100,2023-07-14,July,Q3,Refrigerator,Appliances,Bangalore,2,24367,64121,5,48734,134012.89,85278.89,63.63,29,Adequate,Returning,Rahul,EMI,4,Profitable,Low Discount
+TZ1101,2023-05-15,May,Q2,Desktop PC,Computing,Bangalore,6,52230,43510,5,313380,248007,-65373,-26.36,18,Low,Loyal,Amit,EMI,4.3,Loss,Low Discount
+TZ1102,2023-10-07,October,Q4,Tablet,Computing,Bangalore,8,21671,39463,10,173368,369373.68,196005.68,53.06,17,Low,Returning,Rahul,Credit Card,4.6,Profitable,Low Discount
+TZ1103,2023-08-20,August,Q3,Washing Machine,Appliances,Chennai,5,26985,24918,20,134925,93193.32,-41731.68,-44.78,10,Low,Returning,Vikram,Cash,3.5,Loss,Medium Discount
+TZ1104,2024-11-19,November,Q4,Air Conditioner,Appliances,Bangalore,5,49970,73847,15,249850,408004.67,158154.67,38.76,16,Low,Loyal,Priya,UPI,3.5,Profitable,Medium Discount
+TZ1105,2024-07-28,July,Q3,LED TV,Display,Hyderabad,4,57444,24142,25,229776,59751.45,-170024.55,-284.55,139,Overstocked,Returning,Meera,UPI,3.1,Loss,High Discount
+TZ1106,2023-02-16,February,Q1,Laptop,Computing,Bangalore,8,42610,51369,5,340880,390404.4,49524.4,12.69,44,Adequate,New,Sneha,UPI,4.1,Profitable,Low Discount
+TZ1107,2024-12-14,December,Q4,Bluetooth Speaker,Audio,Chennai,10,7080,4031,15,70800,37861.17,-32938.83,-87,51,Adequate,New,Sneha,EMI,4.1,Loss,Medium Discount
+TZ1108,2023-10-14,October,Q4,Laptop,Computing,Bangalore,4,64057,74143,5,256228,366266.42,110038.42,30.04,33,Adequate,New,Meera,Debit Card,4.3,Profitable,Low Discount
+TZ1109,2024-10-22,October,Q4,LED TV,Display,Mumbai,7,33080,32439,10,231560,318810.49,87250.49,27.37,108,Overstocked,New,Meera,Credit Card,4.5,Profitable,Low Discount
+TZ1110,2024-09-03,September,Q3,Laptop,Computing,Mumbai,6,50962,53252,5,305772,364243.68,58471.68,16.05,14,Low,Loyal,Priya,EMI,3.8,Profitable,Low Discount
+TZ1111,2023-08-27,August,Q3,LED TV,Display,Delhi,13,54058,20185,20,702754,254008.04,-448745.96,-176.67,68,Adequate,New,Vikram,Debit Card,3.8,Loss,Medium Discount
+TZ1112,2023-04-23,April,Q2,Washing Machine,Appliances,Mumbai,2,15486,42477,10,30972,91750.32,60778.32,66.24,47,Adequate,Returning,Rahul,Credit Card,3.9,Profitable,Low Discount
+TZ1113,2023-05-10,May,Q2,Air Conditioner,Appliances,Chennai,5,32448,36165,20,162240,122961,-39279,-31.94,38,Adequate,Returning,Vikram,EMI,3.1,Loss,Medium Discount
+TZ1114,2024-05-30,May,Q2,Smartphone,Mobile,Hyderabad,1,31830,44173,10,31830,29816.78,-2013.22,-6.75,16,Low,Loyal,Rahul,Cash,5,Loss,Low Discount
+TZ1115,2024-02-16,February,Q1,Monitor,Display,Mumbai,8,22534,12408,10,180272,107205.12,-73066.88,-68.16,91,Adequate,Loyal,Priya,Cash,3.7,Loss,Low Discount
+TZ1116,2024-10-01,October,Q4,Washing Machine,Appliances,Hyderabad,5,38335,40311,20,191675,157212.9,-34462.1,-21.92,48,Adequate,Loyal,Amit,UPI,3.5,Loss,Medium Discount
+TZ1117,2024-03-16,March,Q1,Desktop PC,Computing,Mumbai,4,53185,61593,5,212740,280864.08,68124.08,24.26,36,Adequate,Returning,Sneha,UPI,4.1,Profitable,Low Discount
+TZ1118,2023-04-08,April,Q2,LED TV,Display,Chennai,6,58588,36704,20,351528,149752.32,-201775.68,-134.74,69,Adequate,Loyal,Sneha,Cash,3.1,Loss,Medium Discount
+TZ1119,2023-03-29,March,Q1,Desktop PC,Computing,Chennai,2,49421,40527,0,98842,68895.9,-29946.1,-43.47,47,Adequate,Loyal,Vikram,Debit Card,4.5,Loss,No Discount
+TZ1120,2024-02-25,February,Q1,LED TV,Display,Chennai,14,18371,38850,30,257194,323620.5,66426.5,20.53,89,Adequate,Returning,Rahul,EMI,3.5,Profitable,High Discount
+TZ1121,2023-06-08,June,Q2,Washing Machine,Appliances,Chennai,2,42763,26092,15,85526,37702.94,-47823.06,-126.84,45,Adequate,Returning,Rahul,Debit Card,4.4,Loss,Medium Discount
+TZ1122,2024-03-15,March,Q1,Bluetooth Speaker,Audio,Hyderabad,10,6529,1930,10,65290,13027.5,-52262.5,-401.17,11,Low,New,Amit,Debit Card,4.9,Loss,Low Discount
+TZ1123,2023-12-26,December,Q4,Laptop,Computing,Delhi,3,72114,88079,15,216342,321180.07,104838.07,32.64,14,Low,New,Meera,Cash,3.6,Profitable,Medium Discount
+TZ1124,2024-06-27,June,Q2,Smartphone,Mobile,Chennai,7,22865,32340,5,160055,182801.85,22746.85,12.44,13,Low,Returning,Meera,Debit Card,4.7,Profitable,Low Discount
+TZ1125,2024-08-04,August,Q3,Refrigerator,Appliances,Mumbai,1,28196,33316,5,28196,41778.26,13582.26,32.51,53,Adequate,New,Amit,UPI,4.5,Profitable,Low Discount
+TZ1126,2024-05-12,May,Q2,Refrigerator,Appliances,Chennai,4,35902,37127,5,143608,119920.21,-23687.79,-19.75,32,Adequate,Returning,Rahul,Debit Card,4.5,Loss,Low Discount
+TZ1127,2024-08-30,August,Q3,Headphones,Audio,Hyderabad,11,6553,2744,5,72083,23656.71,-48426.29,-204.7,35,Adequate,Loyal,Rahul,Cash,3.8,Loss,Low Discount
+TZ1128,2023-08-05,August,Q3,Tablet,Computing,Bangalore,5,22751,18931,0,113755,104120.5,-9634.5,-9.25,41,Adequate,Loyal,Sneha,Credit Card,3.7,Loss,No Discount
+TZ1129,2024-06-29,June,Q2,Air Conditioner,Appliances,Delhi,5,48210,36723,20,241050,161581.2,-79468.8,-49.18,57,Adequate,New,Sneha,Cash,3.5,Loss,Medium Discount
+TZ1130,2023-03-21,March,Q1,LED TV,Display,Hyderabad,7,52578,46504,25,368046,183109.5,-184936.5,-101,87,Adequate,New,Sneha,Cash,4,Loss,High Discount
+TZ1131,2023-06-25,June,Q2,Refrigerator,Appliances,Chennai,3,23775,51620,5,71325,125049.45,53724.45,42.96,25,Adequate,Returning,Vikram,UPI,4.3,Profitable,Low Discount
+TZ1132,2024-02-10,February,Q1,Smartwatch,Mobile,Bangalore,4,8456,16765,5,33824,63707,29883,46.91,4,Critical,Loyal,Meera,Cash,4.3,Profitable,Low Discount
+TZ1133,2023-07-18,July,Q3,LED TV,Display,Bangalore,12,57299,73414,15,687588,823705.08,136117.08,16.52,80,Adequate,New,Priya,Debit Card,3.8,Profitable,Medium Discount
+TZ1134,2024-09-08,September,Q3,Tablet,Computing,Mumbai,3,32576,31191,15,97728,95444.46,-2283.54,-2.39,58,Adequate,Loyal,Vikram,UPI,4.5,Loss,Medium Discount
+TZ1135,2024-08-01,August,Q3,Washing Machine,Appliances,Hyderabad,3,43319,39718,10,129957,88471.85,-41485.15,-46.89,38,Adequate,New,Sneha,UPI,4.4,Loss,Low Discount
+TZ1136,2023-10-09,October,Q4,Refrigerator,Appliances,Mumbai,3,51248,27862,15,153744,110835.04,-42908.96,-38.71,39,Adequate,Returning,Rahul,Cash,4.1,Loss,Medium Discount
+TZ1137,2023-10-21,October,Q4,Desktop PC,Computing,Mumbai,7,55324,70032,0,387268,764749.44,377481.44,49.36,38,Adequate,Loyal,Meera,Credit Card,4,Profitable,No Discount
+TZ1138,2024-05-02,May,Q2,Bluetooth Speaker,Audio,Delhi,1,4690,3195,10,4690,3163.05,-1526.95,-48.27,55,Adequate,New,Vikram,Credit Card,3.6,Loss,Low Discount
+TZ1139,2024-12-25,December,Q4,Headphones,Audio,Chennai,9,10064,11991,5,90576,113287.97,22711.97,20.05,33,Adequate,Returning,Amit,UPI,4.1,Profitable,Low Discount
+TZ1140,2023-12-13,December,Q4,Washing Machine,Appliances,Hyderabad,1,40861,40931,5,40861,37912.34,-2948.66,-7.78,31,Adequate,New,Vikram,UPI,3.9,Loss,Low Discount
+TZ1141,2024-11-03,November,Q4,Refrigerator,Appliances,Delhi,3,23341,61190,10,70023,236254.59,166231.59,70.36,32,Adequate,Returning,Meera,UPI,3.7,Profitable,Low Discount
+TZ1142,2024-12-26,December,Q4,Desktop PC,Computing,Bangalore,7,46527,40375,0,325689,367412.5,41723.5,11.36,51,Adequate,Loyal,Sneha,EMI,4,Profitable,No Discount
+TZ1143,2024-01-07,January,Q1,Smartwatch,Mobile,Delhi,4,8598,19526,15,34392,73027.24,38635.24,52.91,8,Critical,New,Priya,Credit Card,3.6,Profitable,Medium Discount
+TZ1144,2023-04-14,April,Q2,Bluetooth Speaker,Audio,Hyderabad,14,7050,2118,10,98700,20015.1,-78684.9,-393.13,59,Adequate,Loyal,Priya,EMI,4.1,Loss,Low Discount
+TZ1145,2023-06-16,June,Q2,Tablet,Computing,Hyderabad,3,26341,16431,15,79023,31424.29,-47598.71,-151.47,33,Adequate,Loyal,Meera,Credit Card,5,Loss,Medium Discount
+TZ1146,2024-09-17,September,Q3,Smartwatch,Mobile,Chennai,4,11749,7918,10,46996,24229.08,-22766.92,-93.97,17,Low,New,Amit,EMI,5,Loss,Low Discount
+TZ1147,2024-04-17,April,Q2,Smartwatch,Mobile,Chennai,9,11641,10859,5,104769,78917.78,-25851.22,-32.76,8,Critical,Loyal,Priya,Debit Card,3.6,Loss,Low Discount
+TZ1148,2024-05-07,May,Q2,LED TV,Display,Hyderabad,15,21723,66622,30,325845,524648.25,198803.25,37.89,65,Adequate,Returning,Rahul,Credit Card,3.3,Profitable,High Discount
+TZ1149,2024-06-09,June,Q2,Tablet,Computing,Chennai,2,19275,41761,15,38550,60344.64,21794.64,36.12,32,Adequate,New,Sneha,Cash,4.1,Profitable,Medium Discount
+TZ1150,2024-01-18,January,Q1,Smartphone,Mobile,Chennai,2,20285,24715,0,40570,42015.5,1445.5,3.44,12,Low,New,Meera,Debit Card,4.7,Profitable,No Discount
+TZ1151,2023-05-21,May,Q2,Laptop,Computing,Bangalore,8,44095,94731,15,352760,644170.8,291410.8,45.24,38,Adequate,Loyal,Rahul,Cash,3.5,Profitable,Medium Discount
+TZ1152,2023-08-09,August,Q3,Tablet,Computing,Hyderabad,7,15643,40433,10,109501,210150.52,100649.52,47.89,25,Adequate,Returning,Rahul,Cash,3.9,Profitable,Low Discount
+TZ1153,2024-10-16,October,Q4,Refrigerator,Appliances,Chennai,1,25265,55756,5,25265,58529.86,33264.86,56.83,50,Adequate,Loyal,Vikram,Credit Card,4.6,Profitable,Low Discount
+TZ1154,2023-10-26,October,Q4,Monitor,Display,Mumbai,10,19561,17882,30,195610,195271.44,-338.56,-0.17,103,Overstocked,New,Meera,Cash,3.5,Loss,High Discount
+TZ1155,2024-01-05,January,Q1,Desktop PC,Computing,Hyderabad,1,50588,62810,0,50588,47107.5,-3480.5,-7.39,50,Adequate,Returning,Amit,Debit Card,4.6,Loss,No Discount
+TZ1156,2024-01-01,January,Q1,Desktop PC,Computing,Bangalore,4,31793,70135,10,127172,252486,125314,49.63,18,Low,New,Amit,EMI,4,Profitable,Low Discount
+TZ1157,2024-10-20,October,Q4,Tablet,Computing,Chennai,8,32700,20972,5,261600,176122.86,-85477.14,-48.53,14,Low,Loyal,Sneha,Cash,3.9,Loss,Low Discount
+TZ1158,2023-02-14,February,Q1,Smartphone,Mobile,Mumbai,6,38584,30321,15,231504,185564.52,-45939.48,-24.76,19,Low,Returning,Amit,Cash,4.6,Loss,Medium Discount
+TZ1159,2023-07-15,July,Q3,Smartwatch,Mobile,Bangalore,14,3783,18185,10,52962,252044.1,199082.1,78.99,10,Low,New,Amit,UPI,4.8,Profitable,Low Discount
+TZ1160,2024-03-26,March,Q1,Monitor,Display,Bangalore,3,24259,26302,20,72777,63124.8,-9652.2,-15.29,116,Overstocked,Returning,Rahul,UPI,3.1,Loss,Medium Discount
+TZ1161,2024-09-08,September,Q3,Tablet,Computing,Hyderabad,5,22525,18361,0,112625,68853.75,-43771.25,-63.57,30,Adequate,Loyal,Amit,Debit Card,4.2,Loss,No Discount
+TZ1162,2024-03-12,March,Q1,Tablet,Computing,Chennai,6,26651,16387,10,159906,75216.33,-84689.67,-112.59,49,Adequate,Returning,Amit,Cash,3.6,Loss,Low Discount
+TZ1163,2024-10-14,October,Q4,Monitor,Display,Bangalore,9,13242,11020,15,119178,109593.9,-9584.1,-8.75,127,Overstocked,Loyal,Sneha,Cash,3.7,Loss,Medium Discount
+TZ1164,2023-08-30,August,Q3,Washing Machine,Appliances,Bangalore,3,27545,56174,5,82635,176105.49,93470.49,53.08,48,Adequate,New,Meera,UPI,4.9,Profitable,Low Discount
+TZ1165,2024-01-16,January,Q1,Headphones,Audio,Mumbai,10,3755,10674,10,37550,115279.2,77729.2,67.43,35,Adequate,Returning,Meera,Debit Card,3.9,Profitable,Low Discount
+TZ1166,2023-04-27,April,Q2,Laptop,Computing,Delhi,8,68930,70361,0,551440,619176.8,67736.8,10.94,26,Adequate,Returning,Meera,UPI,3.8,Profitable,No Discount
+TZ1167,2024-09-18,September,Q3,Smartwatch,Mobile,Chennai,4,5009,6223,0,20036,21158.2,1122.2,5.3,16,Low,New,Meera,UPI,5,Profitable,No Discount
+TZ1168,2024-11-29,November,Q4,LED TV,Display,Bangalore,12,19255,56044,30,231060,612000.48,380940.48,62.25,87,Adequate,Returning,Priya,Credit Card,3.8,Profitable,High Discount
+TZ1169,2024-06-04,June,Q2,Smartphone,Mobile,Mumbai,4,33954,19101,5,135816,87100.56,-48715.44,-55.93,17,Low,New,Amit,EMI,4.4,Loss,Low Discount
+TZ1170,2024-04-23,April,Q2,Bluetooth Speaker,Audio,Delhi,10,1706,2577,10,17060,25512.3,8452.3,33.13,35,Adequate,Loyal,Meera,UPI,4.3,Profitable,Low Discount
+TZ1171,2024-02-24,February,Q1,Refrigerator,Appliances,Mumbai,2,38776,65096,5,77552,148418.88,70866.88,47.75,38,Adequate,Returning,Meera,EMI,4,Profitable,Low Discount
+TZ1172,2024-07-18,July,Q3,Washing Machine,Appliances,Hyderabad,2,40158,27456,20,80316,36241.92,-44074.08,-121.61,42,Adequate,New,Rahul,EMI,3.2,Loss,Medium Discount
+TZ1173,2023-06-18,June,Q2,Tablet,Computing,Bangalore,4,23338,32003,10,93352,115210.8,21858.8,18.97,15,Low,Returning,Priya,EMI,3.9,Profitable,Low Discount
+TZ1174,2024-10-02,October,Q4,Smartwatch,Mobile,Hyderabad,9,4530,12234,5,40770,101985.68,61215.68,60.02,20,Low,Loyal,Priya,Credit Card,4.5,Profitable,Low Discount
+TZ1175,2024-09-11,September,Q3,LED TV,Display,Hyderabad,1,16859,25323,10,16859,17093.03,234.03,1.37,132,Overstocked,Loyal,Amit,Credit Card,4.7,Profitable,Low Discount
+TZ1176,2024-03-02,March,Q1,Refrigerator,Appliances,Mumbai,4,53754,41983,15,215016,171290.64,-43725.36,-25.53,40,Adequate,New,Meera,UPI,3.9,Loss,Medium Discount
+TZ1177,2023-03-16,March,Q1,Air Conditioner,Appliances,Mumbai,2,53809,59238,20,107618,113736.96,6118.96,5.38,39,Adequate,New,Amit,EMI,3.1,Profitable,Medium Discount
+TZ1178,2023-11-23,November,Q4,Air Conditioner,Appliances,Bangalore,4,33569,56283,5,134276,278038.02,143762.02,51.71,30,Adequate,New,Sneha,Cash,3.9,Profitable,Low Discount
+TZ1179,2023-09-11,September,Q3,Tablet,Computing,Mumbai,1,21509,27587,15,21509,28138.74,6629.74,23.56,25,Adequate,New,Amit,EMI,4.6,Profitable,Medium Discount
+TZ1180,2023-07-14,July,Q3,Tablet,Computing,Chennai,8,28343,43805,10,226744,294895.26,68151.26,23.11,41,Adequate,New,Rahul,UPI,4.3,Profitable,Low Discount
+TZ1181,2023-09-04,September,Q3,Smartphone,Mobile,Hyderabad,6,9594,13312,10,57564,53913.6,-3650.4,-6.77,17,Low,Loyal,Meera,UPI,3.9,Loss,Low Discount
+TZ1182,2023-01-09,January,Q1,Desktop PC,Computing,Chennai,3,42332,55971,15,126996,121317.14,-5678.86,-4.68,33,Adequate,New,Sneha,Cash,4.4,Loss,Medium Discount
+TZ1183,2023-07-19,July,Q3,LED TV,Display,Hyderabad,5,19818,45319,30,99090,130858.61,31768.61,24.28,107,Overstocked,Loyal,Amit,EMI,3.7,Profitable,High Discount
+TZ1184,2023-05-02,May,Q2,Tablet,Computing,Mumbai,7,24228,41047,10,169596,310315.32,140719.32,45.35,45,Adequate,Returning,Priya,Credit Card,4.4,Profitable,Low Discount
+TZ1185,2024-02-16,February,Q1,Bluetooth Speaker,Audio,Mumbai,1,1318,3745,10,1318,4044.6,2726.6,67.41,40,Adequate,Loyal,Sneha,Credit Card,4.4,Profitable,Low Discount
+TZ1186,2024-06-11,June,Q2,Tablet,Computing,Bangalore,6,17324,27876,10,103944,150530.4,46586.4,30.95,47,Adequate,Returning,Vikram,EMI,4.3,Profitable,Low Discount
+TZ1187,2024-12-26,December,Q4,Refrigerator,Appliances,Bangalore,4,19090,47140,15,76360,208358.8,131998.8,63.35,53,Adequate,New,Sneha,EMI,4,Profitable,Medium Discount
+TZ1188,2024-12-05,December,Q4,Washing Machine,Appliances,Mumbai,5,30551,36401,10,152755,255535.02,102780.02,40.22,56,Adequate,New,Vikram,UPI,3.8,Profitable,Low Discount
+TZ1189,2024-10-06,October,Q4,Air Conditioner,Appliances,Hyderabad,4,34684,47872,5,138736,177365.76,38629.76,21.78,46,Adequate,Loyal,Rahul,Credit Card,3.5,Profitable,Low Discount
+TZ1190,2023-11-18,November,Q4,Monitor,Display,Delhi,7,14681,23447,30,102767,164293.13,61526.13,37.45,149,Overstocked,Loyal,Sneha,Cash,3.7,Profitable,High Discount
+TZ1191,2024-06-15,June,Q2,Smartphone,Mobile,Hyderabad,6,29699,41350,15,178194,158163.75,-20030.25,-12.66,12,Low,New,Sneha,EMI,4,Loss,Medium Discount
+TZ1192,2023-12-29,December,Q4,Washing Machine,Appliances,Bangalore,5,30865,31600,10,154325,184860,30535,16.52,27,Adequate,Loyal,Amit,Credit Card,4.9,Profitable,Low Discount
+TZ1193,2023-11-01,November,Q4,Smartwatch,Mobile,Delhi,12,14550,12011,10,174600,185497.88,10897.88,5.87,17,Low,Returning,Vikram,Debit Card,3.9,Profitable,Low Discount
+TZ1194,2024-08-10,August,Q3,Washing Machine,Appliances,Hyderabad,4,44352,44856,15,177408,125821.08,-51586.92,-41,59,Adequate,New,Amit,Cash,3.9,Loss,Medium Discount
+TZ1195,2023-03-22,March,Q1,LED TV,Display,Chennai,11,31806,68977,25,349866,483701.21,133835.21,27.67,77,Adequate,New,Vikram,Debit Card,3.9,Profitable,High Discount
+TZ1196,2024-12-13,December,Q4,Smartwatch,Mobile,Delhi,2,13087,16138,5,26174,43846.95,17672.95,40.31,9,Critical,New,Meera,EMI,3.8,Profitable,Low Discount
+TZ1197,2023-08-27,August,Q3,Laptop,Computing,Mumbai,7,56646,92012,15,396522,722662.25,326140.25,45.13,16,Low,Loyal,Priya,Cash,4.9,Profitable,Medium Discount
+TZ1198,2023-06-11,June,Q2,Monitor,Display,Chennai,8,14535,19412,20,116280,105601.28,-10678.72,-10.11,86,Adequate,Loyal,Rahul,Cash,3.7,Loss,Medium Discount
+TZ1199,2023-08-26,August,Q3,Bluetooth Speaker,Audio,Mumbai,15,2434,8346,5,36510,156988.26,120478.26,76.74,12,Low,Returning,Sneha,Credit Card,4.9,Profitable,Low Discount
+TZ1200,2023-10-24,October,Q4,Laptop,Computing,Mumbai,5,72221,84503,0,361105,659123.4,298018.4,45.21,31,Adequate,Returning,Sneha,EMI,4.3,Profitable,No Discount
+TZ1201,2023-05-18,May,Q2,Bluetooth Speaker,Audio,Chennai,5,2579,3345,10,12895,12794.62,-100.38,-0.78,20,Low,Loyal,Sneha,Debit Card,4.6,Loss,Low Discount
+TZ1202,2023-01-15,January,Q1,Air Conditioner,Appliances,Bangalore,3,37659,43501,20,112977,104402.4,-8574.6,-8.21,37,Adequate,Loyal,Amit,Cash,3.4,Loss,Medium Discount
+TZ1203,2023-04-08,April,Q2,Tablet,Computing,Delhi,8,22603,23128,0,180824,203526.4,22702.4,11.15,26,Adequate,Returning,Priya,UPI,4.6,Profitable,No Discount
+TZ1204,2023-12-04,December,Q4,Smartwatch,Mobile,Hyderabad,12,12386,4187,10,148632,44089.11,-104542.89,-237.12,13,Low,Loyal,Priya,Cash,4.5,Loss,Low Discount
+TZ1205,2024-04-21,April,Q2,Smartwatch,Mobile,Delhi,7,14240,12233,10,99680,84774.69,-14905.31,-17.58,5,Critical,Loyal,Amit,Debit Card,4.4,Loss,Low Discount
+TZ1206,2023-08-13,August,Q3,Tablet,Computing,Chennai,3,26908,39501,10,80724,99720.27,18996.27,19.05,36,Adequate,Loyal,Vikram,UPI,4.6,Profitable,Low Discount
+TZ1207,2024-11-11,November,Q4,Smartphone,Mobile,Delhi,11,32731,49047,0,360041,771509.31,411468.31,53.33,18,Low,Returning,Vikram,Debit Card,3.6,Profitable,No Discount
+TZ1208,2024-07-31,July,Q3,Desktop PC,Computing,Mumbai,4,34820,42783,10,139280,203304.82,64024.82,31.49,43,Adequate,Returning,Rahul,Credit Card,4.6,Profitable,Low Discount
+TZ1209,2024-05-15,May,Q2,Desktop PC,Computing,Hyderabad,8,28646,61716,5,229168,351781.2,122613.2,34.85,42,Adequate,Returning,Sneha,EMI,3.6,Profitable,Low Discount
+TZ1210,2024-04-18,April,Q2,Washing Machine,Appliances,Bangalore,1,27974,35676,5,27974,33892.2,5918.2,17.46,57,Adequate,New,Vikram,Cash,3.6,Profitable,Low Discount
+TZ1211,2023-12-19,December,Q4,Air Conditioner,Appliances,Mumbai,5,28948,36523,20,144740,227903.52,83163.52,36.49,12,Low,Returning,Sneha,Credit Card,3.8,Profitable,Medium Discount
+TZ1212,2024-10-18,October,Q4,Air Conditioner,Appliances,Chennai,3,50066,61395,20,150198,162819.54,12621.54,7.75,34,Adequate,New,Meera,EMI,3.1,Profitable,Medium Discount
+TZ1213,2023-12-23,December,Q4,Desktop PC,Computing,Delhi,7,59658,40345,5,417606,383660.78,-33945.22,-8.85,10,Low,New,Amit,UPI,4.5,Loss,Low Discount
+TZ1214,2024-07-11,July,Q3,Monitor,Display,Hyderabad,7,15525,18110,25,108675,78438.94,-30236.06,-38.55,94,Adequate,New,Amit,Credit Card,3.9,Loss,High Discount
+TZ1215,2023-04-26,April,Q2,Laptop,Computing,Chennai,1,50772,58505,0,50772,49729.25,-1042.75,-2.1,16,Low,Loyal,Rahul,UPI,4.4,Loss,No Discount
+TZ1216,2024-12-21,December,Q4,Laptop,Computing,Delhi,1,61362,73767,5,61362,100212.47,38850.47,38.77,44,Adequate,New,Rahul,Credit Card,4.3,Profitable,Low Discount
+TZ1217,2023-10-24,October,Q4,Smartphone,Mobile,Hyderabad,6,26922,49185,10,161532,258959.03,97427.03,37.62,9,Critical,Returning,Priya,EMI,3.8,Profitable,Low Discount
+TZ1218,2023-11-04,November,Q4,Smartwatch,Mobile,Mumbai,9,12693,18413,5,114237,245592.59,131355.59,53.49,15,Low,Loyal,Sneha,Cash,5,Profitable,Low Discount
+TZ1219,2024-10-20,October,Q4,Washing Machine,Appliances,Chennai,5,25444,46284,20,127220,204575.28,77355.28,37.81,19,Low,Returning,Sneha,Credit Card,3.8,Profitable,Medium Discount
+TZ1220,2024-04-29,April,Q2,Smartphone,Mobile,Delhi,5,36099,19460,15,180495,90975.5,-89519.5,-98.4,3,Critical,Loyal,Sneha,UPI,4.3,Loss,Medium Discount
+TZ1221,2023-05-18,May,Q2,Monitor,Display,Delhi,5,14662,20822,10,73310,103068.9,29758.9,28.87,107,Overstocked,Returning,Rahul,EMI,4.6,Profitable,Low Discount
+TZ1222,2023-07-15,July,Q3,Laptop,Computing,Bangalore,7,79149,84647,0,554043,651781.9,97738.9,15,14,Low,New,Vikram,EMI,3.8,Profitable,No Discount
+TZ1223,2023-08-02,August,Q3,LED TV,Display,Bangalore,15,16004,33881,15,240060,475181.03,235121.03,49.48,144,Overstocked,New,Meera,UPI,4.9,Profitable,Medium Discount
+TZ1224,2024-12-13,December,Q4,Refrigerator,Appliances,Delhi,4,33684,59181,15,134736,287738.02,153002.02,53.17,59,Adequate,Returning,Sneha,UPI,4.3,Profitable,Medium Discount
+TZ1225,2024-01-03,January,Q1,Smartwatch,Mobile,Bangalore,6,11401,18463,15,68406,94161.3,25755.3,27.35,16,Low,New,Meera,UPI,4.6,Profitable,Medium Discount
+TZ1226,2023-11-24,November,Q4,Smartphone,Mobile,Bangalore,6,21563,12996,5,129378,96300.36,-33077.64,-34.35,6,Critical,New,Amit,EMI,4.9,Loss,Low Discount
+TZ1227,2024-08-16,August,Q3,Air Conditioner,Appliances,Chennai,3,34988,44857,15,104964,106950.3,1986.3,1.86,24,Low,Returning,Vikram,Credit Card,4.2,Profitable,Medium Discount
+TZ1228,2024-11-01,November,Q4,Washing Machine,Appliances,Bangalore,3,40013,51022,20,120039,159188.64,39149.64,24.59,39,Adequate,New,Meera,Debit Card,3.2,Profitable,Medium Discount
+TZ1229,2024-07-13,July,Q3,Headphones,Audio,Delhi,15,10382,12515,0,155730,227147.25,71417.25,31.44,43,Adequate,New,Rahul,Cash,4.6,Profitable,No Discount
+TZ1230,2024-02-27,February,Q1,Tablet,Computing,Delhi,2,16948,15299,5,33896,31974.91,-1921.09,-6.01,42,Adequate,Returning,Amit,Cash,4.4,Loss,Low Discount
+TZ1231,2024-11-13,November,Q4,Refrigerator,Appliances,Chennai,4,19030,23433,20,76120,82859.09,6739.09,8.13,10,Low,New,Vikram,Debit Card,3.5,Profitable,Medium Discount
+TZ1232,2023-10-21,October,Q4,Laptop,Computing,Hyderabad,7,46748,52013,0,327236,354988.73,27752.73,7.82,43,Adequate,New,Priya,Credit Card,4.4,Profitable,No Discount
+TZ1233,2023-09-16,September,Q3,LED TV,Display,Bangalore,13,41011,25178,20,533143,261851.2,-271291.8,-103.61,101,Overstocked,Returning,Vikram,Credit Card,4,Loss,Medium Discount
+TZ1234,2023-08-20,August,Q3,Smartwatch,Mobile,Mumbai,11,13647,16445,0,150117,238781.4,88664.4,37.13,4,Critical,Returning,Sneha,UPI,4.3,Profitable,No Discount
+TZ1235,2023-02-27,February,Q1,Washing Machine,Appliances,Mumbai,2,17709,51758,20,35418,99375.36,63957.36,64.36,51,Adequate,Returning,Vikram,Cash,3.9,Profitable,Medium Discount
+TZ1236,2023-02-13,February,Q1,Smartphone,Mobile,Delhi,15,36446,47144,15,546690,661194.6,114504.6,17.32,10,Low,New,Rahul,Debit Card,4.8,Profitable,Medium Discount
+TZ1237,2024-07-31,July,Q3,Washing Machine,Appliances,Mumbai,2,42866,39610,5,85732,99341.88,13609.88,13.7,23,Low,Loyal,Priya,UPI,4.9,Profitable,Low Discount
+TZ1238,2023-11-03,November,Q4,Tablet,Computing,Hyderabad,4,30569,42349,15,122276,140386.94,18110.94,12.9,53,Adequate,Loyal,Amit,UPI,4.6,Profitable,Medium Discount
+TZ1239,2023-05-24,May,Q2,Air Conditioner,Appliances,Mumbai,5,47666,35519,5,238330,202458.3,-35871.7,-17.72,37,Adequate,New,Rahul,Debit Card,4.4,Loss,Low Discount
+TZ1240,2024-09-20,September,Q3,Refrigerator,Appliances,Chennai,3,19941,64557,15,59823,139927.3,80104.3,57.25,60,Adequate,Returning,Sneha,Credit Card,4,Profitable,Medium Discount
+TZ1241,2024-01-20,January,Q1,Monitor,Display,Delhi,11,20454,12808,30,224994,108483.76,-116510.24,-107.4,87,Adequate,New,Meera,Cash,3.1,Loss,High Discount
+TZ1242,2023-06-07,June,Q2,Monitor,Display,Delhi,12,20767,20376,20,249204,215170.56,-34033.44,-15.82,63,Adequate,New,Rahul,Debit Card,3.4,Loss,Medium Discount
+TZ1243,2023-10-04,October,Q4,Desktop PC,Computing,Delhi,2,37280,60244,15,74560,146453.16,71893.16,49.09,45,Adequate,Loyal,Vikram,UPI,3.7,Profitable,Medium Discount
+TZ1244,2023-04-02,April,Q2,LED TV,Display,Hyderabad,2,54120,59193,20,108240,71031.6,-37208.4,-52.38,99,Adequate,New,Amit,UPI,3.4,Loss,Medium Discount
+TZ1245,2023-03-28,March,Q1,Air Conditioner,Appliances,Hyderabad,2,59151,43113,20,118302,51735.6,-66566.4,-128.67,20,Low,New,Amit,Debit Card,3.3,Loss,Medium Discount
+TZ1246,2023-05-30,May,Q2,Desktop PC,Computing,Delhi,7,43085,59597,10,301595,413007.21,111412.21,26.98,40,Adequate,New,Amit,Debit Card,4.9,Profitable,Low Discount
+TZ1247,2024-10-02,October,Q4,Headphones,Audio,Hyderabad,10,4703,9501,0,47030,92634.75,45604.75,49.23,18,Low,Returning,Rahul,UPI,4,Profitable,No Discount
+TZ1248,2024-09-27,September,Q3,Monitor,Display,Bangalore,8,18968,24110,30,151744,135016,-16728,-12.39,67,Adequate,Returning,Amit,EMI,3.9,Loss,High Discount
+TZ1249,2023-07-25,July,Q3,Headphones,Audio,Bangalore,3,8024,7228,10,24072,21467.16,-2604.84,-12.13,57,Adequate,Loyal,Meera,UPI,5,Loss,Low Discount
+TZ1250,2023-09-06,September,Q3,LED TV,Display,Chennai,5,40751,43921,10,203755,167997.82,-35757.18,-21.28,122,Overstocked,New,Vikram,EMI,3.8,Loss,Low Discount
+TZ1251,2024-07-17,July,Q3,Laptop,Computing,Chennai,4,63734,97277,10,254936,327434.38,72498.38,22.14,54,Adequate,New,Sneha,UPI,3.7,Profitable,Low Discount
+TZ1252,2023-11-07,November,Q4,Smartphone,Mobile,Bangalore,11,13050,37730,15,143550,458608.15,315058.15,68.7,4,Critical,Returning,Vikram,UPI,4.4,Profitable,Medium Discount
+TZ1253,2024-07-01,July,Q3,Bluetooth Speaker,Audio,Chennai,9,1301,7390,0,11709,62186.85,50477.85,81.17,16,Low,New,Meera,Debit Card,3.7,Profitable,No Discount
+TZ1254,2024-09-19,September,Q3,Laptop,Computing,Hyderabad,7,56731,97181,15,397117,433670.21,36553.21,8.43,16,Low,New,Rahul,Debit Card,3.8,Profitable,Medium Discount
+TZ1255,2024-06-15,June,Q2,Bluetooth Speaker,Audio,Hyderabad,12,5712,5121,15,68544,39175.65,-29368.35,-74.97,33,Adequate,Returning,Sneha,EMI,4.5,Loss,Medium Discount
+TZ1256,2023-06-04,June,Q2,LED TV,Display,Mumbai,8,21851,39361,25,174808,283399.2,108591.2,38.32,60,Adequate,New,Meera,Credit Card,3.3,Profitable,High Discount
+TZ1257,2023-12-18,December,Q4,Headphones,Audio,Delhi,9,9412,7706,15,84708,84299.79,-408.21,-0.48,16,Low,Returning,Meera,UPI,4,Loss,Medium Discount
+TZ1258,2023-11-04,November,Q4,Laptop,Computing,Mumbai,1,57483,87465,0,57483,136445.4,78962.4,57.87,53,Adequate,New,Meera,Credit Card,4.3,Profitable,No Discount
+TZ1259,2024-07-19,July,Q3,Tablet,Computing,Bangalore,7,27140,22597,15,189980,147897.37,-42082.63,-28.45,50,Adequate,New,Priya,UPI,4.1,Loss,Medium Discount
+TZ1260,2024-09-20,September,Q3,Smartphone,Mobile,Chennai,10,22075,35482,0,220750,301597,80847,26.81,8,Critical,New,Amit,Cash,4.4,Profitable,No Discount
+TZ1261,2024-07-03,July,Q3,Tablet,Computing,Bangalore,6,18457,29993,0,110742,197953.8,87211.8,44.06,26,Adequate,Loyal,Sneha,EMI,4.9,Profitable,No Discount
+TZ1262,2023-11-17,November,Q4,Refrigerator,Appliances,Chennai,5,43725,61469,5,218625,322635.41,104010.41,32.24,32,Adequate,Returning,Sneha,EMI,3.8,Profitable,Low Discount
+TZ1263,2024-11-20,November,Q4,Air Conditioner,Appliances,Bangalore,5,30554,40778,15,152770,225298.45,72528.45,32.19,17,Low,New,Amit,Cash,3.8,Profitable,Medium Discount
+TZ1264,2024-12-11,December,Q4,Tablet,Computing,Hyderabad,7,25704,34543,5,179928,223968.18,44040.18,19.66,46,Adequate,Returning,Sneha,Credit Card,4.2,Profitable,Low Discount
+TZ1265,2024-07-04,July,Q3,Air Conditioner,Appliances,Delhi,5,35935,64089,15,179675,329577.68,149902.68,45.48,18,Low,New,Amit,UPI,4.4,Profitable,Medium Discount
+TZ1266,2024-01-03,January,Q1,Laptop,Computing,Chennai,3,47787,98425,15,143361,213336.19,69975.19,32.8,45,Adequate,Loyal,Meera,UPI,4.1,Profitable,Medium Discount
+TZ1267,2024-05-18,May,Q2,Monitor,Display,Chennai,8,13480,12708,30,107840,60490.08,-47349.92,-78.28,53,Adequate,New,Amit,Cash,3.3,Loss,High Discount
+TZ1268,2024-07-04,July,Q3,Smartwatch,Mobile,Delhi,13,10492,13267,15,136396,177386.42,40990.42,23.11,19,Low,Loyal,Rahul,EMI,3.7,Profitable,Medium Discount
+TZ1269,2024-07-10,July,Q3,LED TV,Display,Hyderabad,14,17726,69807,25,248164,604703.14,356539.14,58.96,119,Overstocked,New,Sneha,Cash,3.7,Profitable,High Discount
+TZ1270,2024-10-31,October,Q4,Smartphone,Mobile,Bangalore,14,9056,39473,10,126784,646567.74,519783.74,80.39,13,Low,New,Sneha,Cash,4.7,Profitable,Low Discount
+TZ1271,2023-08-31,August,Q3,Smartphone,Mobile,Hyderabad,12,19489,49994,15,233868,420699.51,186831.51,44.41,7,Critical,Loyal,Priya,Credit Card,4.7,Profitable,Medium Discount
+TZ1272,2023-03-02,March,Q1,Refrigerator,Appliances,Bangalore,5,36421,62115,10,182105,279517.5,97412.5,34.85,30,Adequate,Loyal,Amit,Debit Card,4.4,Profitable,Low Discount
+TZ1273,2024-06-10,June,Q2,Washing Machine,Appliances,Mumbai,2,39579,45974,5,79158,104820.72,25662.72,24.48,27,Adequate,Loyal,Priya,Credit Card,3.9,Profitable,Low Discount
+TZ1274,2024-12-29,December,Q4,LED TV,Display,Delhi,13,59317,45736,25,771121,637674.18,-133446.82,-20.93,68,Adequate,Loyal,Meera,Debit Card,3.6,Loss,High Discount
+TZ1275,2024-01-20,January,Q1,Headphones,Audio,Mumbai,11,3025,8600,10,33275,102168,68893,67.43,54,Adequate,Returning,Sneha,UPI,4,Profitable,Low Discount
+TZ1276,2023-01-03,January,Q1,Air Conditioner,Appliances,Mumbai,4,48476,36150,20,193904,138816,-55088,-39.68,23,Low,Returning,Priya,UPI,3.3,Loss,Medium Discount
+TZ1277,2023-10-18,October,Q4,LED TV,Display,Hyderabad,10,23558,57102,25,235580,417558.38,181978.38,43.58,150,Overstocked,Returning,Meera,Cash,3,Profitable,High Discount
+TZ1278,2024-10-03,October,Q4,Headphones,Audio,Mumbai,2,4088,9230,15,8176,24477.96,16301.96,66.6,10,Low,Returning,Priya,Credit Card,4.8,Profitable,Medium Discount
+TZ1279,2023-11-06,November,Q4,Tablet,Computing,Bangalore,2,33449,26810,10,66898,62735.4,-4162.6,-6.64,15,Low,Returning,Meera,Credit Card,3.6,Loss,Low Discount
+TZ1280,2024-10-02,October,Q4,Smartwatch,Mobile,Delhi,7,13739,5494,0,96173,54994.94,-41178.06,-74.88,2,Critical,New,Sneha,Cash,3.7,Loss,No Discount
+TZ1281,2023-08-20,August,Q3,Bluetooth Speaker,Audio,Chennai,1,1066,7129,0,1066,6665.61,5599.61,84.01,37,Adequate,Loyal,Priya,UPI,3.6,Profitable,No Discount
+TZ1282,2024-01-28,January,Q1,Desktop PC,Computing,Mumbai,2,45535,56088,10,91070,121150.08,30080.08,24.83,18,Low,Returning,Priya,Credit Card,3.6,Profitable,Low Discount
+TZ1283,2024-07-30,July,Q3,Laptop,Computing,Hyderabad,3,63842,68015,5,191526,159920.27,-31605.73,-19.76,50,Adequate,Loyal,Priya,UPI,4.4,Loss,Low Discount
+TZ1284,2024-03-29,March,Q1,Smartphone,Mobile,Mumbai,15,11292,19175,0,169380,345150,175770,50.93,20,Low,Loyal,Sneha,Debit Card,4.9,Profitable,No Discount
+TZ1285,2023-11-19,November,Q4,Tablet,Computing,Delhi,5,33122,17760,5,165610,120634.8,-44975.2,-37.28,45,Adequate,Loyal,Vikram,EMI,3.9,Loss,Low Discount
+TZ1286,2024-12-08,December,Q4,Laptop,Computing,Bangalore,4,68931,84775,5,275724,418788.5,143064.5,34.16,57,Adequate,Returning,Amit,Cash,4.7,Profitable,Low Discount
+TZ1287,2023-09-03,September,Q3,Headphones,Audio,Chennai,2,5449,10185,0,10898,17314.5,6416.5,37.06,43,Adequate,New,Amit,Debit Card,3.7,Profitable,No Discount
+TZ1288,2024-08-05,August,Q3,Monitor,Display,Bangalore,9,13661,25434,10,122949,226616.94,103667.94,45.75,52,Adequate,Loyal,Rahul,Cash,3.9,Profitable,Low Discount
+TZ1289,2023-02-10,February,Q1,Laptop,Computing,Chennai,5,76194,91702,15,380970,331273.47,-49696.53,-15,37,Adequate,Loyal,Sneha,Cash,4.5,Loss,Medium Discount
+TZ1290,2024-07-04,July,Q3,Refrigerator,Appliances,Delhi,3,23478,43310,5,70434,149354.54,78920.54,52.84,42,Adequate,New,Priya,EMI,4,Profitable,Low Discount
+TZ1291,2024-08-23,August,Q3,Washing Machine,Appliances,Mumbai,3,37894,47671,10,113682,169899.44,56217.44,33.09,13,Low,New,Rahul,UPI,3.7,Profitable,Low Discount
+TZ1292,2024-09-18,September,Q3,Refrigerator,Appliances,Mumbai,3,29511,30827,5,88533,105428.34,16895.34,16.03,55,Adequate,New,Meera,Cash,3.7,Profitable,Low Discount
+TZ1293,2023-12-22,December,Q4,Bluetooth Speaker,Audio,Hyderabad,13,7737,5747,5,100581,69201.06,-31379.94,-45.35,33,Adequate,New,Meera,Debit Card,4.6,Loss,Low Discount
+TZ1294,2023-05-01,May,Q2,Laptop,Computing,Bangalore,7,52824,79331,0,369768,555317,185549,33.41,26,Adequate,Loyal,Vikram,Cash,4.2,Profitable,No Discount
+TZ1295,2024-06-07,June,Q2,LED TV,Display,Mumbai,8,52151,30936,20,417208,237588.48,-179619.52,-75.6,70,Adequate,Returning,Rahul,EMI,3.7,Loss,Medium Discount
+TZ1296,2023-04-29,April,Q2,Smartphone,Mobile,Hyderabad,1,9443,10805,5,9443,7698.56,-1744.44,-22.66,3,Critical,Returning,Amit,UPI,4.9,Loss,Low Discount
+TZ1297,2023-07-03,July,Q3,Laptop,Computing,Hyderabad,7,49713,66089,5,347991,362580.78,14589.78,4.02,36,Adequate,Loyal,Amit,Debit Card,4.7,Profitable,Low Discount
+TZ1298,2024-08-08,August,Q3,LED TV,Display,Mumbai,9,59127,79109,10,532143,845833.43,313690.43,37.09,72,Adequate,New,Vikram,Cash,4.9,Profitable,Low Discount
+TZ1299,2023-03-12,March,Q1,Headphones,Audio,Bangalore,13,6590,7362,0,85670,95706,10036,10.49,45,Adequate,Returning,Rahul,Debit Card,3.8,Profitable,No Discount
+TZ1300,2024-07-31,July,Q3,Smartwatch,Mobile,Hyderabad,4,10600,10033,15,42400,28142.56,-14257.44,-50.66,8,Critical,Loyal,Vikram,Credit Card,3.7,Loss,Medium Discount
+TZ1301,2024-02-24,February,Q1,Laptop,Computing,Delhi,6,76677,90446,0,460062,596943.6,136881.6,22.93,31,Adequate,New,Meera,UPI,4.8,Profitable,No Discount
+TZ1302,2023-11-11,November,Q4,Desktop PC,Computing,Delhi,4,52513,64245,0,210052,367481.4,157429.4,42.84,19,Low,Loyal,Amit,Cash,3.6,Profitable,No Discount
+TZ1303,2023-08-26,August,Q3,Bluetooth Speaker,Audio,Chennai,12,4051,9011,0,48612,101103.42,52491.42,51.92,47,Adequate,New,Vikram,Credit Card,4.5,Profitable,No Discount
+TZ1304,2024-02-08,February,Q1,Desktop PC,Computing,Hyderabad,1,53507,40566,5,53507,28903.27,-24603.73,-85.12,28,Adequate,Returning,Amit,UPI,4.6,Loss,Low Discount
+TZ1305,2023-12-01,December,Q4,LED TV,Display,Chennai,5,30309,24894,15,151545,116908.45,-34636.55,-29.63,67,Adequate,Loyal,Rahul,Credit Card,3.7,Loss,Medium Discount
+TZ1306,2024-04-05,April,Q2,Headphones,Audio,Bangalore,7,3478,10780,10,24346,67914,43568,64.15,59,Adequate,New,Sneha,Debit Card,4.2,Profitable,Low Discount
+TZ1307,2023-05-03,May,Q2,Desktop PC,Computing,Delhi,5,27643,46091,10,138215,228150.45,89935.45,39.42,19,Low,New,Meera,Credit Card,5,Profitable,Low Discount
+TZ1308,2024-02-10,February,Q1,Bluetooth Speaker,Audio,Mumbai,11,3448,5762,5,37928,72255.48,34327.48,47.51,11,Low,Returning,Sneha,EMI,4.6,Profitable,Low Discount
+TZ1309,2023-09-13,September,Q3,Desktop PC,Computing,Chennai,2,34161,39959,0,68322,67930.3,-391.7,-0.58,13,Low,New,Priya,Credit Card,4.7,Loss,No Discount
+TZ1310,2024-01-17,January,Q1,Washing Machine,Appliances,Mumbai,5,34205,35962,5,171025,204983.4,33958.4,16.57,11,Low,New,Priya,UPI,4.7,Profitable,Low Discount
+TZ1311,2023-04-05,April,Q2,LED TV,Display,Mumbai,1,45211,23318,15,45211,23784.36,-21426.64,-90.09,123,Overstocked,Returning,Meera,UPI,4.2,Loss,Medium Discount
+TZ1312,2024-01-27,January,Q1,Washing Machine,Appliances,Chennai,2,26598,33071,10,53196,50598.63,-2597.37,-5.13,27,Adequate,Returning,Sneha,Credit Card,3.6,Loss,Low Discount
+TZ1313,2024-09-26,September,Q3,Refrigerator,Appliances,Delhi,3,50695,50000,20,152085,132000,-20085,-15.22,13,Low,New,Amit,UPI,3.1,Loss,Medium Discount
+TZ1314,2023-07-24,July,Q3,Washing Machine,Appliances,Hyderabad,2,35668,54629,5,71336,85630.96,14294.96,16.69,34,Adequate,Loyal,Amit,UPI,4.3,Profitable,Low Discount
+TZ1315,2024-05-11,May,Q2,LED TV,Display,Hyderabad,9,36076,45452,20,324684,245440.8,-79243.2,-32.29,73,Adequate,New,Amit,EMI,3.2,Loss,Medium Discount
+TZ1316,2023-10-15,October,Q4,Laptop,Computing,Chennai,6,73272,60254,5,439632,379509.82,-60122.18,-15.84,16,Low,New,Meera,Credit Card,3.9,Loss,Low Discount
+TZ1317,2023-02-27,February,Q1,Smartphone,Mobile,Hyderabad,14,34128,35455,10,477792,335049.75,-142742.25,-42.6,7,Critical,New,Priya,EMI,4,Loss,Low Discount
+TZ1318,2024-12-15,December,Q4,LED TV,Display,Hyderabad,1,38047,57201,30,38047,39039.68,992.68,2.54,68,Adequate,Loyal,Priya,UPI,3.5,Profitable,High Discount
+TZ1319,2023-06-29,June,Q2,Headphones,Audio,Mumbai,2,2420,5811,5,4840,13249.08,8409.08,63.47,11,Low,Loyal,Sneha,Cash,4,Profitable,Low Discount
+TZ1320,2024-09-20,September,Q3,Smartphone,Mobile,Delhi,6,31492,21630,10,188952,128482.2,-60469.8,-47.06,3,Critical,New,Priya,EMI,4.6,Loss,Low Discount
+TZ1321,2023-05-26,May,Q2,Desktop PC,Computing,Hyderabad,6,29753,56483,15,178518,216047.47,37529.47,17.37,47,Adequate,New,Amit,Debit Card,4,Profitable,Medium Discount
+TZ1322,2023-06-11,June,Q2,Air Conditioner,Appliances,Chennai,4,45793,43416,15,183172,125472.24,-57699.76,-45.99,24,Low,Loyal,Vikram,Credit Card,4.1,Loss,Medium Discount
+TZ1323,2024-12-06,December,Q4,Smartwatch,Mobile,Delhi,3,14941,4029,15,44823,14691.75,-30131.25,-205.09,20,Low,New,Priya,EMI,4,Loss,Medium Discount
+TZ1324,2024-09-18,September,Q3,Smartphone,Mobile,Hyderabad,2,38693,42517,5,77386,60586.73,-16799.27,-27.73,12,Low,Loyal,Rahul,Credit Card,4,Loss,Low Discount
+TZ1325,2023-11-24,November,Q4,Tablet,Computing,Mumbai,6,26635,15373,10,159810,129502.15,-30307.85,-23.4,23,Low,New,Meera,Cash,4,Loss,Low Discount
+TZ1326,2023-04-21,April,Q2,Air Conditioner,Appliances,Mumbai,1,50292,60719,20,50292,58290.24,7998.24,13.72,20,Low,Returning,Sneha,UPI,3.4,Profitable,Medium Discount
+TZ1327,2024-01-20,January,Q1,Desktop PC,Computing,Chennai,4,35659,61575,0,142636,209355,66719,31.87,12,Low,Returning,Rahul,Debit Card,3.9,Profitable,No Discount
+TZ1328,2023-04-18,April,Q2,Desktop PC,Computing,Bangalore,3,49606,42545,0,148818,127635,-21183,-16.6,45,Adequate,New,Amit,EMI,5,Loss,No Discount
+TZ1329,2024-05-09,May,Q2,Air Conditioner,Appliances,Mumbai,4,35813,71801,20,143252,275715.84,132463.84,48.04,20,Low,New,Rahul,Debit Card,3.2,Profitable,Medium Discount
+TZ1330,2023-07-14,July,Q3,Monitor,Display,Hyderabad,12,16692,31646,20,200304,250636.32,50332.32,20.08,88,Adequate,New,Rahul,Cash,3.4,Profitable,Medium Discount
+TZ1331,2024-07-16,July,Q3,Headphones,Audio,Delhi,1,7411,2062,15,7411,2120.77,-5290.23,-249.45,15,Low,Returning,Meera,EMI,4.2,Loss,Medium Discount
+TZ1332,2023-04-10,April,Q2,Laptop,Computing,Delhi,3,76824,64124,0,230472,211609.2,-18862.8,-8.91,40,Adequate,New,Amit,UPI,4.2,Loss,No Discount
+TZ1333,2024-11-07,November,Q4,Smartwatch,Mobile,Mumbai,11,11914,10349,5,131054,168709.4,37655.4,22.32,13,Low,Returning,Amit,Credit Card,4.2,Profitable,Low Discount
+TZ1334,2023-09-27,September,Q3,Headphones,Audio,Chennai,5,5206,6400,0,26030,27200,1170,4.3,19,Low,Loyal,Meera,Cash,3.6,Profitable,No Discount
+TZ1335,2023-12-19,December,Q4,Bluetooth Speaker,Audio,Chennai,13,5831,5227,0,75803,75085.85,-717.15,-0.96,34,Adequate,Loyal,Sneha,EMI,4.5,Loss,No Discount
+TZ1336,2024-05-01,May,Q2,Refrigerator,Appliances,Delhi,4,37585,28174,20,150340,99172.48,-51167.52,-51.59,55,Adequate,New,Vikram,EMI,3.9,Loss,Medium Discount
+TZ1337,2024-08-08,August,Q3,Washing Machine,Appliances,Hyderabad,2,18941,48428,10,37882,71915.58,34033.58,47.32,20,Low,New,Priya,Credit Card,3.6,Profitable,Low Discount
+TZ1338,2023-03-22,March,Q1,Washing Machine,Appliances,Chennai,2,41953,28691,15,83906,41458.49,-42447.51,-102.39,30,Adequate,Loyal,Rahul,Cash,4.1,Loss,Medium Discount
+TZ1339,2024-02-11,February,Q1,Bluetooth Speaker,Audio,Bangalore,14,3262,9006,0,45668,126084,80416,63.78,60,Adequate,Loyal,Vikram,EMI,4.3,Profitable,No Discount
+TZ1340,2024-03-05,March,Q1,Desktop PC,Computing,Chennai,3,34712,69132,0,104136,176286.6,72150.6,40.93,16,Low,Loyal,Rahul,Debit Card,4.8,Profitable,No Discount
+TZ1341,2023-12-19,December,Q4,Monitor,Display,Bangalore,7,23911,28744,30,167377,183099.28,15722.28,8.59,110,Overstocked,New,Priya,Debit Card,3.4,Profitable,High Discount
+TZ1342,2024-09-25,September,Q3,Refrigerator,Appliances,Chennai,1,43938,44724,10,43938,34213.86,-9724.14,-28.42,13,Low,Loyal,Sneha,Debit Card,4.8,Loss,Low Discount
+TZ1343,2023-01-21,January,Q1,LED TV,Display,Bangalore,5,33372,75236,25,166860,282135,115275,40.86,139,Overstocked,Loyal,Rahul,Credit Card,3.1,Profitable,High Discount
+TZ1344,2024-03-29,March,Q1,LED TV,Display,Bangalore,12,42313,59647,10,507756,644187.6,136431.6,21.18,74,Adequate,Returning,Priya,UPI,4.6,Profitable,Low Discount
+TZ1345,2024-06-12,June,Q2,LED TV,Display,Mumbai,9,25418,24300,20,228762,209952,-18810,-8.96,140,Overstocked,Loyal,Sneha,Credit Card,3.8,Loss,Medium Discount
+TZ1346,2024-06-20,June,Q2,Refrigerator,Appliances,Mumbai,2,30632,36154,5,61264,82431.12,21167.12,25.68,25,Adequate,New,Sneha,Cash,4.9,Profitable,Low Discount
+TZ1347,2024-12-22,December,Q4,Smartphone,Mobile,Bangalore,6,34984,40423,15,209904,268004.49,58100.49,21.68,5,Critical,Loyal,Rahul,Credit Card,4.1,Profitable,Medium Discount
+TZ1348,2024-08-31,August,Q3,Headphones,Audio,Delhi,14,9275,11615,10,129850,177082.29,47232.29,26.67,32,Adequate,New,Amit,Cash,3.9,Profitable,Low Discount
+TZ1349,2024-01-31,January,Q1,Laptop,Computing,Delhi,4,49506,87426,5,198024,365440.68,167416.68,45.81,53,Adequate,New,Amit,UPI,4.3,Profitable,Low Discount
+TZ1350,2024-11-29,November,Q4,Laptop,Computing,Chennai,3,77426,56350,0,232278,186800.25,-45477.75,-24.35,24,Low,Returning,Vikram,Debit Card,4.6,Loss,No Discount
+TZ1351,2024-12-27,December,Q4,Washing Machine,Appliances,Bangalore,4,44343,43672,15,177372,193030.24,15658.24,8.11,39,Adequate,Returning,Priya,UPI,4,Profitable,Medium Discount
+TZ1352,2024-06-17,June,Q2,Refrigerator,Appliances,Chennai,5,24705,23481,15,123525,84825.11,-38699.89,-45.62,45,Adequate,Loyal,Vikram,EMI,3.9,Loss,Medium Discount
+TZ1353,2024-12-01,December,Q4,Desktop PC,Computing,Chennai,2,47038,50119,10,94076,99686.69,5610.69,5.63,27,Adequate,Returning,Meera,Debit Card,3.8,Profitable,Low Discount
+TZ1354,2024-06-13,June,Q2,Smartphone,Mobile,Mumbai,13,36092,49323,15,469196,654022.98,184826.98,28.26,12,Low,Loyal,Priya,Cash,4.5,Profitable,Medium Discount
+TZ1355,2023-10-30,October,Q4,Smartwatch,Mobile,Chennai,7,9361,16070,0,65527,124301.45,58774.45,47.28,20,Low,Loyal,Vikram,Credit Card,4,Profitable,No Discount
+TZ1356,2024-12-31,December,Q4,Smartphone,Mobile,Hyderabad,11,33719,41177,10,370909,397460.99,26551.99,6.68,18,Low,Returning,Priya,EMI,3.8,Profitable,Low Discount
+TZ1357,2023-04-10,April,Q2,Headphones,Audio,Delhi,12,5737,13881,5,68844,174067.74,105223.74,60.45,53,Adequate,Returning,Meera,Cash,3.8,Profitable,Low Discount
+TZ1358,2023-08-17,August,Q3,Air Conditioner,Appliances,Bangalore,4,46713,56358,15,186852,210778.92,23926.92,11.35,47,Adequate,Returning,Sneha,Cash,4.2,Profitable,Medium Discount
+TZ1359,2024-10-11,October,Q4,Refrigerator,Appliances,Hyderabad,5,22667,53947,10,113335,236692.46,123357.46,52.12,42,Adequate,New,Meera,UPI,4.3,Profitable,Low Discount
+TZ1360,2024-02-28,February,Q1,Laptop,Computing,Delhi,3,48126,67457,15,144378,189216.89,44838.89,23.7,46,Adequate,Returning,Priya,Debit Card,4.8,Profitable,Medium Discount
+TZ1361,2023-07-04,July,Q3,Desktop PC,Computing,Chennai,6,36588,52539,0,219528,294743.79,75215.79,25.52,10,Low,Returning,Amit,Credit Card,4.6,Profitable,No Discount
+TZ1362,2023-06-22,June,Q2,Refrigerator,Appliances,Delhi,4,23769,31480,20,95076,110809.6,15733.6,14.2,50,Adequate,Returning,Sneha,UPI,4,Profitable,Medium Discount
+TZ1363,2024-01-28,January,Q1,Laptop,Computing,Mumbai,4,59451,45922,10,237804,198383.04,-39420.96,-19.87,58,Adequate,Loyal,Priya,Cash,4.5,Loss,Low Discount
+TZ1364,2024-10-03,October,Q4,Air Conditioner,Appliances,Delhi,2,47567,52453,10,95134,135014.02,39880.02,29.54,16,Low,Returning,Vikram,EMI,4,Profitable,Low Discount
+TZ1365,2023-03-08,March,Q1,Laptop,Computing,Bangalore,5,64879,92699,10,324395,417145.5,92750.5,22.23,37,Adequate,Loyal,Priya,Debit Card,5,Profitable,Low Discount
+TZ1366,2024-05-16,May,Q2,LED TV,Display,Delhi,3,41436,21253,15,124308,59614.67,-64693.33,-108.52,78,Adequate,Loyal,Priya,Credit Card,4.6,Loss,Medium Discount
+TZ1367,2024-08-26,August,Q3,Bluetooth Speaker,Audio,Delhi,2,4003,2112,15,8006,4344.38,-3661.62,-84.28,50,Adequate,Returning,Vikram,EMI,3.6,Loss,Medium Discount
+TZ1368,2023-02-19,February,Q1,Washing Machine,Appliances,Mumbai,1,16580,26588,20,16580,25524.48,8944.48,35.04,38,Adequate,Returning,Rahul,EMI,3.3,Profitable,Medium Discount
+TZ1369,2024-12-19,December,Q4,Tablet,Computing,Delhi,1,21866,28791,0,21866,41171.13,19305.13,46.89,52,Adequate,Loyal,Amit,EMI,4.4,Profitable,No Discount
+TZ1370,2023-05-21,May,Q2,Monitor,Display,Mumbai,9,11857,19263,10,106713,187236.36,80523.36,43.01,150,Overstocked,New,Sneha,Credit Card,4.4,Profitable,Low Discount
+TZ1371,2023-09-27,September,Q3,Bluetooth Speaker,Audio,Delhi,6,6762,8213,10,40572,48785.22,8213.22,16.84,20,Low,New,Vikram,UPI,4.9,Profitable,Low Discount
+TZ1372,2024-12-05,December,Q4,Headphones,Audio,Bangalore,4,1544,2208,0,6176,11481.6,5305.6,46.21,17,Low,Loyal,Meera,UPI,3.7,Profitable,No Discount
+TZ1373,2023-04-03,April,Q2,Bluetooth Speaker,Audio,Mumbai,12,6927,3159,10,83124,40940.64,-42183.36,-103.04,51,Adequate,New,Sneha,Debit Card,3.9,Loss,Low Discount
+TZ1374,2023-02-21,February,Q1,Desktop PC,Computing,Delhi,1,44042,55607,10,44042,55050.93,11008.93,20,37,Adequate,Loyal,Rahul,Cash,4.8,Profitable,Low Discount
+TZ1375,2023-02-16,February,Q1,Laptop,Computing,Delhi,3,56539,68430,15,169617,191946.15,22329.15,11.63,49,Adequate,Returning,Meera,Cash,4.1,Profitable,Medium Discount
+TZ1376,2023-12-17,December,Q4,Tablet,Computing,Mumbai,7,25115,29959,10,175805,294437.05,118632.05,40.29,34,Adequate,Loyal,Sneha,UPI,4.5,Profitable,Low Discount
+TZ1377,2023-06-20,June,Q2,Desktop PC,Computing,Delhi,1,35446,38796,15,35446,36274.26,828.26,2.28,47,Adequate,Returning,Vikram,UPI,3.8,Profitable,Medium Discount
+TZ1378,2024-01-24,January,Q1,LED TV,Display,Hyderabad,1,59857,77668,15,59857,49513.35,-10343.65,-20.89,111,Overstocked,Returning,Rahul,UPI,4.2,Loss,Medium Discount
+TZ1379,2023-03-06,March,Q1,Smartwatch,Mobile,Bangalore,1,14543,18226,5,14543,17314.7,2771.7,16.01,12,Low,Loyal,Vikram,EMI,3.6,Profitable,Low Discount
+TZ1380,2024-11-08,November,Q4,Air Conditioner,Appliances,Delhi,4,47659,74035,20,190636,338784.16,148148.16,43.73,19,Low,Loyal,Vikram,Cash,3,Profitable,Medium Discount
+TZ1381,2023-06-10,June,Q2,Bluetooth Speaker,Audio,Chennai,14,5061,4209,0,70854,50087.1,-20766.9,-41.46,58,Adequate,Returning,Amit,Credit Card,4,Loss,No Discount
+TZ1382,2023-10-12,October,Q4,Laptop,Computing,Hyderabad,4,71077,87160,15,284308,288935.4,4627.4,1.6,35,Adequate,New,Rahul,UPI,4.2,Profitable,Medium Discount
+TZ1383,2024-08-09,August,Q3,Headphones,Audio,Mumbai,14,9666,9324,10,135324,155076.77,19752.77,12.74,17,Low,Returning,Meera,Cash,3.7,Profitable,Low Discount
+TZ1384,2024-02-27,February,Q1,Laptop,Computing,Hyderabad,1,40956,96890,10,40956,65400.75,24444.75,37.38,42,Adequate,Loyal,Priya,UPI,4.9,Profitable,Low Discount
+TZ1385,2024-01-08,January,Q1,Laptop,Computing,Delhi,8,56756,81710,15,454048,611190.8,157142.8,25.71,55,Adequate,Loyal,Amit,UPI,3.7,Profitable,Medium Discount
+TZ1386,2024-11-05,November,Q4,Smartphone,Mobile,Mumbai,6,19637,29135,10,117822,245433.24,127611.24,51.99,5,Critical,New,Priya,UPI,3.7,Profitable,Low Discount
+TZ1387,2024-02-24,February,Q1,Desktop PC,Computing,Bangalore,4,37290,39913,15,149160,135704.2,-13455.8,-9.92,23,Low,Returning,Priya,Debit Card,3.7,Loss,Medium Discount
+TZ1388,2024-02-29,February,Q1,Laptop,Computing,Hyderabad,2,64524,74975,5,129048,106839.38,-22208.62,-20.79,41,Adequate,New,Vikram,Cash,4.3,Loss,Low Discount
+TZ1389,2024-03-19,March,Q1,Refrigerator,Appliances,Chennai,5,29613,68338,10,148065,261392.85,113327.85,43.36,56,Adequate,New,Rahul,UPI,4.5,Profitable,Low Discount
+TZ1390,2024-09-12,September,Q3,LED TV,Display,Hyderabad,15,40209,47437,30,603135,373566.37,-229568.63,-61.45,138,Overstocked,New,Amit,UPI,4,Loss,High Discount
+TZ1391,2023-10-29,October,Q4,Headphones,Audio,Delhi,3,8262,11871,10,24786,45833.93,21047.93,45.92,54,Adequate,Loyal,Amit,EMI,4.4,Profitable,Low Discount
+TZ1392,2023-07-25,July,Q3,Smartphone,Mobile,Hyderabad,12,17521,32629,5,210252,306875.74,96623.74,31.49,7,Critical,Loyal,Vikram,Debit Card,4.6,Profitable,Low Discount
+TZ1393,2023-12-27,December,Q4,Bluetooth Speaker,Audio,Chennai,10,5674,8339,10,56740,82931.35,26191.35,31.58,37,Adequate,New,Vikram,Cash,3.5,Profitable,Low Discount
+TZ1394,2023-05-29,May,Q2,Laptop,Computing,Mumbai,4,52496,94164,5,209984,429387.84,219403.84,51.1,28,Adequate,Loyal,Amit,Credit Card,4.8,Profitable,Low Discount
+TZ1395,2024-12-08,December,Q4,Smartwatch,Mobile,Delhi,13,11866,4529,10,154258,75774.7,-78483.3,-103.57,16,Low,New,Vikram,EMI,4.8,Loss,Low Discount
+TZ1396,2024-10-24,October,Q4,Bluetooth Speaker,Audio,Chennai,4,5185,6212,0,20740,27457.04,6717.04,24.46,34,Adequate,Returning,Sneha,Debit Card,4.9,Profitable,No Discount
+TZ1397,2023-02-25,February,Q1,Laptop,Computing,Bangalore,4,75669,96178,15,302676,327005.2,24329.2,7.44,24,Low,Loyal,Meera,Debit Card,4.6,Profitable,Medium Discount
+TZ1398,2024-07-13,July,Q3,Air Conditioner,Appliances,Hyderabad,2,37681,51279,20,75362,67688.28,-7673.72,-11.34,21,Low,Loyal,Rahul,Credit Card,4,Loss,Medium Discount
+TZ1399,2024-06-10,June,Q2,Desktop PC,Computing,Chennai,1,53082,50291,10,53082,38472.61,-14609.39,-37.97,18,Low,New,Vikram,Debit Card,3.5,Loss,Low Discount
+TZ1400,2024-04-22,April,Q2,Air Conditioner,Appliances,Delhi,1,35073,53143,5,35073,55534.44,20461.44,36.84,59,Adequate,Loyal,Vikram,Debit Card,4.2,Profitable,Low Discount
+TZ1401,2024-08-09,August,Q3,Bluetooth Speaker,Audio,Bangalore,2,7422,6707,5,14844,14017.63,-826.37,-5.9,21,Low,Loyal,Rahul,EMI,3.7,Loss,Low Discount
+TZ1402,2024-07-10,July,Q3,Bluetooth Speaker,Audio,Chennai,2,3862,5124,5,7724,9102.79,1378.79,15.15,52,Adequate,Returning,Amit,Debit Card,3.9,Profitable,Low Discount
+TZ1403,2024-09-25,September,Q3,Bluetooth Speaker,Audio,Chennai,9,7747,1644,0,69723,12576.6,-57146.4,-454.39,52,Adequate,Returning,Sneha,Credit Card,4.9,Loss,No Discount
+TZ1404,2024-09-20,September,Q3,Refrigerator,Appliances,Delhi,1,39032,47993,5,39032,50152.69,11120.69,22.17,34,Adequate,Returning,Vikram,Debit Card,3.5,Profitable,Low Discount
+TZ1405,2024-06-13,June,Q2,LED TV,Display,Hyderabad,13,48340,49200,25,628420,359775,-268645,-74.67,55,Adequate,Returning,Meera,Credit Card,3.3,Loss,High Discount
+TZ1406,2023-03-26,March,Q1,Desktop PC,Computing,Delhi,1,29290,45813,5,29290,47874.58,18584.58,38.82,53,Adequate,Returning,Rahul,Credit Card,4.3,Profitable,Low Discount
+TZ1407,2024-12-20,December,Q4,Air Conditioner,Appliances,Chennai,1,35076,33556,20,35076,29663.5,-5412.5,-18.25,55,Adequate,Returning,Rahul,Cash,3.1,Loss,Medium Discount
+TZ1408,2023-07-02,July,Q3,Smartwatch,Mobile,Hyderabad,2,12420,17461,5,24840,27370.12,2530.12,9.24,10,Low,Returning,Sneha,UPI,4.4,Profitable,Low Discount
+TZ1409,2024-03-19,March,Q1,LED TV,Display,Mumbai,7,59125,27753,30,413875,163187.64,-250687.36,-153.62,50,Adequate,Loyal,Meera,EMI,3.1,Loss,High Discount
+TZ1410,2024-08-22,August,Q3,Laptop,Computing,Mumbai,6,67953,51955,10,407718,370335.24,-37382.76,-10.09,60,Adequate,Loyal,Amit,EMI,3.6,Loss,Low Discount
+TZ1411,2024-03-24,March,Q1,Monitor,Display,Chennai,14,9009,25531,15,126126,258246.06,132120.06,51.16,118,Overstocked,New,Priya,UPI,4.7,Profitable,Medium Discount
+TZ1412,2024-07-12,July,Q3,Smartwatch,Mobile,Delhi,5,14096,18532,10,70480,100906.74,30426.74,30.15,2,Critical,Loyal,Vikram,Credit Card,3.7,Profitable,Low Discount
+TZ1413,2023-01-06,January,Q1,Refrigerator,Appliances,Hyderabad,4,53202,58882,5,212808,167813.7,-44994.3,-26.81,29,Adequate,New,Meera,Debit Card,3.8,Loss,Low Discount
+TZ1414,2024-10-23,October,Q4,Bluetooth Speaker,Audio,Delhi,3,2507,5117,10,7521,19756.74,12235.74,61.93,22,Low,New,Priya,EMI,4.8,Profitable,Low Discount
+TZ1415,2024-07-16,July,Q3,Headphones,Audio,Hyderabad,2,6262,13004,0,12524,21456.6,8932.6,41.63,26,Adequate,New,Priya,EMI,4.2,Profitable,No Discount
+TZ1416,2023-12-05,December,Q4,LED TV,Display,Delhi,11,57957,35370,10,637527,500733.09,-136793.91,-27.32,86,Adequate,Loyal,Rahul,Credit Card,4,Loss,Low Discount
+TZ1417,2024-04-06,April,Q2,LED TV,Display,Hyderabad,11,35032,65446,30,385352,377950.65,-7401.35,-1.96,69,Adequate,Loyal,Vikram,Debit Card,3.8,Loss,High Discount
+TZ1418,2024-03-14,March,Q1,Tablet,Computing,Mumbai,6,20066,40744,5,120396,278688.96,158292.96,56.8,55,Adequate,Loyal,Meera,UPI,3.9,Profitable,Low Discount
+TZ1419,2024-01-04,January,Q1,Tablet,Computing,Bangalore,8,27166,29593,10,217328,213069.6,-4258.4,-2,59,Adequate,Returning,Sneha,EMI,3.7,Loss,Low Discount
+TZ1420,2024-10-23,October,Q4,Refrigerator,Appliances,Mumbai,3,27175,58298,10,81525,245551.18,164026.18,66.8,26,Adequate,Loyal,Meera,Cash,4.6,Profitable,Low Discount
+TZ1421,2023-01-20,January,Q1,Bluetooth Speaker,Audio,Mumbai,14,5766,8137,5,80724,129866.52,49142.52,37.84,12,Low,Loyal,Amit,EMI,4.8,Profitable,Low Discount
+TZ1422,2024-07-06,July,Q3,Headphones,Audio,Delhi,6,7930,5658,10,47580,36969.37,-10610.63,-28.7,18,Low,Returning,Vikram,EMI,3.6,Loss,Low Discount
+TZ1423,2024-01-08,January,Q1,Bluetooth Speaker,Audio,Mumbai,11,2956,4217,5,32516,52881.18,20365.18,38.51,38,Adequate,New,Priya,EMI,4.9,Profitable,Low Discount
+TZ1424,2024-11-06,November,Q4,Tablet,Computing,Chennai,6,13324,22170,15,79944,124939.04,44995.04,36.01,24,Low,New,Amit,Debit Card,3.9,Profitable,Medium Discount
+TZ1425,2024-11-15,November,Q4,Smartphone,Mobile,Hyderabad,15,33934,33674,15,509010,418609.91,-90400.09,-21.6,17,Low,Returning,Rahul,Cash,5,Loss,Medium Discount
+TZ1426,2023-11-28,November,Q4,Desktop PC,Computing,Hyderabad,5,42256,69921,5,211280,323821.63,112541.63,34.75,34,Adequate,Loyal,Sneha,Debit Card,4.4,Profitable,Low Discount
+TZ1427,2023-03-21,March,Q1,Bluetooth Speaker,Audio,Bangalore,7,2825,9960,15,19775,59262,39487,66.63,32,Adequate,Returning,Sneha,UPI,4.8,Profitable,Medium Discount
+TZ1428,2023-01-07,January,Q1,Bluetooth Speaker,Audio,Delhi,8,2356,5268,0,18848,46358.4,27510.4,59.34,42,Adequate,Loyal,Amit,Credit Card,3.7,Profitable,No Discount
+TZ1429,2023-06-11,June,Q2,LED TV,Display,Hyderabad,12,22754,63326,15,273048,484443.9,211395.9,43.64,103,Overstocked,Returning,Meera,Cash,4.2,Profitable,Medium Discount
+TZ1430,2024-05-05,May,Q2,Headphones,Audio,Delhi,10,4141,12604,15,41410,117847.4,76437.4,64.86,11,Low,New,Rahul,Credit Card,4.4,Profitable,Medium Discount
+TZ1431,2023-06-14,June,Q2,Tablet,Computing,Hyderabad,1,30752,19812,0,30752,14859,-15893,-106.96,20,Low,Returning,Priya,EMI,4.9,Loss,No Discount
+TZ1432,2024-09-05,September,Q3,Refrigerator,Appliances,Mumbai,3,23619,37194,20,70857,107118.72,36261.72,33.85,48,Adequate,Returning,Sneha,Credit Card,3.2,Profitable,Medium Discount
+TZ1433,2024-02-25,February,Q1,Refrigerator,Appliances,Delhi,5,29919,63842,15,149595,298461.35,148866.35,49.88,20,Low,Loyal,Meera,Debit Card,4.9,Profitable,Medium Discount
+TZ1434,2024-09-02,September,Q3,Refrigerator,Appliances,Mumbai,2,42786,48261,10,85572,104243.76,18671.76,17.91,16,Low,New,Priya,EMI,4.8,Profitable,Low Discount
+TZ1435,2024-05-31,May,Q2,Washing Machine,Appliances,Chennai,2,34841,25311,10,69682,38725.83,-30956.17,-79.94,40,Adequate,Loyal,Vikram,Cash,4.8,Loss,Low Discount
+TZ1436,2024-06-28,June,Q2,Bluetooth Speaker,Audio,Mumbai,2,4950,3635,0,9900,8724,-1176,-13.48,59,Adequate,Loyal,Meera,UPI,4.3,Loss,No Discount
+TZ1437,2024-01-15,January,Q1,Laptop,Computing,Hyderabad,7,50039,97579,15,350273,435446.29,85173.29,19.56,60,Adequate,Returning,Amit,EMI,4.7,Profitable,Medium Discount
+TZ1438,2024-12-14,December,Q4,Refrigerator,Appliances,Mumbai,4,26774,39680,20,107096,198082.56,90986.56,45.93,59,Adequate,New,Rahul,Debit Card,3.6,Profitable,Medium Discount
+TZ1439,2024-07-10,July,Q3,Monitor,Display,Bangalore,4,8179,10233,30,32716,31517.64,-1198.36,-3.8,116,Overstocked,New,Vikram,Cash,3.4,Loss,High Discount
+TZ1440,2023-07-30,July,Q3,Air Conditioner,Appliances,Bangalore,4,48741,38985,10,194964,154380.6,-40583.4,-26.29,37,Adequate,Loyal,Vikram,Debit Card,3.9,Loss,Low Discount
+TZ1441,2024-07-02,July,Q3,Monitor,Display,Hyderabad,6,17029,23023,15,102174,96869.27,-5304.73,-5.48,102,Overstocked,Loyal,Vikram,UPI,3.8,Loss,Medium Discount
+TZ1442,2024-07-26,July,Q3,Bluetooth Speaker,Audio,Chennai,5,3512,7141,15,17560,28376.55,10816.55,38.12,57,Adequate,New,Meera,Cash,4.6,Profitable,Medium Discount
+TZ1443,2024-04-02,April,Q2,Air Conditioner,Appliances,Delhi,1,39054,65314,20,39054,57476.32,18422.32,32.05,60,Adequate,Returning,Vikram,EMI,3.7,Profitable,Medium Discount
+TZ1444,2024-12-24,December,Q4,Laptop,Computing,Delhi,7,76672,45346,0,536704,453913.46,-82790.54,-18.24,19,Low,Returning,Vikram,UPI,3.6,Loss,No Discount
+TZ1445,2023-09-27,September,Q3,Smartphone,Mobile,Bangalore,2,27956,12474,15,55912,21205.8,-34706.2,-163.66,14,Low,Loyal,Meera,EMI,3.9,Loss,Medium Discount
+TZ1446,2024-09-03,September,Q3,Laptop,Computing,Delhi,8,63768,45701,5,510144,382060.36,-128083.64,-33.52,52,Adequate,Loyal,Amit,Credit Card,3.6,Loss,Low Discount
+TZ1447,2024-09-05,September,Q3,Bluetooth Speaker,Audio,Hyderabad,12,2897,4276,0,34764,38484,3720,9.67,33,Adequate,New,Meera,Cash,5,Profitable,No Discount
+TZ1448,2023-03-30,March,Q1,Smartwatch,Mobile,Chennai,6,13971,10474,15,83826,45404.79,-38421.21,-84.62,20,Low,New,Vikram,Cash,4.6,Loss,Medium Discount
+TZ1449,2023-03-12,March,Q1,Desktop PC,Computing,Hyderabad,5,47812,54772,10,239060,184855.5,-54204.5,-29.32,24,Low,Loyal,Priya,UPI,4.9,Loss,Low Discount
+TZ1450,2024-08-11,August,Q3,Laptop,Computing,Bangalore,3,61681,78176,0,185043,257980.8,72937.8,28.27,45,Adequate,New,Vikram,Debit Card,4,Profitable,No Discount
+TZ1451,2023-04-30,April,Q2,Bluetooth Speaker,Audio,Bangalore,15,5406,5598,15,81090,71374.5,-9715.5,-13.61,34,Adequate,Loyal,Sneha,Credit Card,4.6,Loss,Medium Discount
+TZ1452,2024-04-14,April,Q2,Washing Machine,Appliances,Chennai,5,43246,20792,20,216230,70692.8,-145537.2,-205.87,17,Low,Returning,Rahul,UPI,3.6,Loss,Medium Discount
+TZ1453,2023-08-14,August,Q3,Washing Machine,Appliances,Delhi,3,28514,42140,5,85542,145319.79,59777.79,41.14,54,Adequate,Returning,Priya,Debit Card,3.6,Profitable,Low Discount
+TZ1454,2024-11-20,November,Q4,Air Conditioner,Appliances,Bangalore,1,36697,63231,15,36697,69870.26,33173.26,47.48,32,Adequate,New,Vikram,Debit Card,3.8,Profitable,Medium Discount
+TZ1455,2024-11-30,November,Q4,Smartphone,Mobile,Chennai,12,14542,25391,5,174504,319850.43,145346.43,45.44,10,Low,New,Priya,Credit Card,4.8,Profitable,Low Discount
+TZ1456,2024-09-25,September,Q3,LED TV,Display,Delhi,13,21991,27856,10,285883,358506.72,72623.72,20.26,136,Overstocked,Loyal,Sneha,EMI,3.5,Profitable,Low Discount
+TZ1457,2024-07-08,July,Q3,Laptop,Computing,Chennai,6,75676,65671,15,454056,313152.16,-140903.84,-45,46,Adequate,Returning,Sneha,Credit Card,5,Loss,Medium Discount
+TZ1458,2024-06-07,June,Q2,Smartwatch,Mobile,Chennai,4,12448,6101,0,49792,20743.4,-29048.6,-140.04,18,Low,Returning,Sneha,EMI,3.5,Loss,No Discount
+TZ1459,2023-12-22,December,Q4,Monitor,Display,Delhi,8,11944,26980,25,95552,231488.4,135936.4,58.72,90,Adequate,Loyal,Rahul,Cash,3.7,Profitable,High Discount
+TZ1460,2024-01-24,January,Q1,Refrigerator,Appliances,Mumbai,3,41697,63159,15,125091,193266.54,68175.54,35.28,21,Low,Loyal,Amit,Credit Card,3.9,Profitable,Medium Discount
+TZ1461,2024-09-19,September,Q3,LED TV,Display,Bangalore,3,47687,47783,15,143061,121846.65,-21214.35,-17.41,103,Overstocked,Loyal,Amit,Debit Card,4.8,Loss,Medium Discount
+TZ1462,2023-10-14,October,Q4,Headphones,Audio,Delhi,10,3648,11435,5,36480,155344.48,118864.48,76.52,16,Low,Loyal,Amit,Credit Card,4.3,Profitable,Low Discount
+TZ1463,2024-01-26,January,Q1,Smartphone,Mobile,Delhi,13,39429,19800,15,512577,240669,-271908,-112.98,2,Critical,New,Sneha,UPI,3.7,Loss,Medium Discount
+TZ1464,2024-10-07,October,Q4,Bluetooth Speaker,Audio,Hyderabad,12,3586,9472,10,43032,99740.16,56708.16,56.86,26,Adequate,Loyal,Vikram,Cash,4.1,Profitable,Low Discount
+TZ1465,2024-12-08,December,Q4,Tablet,Computing,Mumbai,4,20332,30615,0,81328,191037.6,109709.6,57.43,38,Adequate,Loyal,Amit,Debit Card,4,Profitable,No Discount
+TZ1466,2024-07-27,July,Q3,Bluetooth Speaker,Audio,Bangalore,6,1162,8246,0,6972,54423.6,47451.6,87.19,32,Adequate,Loyal,Vikram,Credit Card,4.4,Profitable,No Discount
+TZ1467,2024-10-27,October,Q4,Washing Machine,Appliances,Hyderabad,2,40569,37652,15,81138,62408.19,-18729.81,-30.01,30,Adequate,Loyal,Vikram,UPI,4.7,Loss,Medium Discount
+TZ1468,2024-04-02,April,Q2,Desktop PC,Computing,Chennai,5,55392,73399,5,276960,296348.46,19388.46,6.54,20,Low,Loyal,Amit,UPI,4.4,Profitable,Low Discount
+TZ1469,2024-08-08,August,Q3,Monitor,Display,Mumbai,2,13308,21259,15,26616,47705.2,21089.2,44.21,90,Adequate,Returning,Meera,Debit Card,4.6,Profitable,Medium Discount
+TZ1470,2024-09-11,September,Q3,Washing Machine,Appliances,Chennai,3,44087,48156,15,132261,104378.13,-27882.87,-26.71,57,Adequate,Loyal,Vikram,UPI,4.1,Loss,Medium Discount
+TZ1471,2023-07-08,July,Q3,Laptop,Computing,Delhi,4,78386,61491,0,313544,297616.44,-15927.56,-5.35,23,Low,New,Sneha,Cash,3.6,Loss,No Discount
+TZ1472,2024-04-29,April,Q2,Bluetooth Speaker,Audio,Mumbai,1,7315,8004,0,7315,9604.8,2289.8,23.84,16,Low,Returning,Vikram,Credit Card,3.6,Profitable,No Discount
+TZ1473,2024-02-04,February,Q1,Smartwatch,Mobile,Delhi,4,7655,11260,5,30620,47066.8,16446.8,34.94,6,Critical,Loyal,Priya,Cash,3.6,Profitable,Low Discount
+TZ1474,2024-01-01,January,Q1,LED TV,Display,Chennai,8,50427,37852,30,403416,180175.52,-223240.48,-123.9,106,Overstocked,New,Meera,EMI,3.2,Loss,High Discount
+TZ1475,2024-09-03,September,Q3,Headphones,Audio,Hyderabad,7,10076,12482,10,70532,58977.45,-11554.55,-19.59,32,Adequate,Returning,Vikram,Credit Card,4.7,Loss,Low Discount
+TZ1476,2024-03-28,March,Q1,Smartwatch,Mobile,Bangalore,7,7256,6551,10,50792,41271.3,-9520.7,-23.07,2,Critical,New,Vikram,Credit Card,4,Loss,Low Discount
+TZ1477,2024-04-25,April,Q2,Bluetooth Speaker,Audio,Mumbai,12,5029,9316,10,60348,120735.36,60387.36,50.02,10,Low,Returning,Amit,EMI,3.8,Profitable,Low Discount
+TZ1478,2023-01-08,January,Q1,Bluetooth Speaker,Audio,Bangalore,4,4372,8661,15,17488,29447.4,11959.4,40.61,25,Adequate,New,Meera,UPI,4.7,Profitable,Medium Discount
+TZ1479,2023-08-14,August,Q3,Smartwatch,Mobile,Mumbai,7,13245,7924,10,92715,65895.98,-26819.02,-40.7,11,Low,Loyal,Meera,EMI,4.7,Loss,Low Discount
+TZ1480,2024-02-27,February,Q1,Smartphone,Mobile,Mumbai,3,12476,28978,0,37428,104320.8,66892.8,64.12,16,Low,Loyal,Sneha,Debit Card,4.6,Profitable,No Discount
+TZ1481,2024-05-18,May,Q2,Smartphone,Mobile,Bangalore,1,12985,13252,0,12985,13252,267,2.01,7,Critical,New,Amit,Debit Card,3.7,Profitable,No Discount
+TZ1482,2024-03-24,March,Q1,Air Conditioner,Appliances,Mumbai,2,30911,41875,5,61822,95475,33653,35.25,41,Adequate,New,Amit,UPI,4,Profitable,Low Discount
+TZ1483,2024-05-25,May,Q2,LED TV,Display,Chennai,12,17079,41643,10,204948,382282.74,177334.74,46.39,146,Overstocked,New,Rahul,Debit Card,4.7,Profitable,Low Discount
+TZ1484,2023-03-15,March,Q1,Bluetooth Speaker,Audio,Chennai,3,2574,5597,15,7722,12131.5,4409.5,36.35,10,Low,New,Meera,Credit Card,4.1,Profitable,Medium Discount
+TZ1485,2024-03-29,March,Q1,Smartphone,Mobile,Mumbai,4,23100,16157,5,92400,73675.92,-18724.08,-25.41,17,Low,Returning,Meera,Debit Card,4.9,Loss,Low Discount
+TZ1486,2023-06-12,June,Q2,Washing Machine,Appliances,Mumbai,5,32069,27004,15,160345,137720.4,-22624.6,-16.43,40,Adequate,Loyal,Amit,Credit Card,4,Loss,Medium Discount
+TZ1487,2023-02-23,February,Q1,Washing Machine,Appliances,Delhi,1,22732,47453,15,22732,44368.56,21636.56,48.77,10,Low,New,Amit,EMI,3.7,Profitable,Medium Discount
+TZ1488,2023-09-06,September,Q3,Laptop,Computing,Mumbai,8,74073,55157,10,592584,476556.48,-116027.52,-24.35,59,Adequate,New,Priya,Credit Card,4.2,Loss,Low Discount
+TZ1489,2024-12-03,December,Q4,Refrigerator,Appliances,Bangalore,1,21917,46299,10,21917,54169.83,32252.83,59.54,54,Adequate,Loyal,Rahul,Credit Card,4.2,Profitable,Low Discount
+TZ1490,2023-11-21,November,Q4,Bluetooth Speaker,Audio,Bangalore,13,4593,4661,0,59709,78770.9,19061.9,24.2,54,Adequate,Returning,Amit,Credit Card,3.9,Profitable,No Discount
+TZ1491,2023-02-10,February,Q1,Headphones,Audio,Chennai,9,6328,10892,15,56952,70825.23,13873.23,19.59,22,Low,Loyal,Priya,EMI,4,Profitable,Medium Discount
+TZ1492,2024-04-24,April,Q2,Smartwatch,Mobile,Hyderabad,15,12085,6627,0,181275,74553.75,-106721.25,-143.15,18,Low,New,Sneha,Debit Card,4.7,Loss,No Discount
+TZ1493,2024-07-08,July,Q3,LED TV,Display,Chennai,1,56813,53158,25,56813,37277.05,-19535.95,-52.41,143,Overstocked,New,Rahul,EMI,3.9,Loss,High Discount
+TZ1494,2024-09-27,September,Q3,Smartphone,Mobile,Bangalore,12,10075,45321,15,120900,462274.2,341374.2,73.85,8,Critical,Loyal,Meera,UPI,4.6,Profitable,Medium Discount
+TZ1495,2023-06-07,June,Q2,Refrigerator,Appliances,Bangalore,3,44856,65002,15,134568,165755.1,31187.1,18.82,17,Low,New,Vikram,Cash,3.6,Profitable,Medium Discount
+TZ1496,2023-05-13,May,Q2,Tablet,Computing,Mumbai,4,15507,30904,5,62028,140922.24,78894.24,55.98,16,Low,New,Vikram,UPI,4.5,Profitable,Low Discount
+TZ1497,2024-06-22,June,Q2,Refrigerator,Appliances,Hyderabad,3,21216,47009,10,63648,95193.23,31545.23,33.14,48,Adequate,Loyal,Rahul,Cash,4.9,Profitable,Low Discount
+TZ1498,2023-08-02,August,Q3,Washing Machine,Appliances,Chennai,1,30337,22978,15,30337,18261.77,-12075.23,-66.12,45,Adequate,Loyal,Sneha,Debit Card,4.7,Loss,Medium Discount
+TZ1499,2023-03-01,March,Q1,Refrigerator,Appliances,Bangalore,5,20664,27612,15,103320,117351,14031,11.96,14,Low,New,Vikram,Cash,3.7,Profitable,Medium Discount
+TZ1500,2023-08-25,August,Q3,Bluetooth Speaker,Audio,Chennai,4,2582,5575,5,10328,19807.98,9479.98,47.86,45,Adequate,Loyal,Vikram,UPI,4.6,Profitable,Low Discount
+TZ1501,2024-10-15,October,Q4,Refrigerator,Appliances,Bangalore,4,45988,29822,10,183952,139566.96,-44385.04,-31.8,60,Adequate,New,Vikram,UPI,4.3,Loss,Low Discount
+TZ1502,2024-11-04,November,Q4,Tablet,Computing,Hyderabad,8,23544,44572,10,188352,312895.44,124543.44,39.8,45,Adequate,Returning,Amit,UPI,4.6,Profitable,Low Discount
+TZ1503,2024-03-16,March,Q1,Air Conditioner,Appliances,Bangalore,5,40775,68906,10,203875,310077,106202,34.25,34,Adequate,Loyal,Meera,Debit Card,4,Profitable,Low Discount
+TZ1504,2024-04-08,April,Q2,Headphones,Audio,Chennai,1,2067,6660,0,2067,5661,3594,63.49,43,Adequate,New,Amit,Cash,4,Profitable,No Discount
+TZ1505,2023-08-16,August,Q3,Smartphone,Mobile,Bangalore,1,33281,28085,5,33281,29348.83,-3932.17,-13.4,5,Critical,New,Sneha,Debit Card,3.7,Loss,Low Discount
+TZ1506,2023-09-29,September,Q3,LED TV,Display,Hyderabad,4,30269,36793,20,121076,88303.2,-32772.8,-37.11,61,Adequate,Loyal,Sneha,EMI,3.9,Loss,Medium Discount
+TZ1507,2023-03-21,March,Q1,Air Conditioner,Appliances,Bangalore,4,36331,63999,5,145324,243196.2,97872.2,40.24,48,Adequate,Loyal,Amit,Cash,4.6,Profitable,Low Discount
+TZ1508,2024-08-13,August,Q3,Monitor,Display,Mumbai,13,9832,20957,20,127816,287697.7,159881.7,55.57,105,Overstocked,Returning,Rahul,Credit Card,3.7,Profitable,Medium Discount
+TZ1509,2024-09-08,September,Q3,Laptop,Computing,Chennai,1,54974,79365,0,54974,67460.25,12486.25,18.51,30,Adequate,Loyal,Vikram,Credit Card,4,Profitable,No Discount
+TZ1510,2024-12-15,December,Q4,Smartphone,Mobile,Delhi,1,30073,35747,15,30073,43450.48,13377.48,30.79,20,Low,Loyal,Rahul,Credit Card,4.1,Profitable,Medium Discount
+TZ1511,2024-02-08,February,Q1,Tablet,Computing,Delhi,6,14704,30592,0,88224,201907.2,113683.2,56.3,45,Adequate,Returning,Amit,Cash,4.1,Profitable,No Discount
+TZ1512,2024-03-20,March,Q1,Air Conditioner,Appliances,Delhi,2,56517,68654,10,113034,135934.92,22900.92,16.85,41,Adequate,Returning,Meera,EMI,3.8,Profitable,Low Discount
+TZ1513,2024-09-22,September,Q3,Air Conditioner,Appliances,Hyderabad,2,40880,36695,15,81760,46786.12,-34973.88,-74.75,59,Adequate,Returning,Amit,EMI,3.6,Loss,Medium Discount
+TZ1514,2024-11-18,November,Q4,Monitor,Display,Chennai,6,19413,16241,20,116478,86142.26,-30335.74,-35.22,94,Adequate,Loyal,Meera,Cash,3.8,Loss,Medium Discount
+TZ1515,2023-06-23,June,Q2,LED TV,Display,Hyderabad,14,43980,60840,15,615720,542997,-72723,-13.39,106,Overstocked,New,Priya,Credit Card,4.5,Loss,Medium Discount
+TZ1516,2023-06-09,June,Q2,Air Conditioner,Appliances,Mumbai,1,28574,47928,10,28574,51762.24,23188.24,44.8,28,Adequate,New,Amit,Cash,4,Profitable,Low Discount
+TZ1517,2024-04-27,April,Q2,Laptop,Computing,Bangalore,4,70258,58885,5,281032,223763,-57269,-25.59,44,Adequate,Loyal,Amit,EMI,4.2,Loss,Low Discount
+TZ1518,2023-05-25,May,Q2,Air Conditioner,Appliances,Mumbai,4,59524,34849,15,238096,142183.92,-95912.08,-67.46,20,Low,New,Amit,Credit Card,4.7,Loss,Medium Discount
+TZ1519,2024-09-24,September,Q3,Smartwatch,Mobile,Mumbai,8,13727,19485,0,109816,187056,77240,41.29,4,Critical,Returning,Meera,Debit Card,4.5,Profitable,No Discount
+TZ1520,2024-11-06,November,Q4,LED TV,Display,Mumbai,1,34168,76846,25,34168,89909.82,55741.82,62,79,Adequate,Returning,Vikram,Cash,3.9,Profitable,High Discount
+TZ1521,2024-05-11,May,Q2,Refrigerator,Appliances,Hyderabad,1,30217,36033,20,30217,21619.8,-8597.2,-39.77,45,Adequate,Loyal,Rahul,Cash,3.2,Loss,Medium Discount
+TZ1522,2024-06-26,June,Q2,Smartwatch,Mobile,Bangalore,8,9445,16196,5,75560,123089.6,47529.6,38.61,2,Critical,Returning,Meera,Debit Card,4,Profitable,Low Discount
+TZ1523,2023-11-06,November,Q4,Smartphone,Mobile,Hyderabad,5,34604,14063,10,173020,61701.41,-111318.59,-180.41,14,Low,New,Vikram,Debit Card,3.8,Loss,Low Discount
+TZ1524,2023-12-16,December,Q4,Monitor,Display,Delhi,2,20524,27062,30,41048,54178.12,13130.12,24.24,130,Overstocked,Loyal,Priya,UPI,3.2,Profitable,High Discount
+TZ1525,2023-06-06,June,Q2,Monitor,Display,Bangalore,15,18790,24718,30,281850,259539,-22311,-8.6,66,Adequate,New,Meera,Credit Card,3.6,Loss,High Discount
+TZ1526,2024-12-01,December,Q4,Smartphone,Mobile,Delhi,5,30561,44328,5,152805,301097.94,148292.94,49.25,15,Low,New,Meera,EMI,4.9,Profitable,Low Discount
+TZ1527,2023-11-22,November,Q4,Desktop PC,Computing,Hyderabad,2,37067,52814,5,74134,97837.93,23703.93,24.23,56,Adequate,New,Amit,UPI,4.9,Profitable,Low Discount
+TZ1528,2023-11-07,November,Q4,Headphones,Audio,Bangalore,3,4579,3749,5,13737,13890.05,153.05,1.1,21,Low,New,Vikram,EMI,3.9,Profitable,Low Discount
+TZ1529,2024-08-03,August,Q3,Refrigerator,Appliances,Delhi,5,33216,38133,5,166080,219169.42,53089.42,24.22,32,Adequate,New,Meera,UPI,3.7,Profitable,Low Discount
+TZ1530,2024-09-11,September,Q3,Headphones,Audio,Bangalore,3,7848,10051,15,23544,25630.05,2086.05,8.14,18,Low,New,Priya,Credit Card,3.5,Profitable,Medium Discount
+TZ1531,2023-01-16,January,Q1,Smartwatch,Mobile,Chennai,4,13999,7323,5,55996,23653.29,-32342.71,-136.74,4,Critical,New,Sneha,EMI,4.2,Loss,Low Discount
+TZ1532,2023-11-29,November,Q4,Headphones,Audio,Delhi,7,8133,14717,0,56931,147317.17,90386.17,61.35,48,Adequate,Loyal,Sneha,Debit Card,4.1,Profitable,No Discount
+TZ1533,2024-08-08,August,Q3,Refrigerator,Appliances,Hyderabad,5,20523,57121,5,102615,223842.92,121227.92,54.16,38,Adequate,Returning,Rahul,Credit Card,4.3,Profitable,Low Discount
+TZ1534,2024-02-10,February,Q1,Air Conditioner,Appliances,Mumbai,5,50388,65824,5,251940,375196.8,123256.8,32.85,22,Low,Returning,Sneha,UPI,4.8,Profitable,Low Discount
+TZ1535,2023-10-20,October,Q4,Headphones,Audio,Delhi,7,6323,12045,0,44261,120570.45,76309.45,63.29,54,Adequate,Loyal,Priya,UPI,4.7,Profitable,No Discount
+TZ1536,2024-04-07,April,Q2,Desktop PC,Computing,Hyderabad,2,36781,70367,5,73562,100272.97,26710.97,26.64,35,Adequate,Returning,Amit,UPI,3.5,Profitable,Low Discount
+TZ1537,2024-04-09,April,Q2,Refrigerator,Appliances,Delhi,4,23910,39389,15,95640,147314.86,51674.86,35.08,54,Adequate,Loyal,Meera,Credit Card,4.6,Profitable,Medium Discount
+TZ1538,2023-05-07,May,Q2,Desktop PC,Computing,Mumbai,8,48785,37590,15,390280,306734.4,-83545.6,-27.24,56,Adequate,Loyal,Vikram,Credit Card,4.1,Loss,Medium Discount
+TZ1539,2024-01-25,January,Q1,Laptop,Computing,Delhi,6,72060,88222,5,432360,553151.94,120791.94,21.84,20,Low,New,Priya,Cash,4.1,Profitable,Low Discount
+TZ1540,2023-11-13,November,Q4,Air Conditioner,Appliances,Chennai,3,36842,39704,10,110526,118456.88,7930.88,6.7,22,Low,New,Vikram,Debit Card,3.5,Profitable,Low Discount
+TZ1541,2024-05-24,May,Q2,Headphones,Audio,Hyderabad,13,1594,11961,15,20722,99126.79,78404.79,79.1,25,Adequate,New,Vikram,UPI,4.2,Profitable,Medium Discount
+TZ1542,2024-03-28,March,Q1,Desktop PC,Computing,Hyderabad,1,41037,67870,10,41037,45812.25,4775.25,10.42,49,Adequate,Loyal,Vikram,Credit Card,3.6,Profitable,Low Discount
+TZ1543,2023-06-01,June,Q2,Laptop,Computing,Bangalore,1,44527,47125,10,44527,42412.5,-2114.5,-4.99,31,Adequate,New,Rahul,Cash,4.1,Loss,Low Discount
+TZ1544,2023-07-02,July,Q3,Tablet,Computing,Bangalore,3,26920,39554,10,80760,117475.38,36715.38,31.25,12,Low,New,Amit,Debit Card,4.1,Profitable,Low Discount
+TZ1545,2024-01-24,January,Q1,Desktop PC,Computing,Chennai,2,44191,62855,5,88382,101510.82,13128.82,12.93,17,Low,Loyal,Amit,Debit Card,4.3,Profitable,Low Discount
+TZ1546,2024-06-21,June,Q2,Smartphone,Mobile,Delhi,10,9906,17163,0,99060,188793,89733,47.53,17,Low,Loyal,Meera,EMI,4.9,Profitable,No Discount
+TZ1547,2024-12-24,December,Q4,Smartwatch,Mobile,Chennai,10,8185,8254,10,81850,82086.03,236.03,0.29,6,Critical,Loyal,Vikram,UPI,4.3,Profitable,Low Discount
+TZ1548,2024-10-09,October,Q4,Headphones,Audio,Chennai,13,4447,11984,5,57811,163542.65,105731.65,64.65,55,Adequate,Returning,Priya,Cash,3.7,Profitable,Low Discount
+TZ1549,2024-04-21,April,Q2,Washing Machine,Appliances,Mumbai,2,41200,46173,20,82400,88652.16,6252.16,7.05,12,Low,Returning,Amit,EMI,3.8,Profitable,Medium Discount
+TZ1550,2023-08-06,August,Q3,Laptop,Computing,Delhi,5,51673,96786,0,258365,585555.3,327190.3,55.88,29,Adequate,Returning,Vikram,EMI,4,Profitable,No Discount
+TZ1551,2023-01-07,January,Q1,Desktop PC,Computing,Bangalore,6,50955,69284,0,305730,415704,109974,26.45,21,Low,New,Amit,Debit Card,4.9,Profitable,No Discount
+TZ1552,2024-05-05,May,Q2,Headphones,Audio,Mumbai,11,3724,9888,5,40964,123995.52,83031.52,66.96,50,Adequate,Returning,Vikram,Debit Card,4.2,Profitable,Low Discount
+TZ1553,2024-02-28,February,Q1,Air Conditioner,Appliances,Mumbai,5,44617,69024,15,223085,352022.4,128937.4,36.63,45,Adequate,Loyal,Rahul,Credit Card,4.4,Profitable,Medium Discount
+TZ1554,2023-12-06,December,Q4,LED TV,Display,Mumbai,3,33380,75098,10,100140,316312.78,216172.78,68.34,93,Adequate,Returning,Meera,EMI,4.8,Profitable,Low Discount
+TZ1555,2024-08-07,August,Q3,Refrigerator,Appliances,Chennai,2,25657,43203,15,51314,68671.17,17357.17,25.28,55,Adequate,New,Amit,UPI,3.6,Profitable,Medium Discount
+TZ1556,2023-09-01,September,Q3,LED TV,Display,Chennai,14,34833,34164,30,487662,284586.12,-203075.88,-71.36,88,Adequate,New,Rahul,Debit Card,3.8,Loss,High Discount
+TZ1557,2023-07-26,July,Q3,Desktop PC,Computing,Chennai,1,56631,64771,5,56631,57532.84,901.84,1.57,22,Low,Returning,Sneha,EMI,4,Profitable,Low Discount
+TZ1558,2023-12-02,December,Q4,Tablet,Computing,Mumbai,3,18723,38742,0,56169,181312.56,125143.56,69.02,39,Adequate,Returning,Meera,EMI,3.7,Profitable,No Discount
+TZ1559,2023-11-15,November,Q4,Laptop,Computing,Hyderabad,2,56842,75597,0,113684,147414.15,33730.15,22.88,16,Low,Loyal,Meera,Debit Card,3.5,Profitable,No Discount
+TZ1560,2023-11-16,November,Q4,Washing Machine,Appliances,Delhi,3,21571,31618,15,64713,115295.04,50582.04,43.87,27,Adequate,Loyal,Amit,UPI,4.5,Profitable,Medium Discount
+TZ1561,2023-10-07,October,Q4,Tablet,Computing,Delhi,5,15750,15499,0,78750,110817.85,32067.85,28.94,23,Low,Loyal,Amit,EMI,4,Profitable,No Discount
+TZ1562,2023-05-25,May,Q2,Air Conditioner,Appliances,Bangalore,5,41044,43224,5,205220,205314,94,0.05,29,Adequate,Loyal,Amit,EMI,4.2,Profitable,Low Discount
+TZ1563,2023-05-14,May,Q2,Laptop,Computing,Chennai,1,41942,70139,0,41942,59618.15,17676.15,29.65,15,Low,Returning,Sneha,Credit Card,4.6,Profitable,No Discount
+TZ1564,2024-08-29,August,Q3,Washing Machine,Appliances,Chennai,5,26653,39476,15,133265,156867.76,23602.76,15.05,22,Low,Loyal,Meera,EMI,3.6,Profitable,Medium Discount
+TZ1565,2024-04-21,April,Q2,Refrigerator,Appliances,Delhi,1,48688,29374,20,48688,25849.12,-22838.88,-88.35,29,Adequate,Loyal,Meera,UPI,3.5,Loss,Medium Discount
+TZ1566,2023-08-18,August,Q3,Tablet,Computing,Hyderabad,5,23909,27847,5,119545,109125.43,-10419.57,-9.55,54,Adequate,Loyal,Amit,Debit Card,4.2,Loss,Low Discount
+TZ1567,2023-01-31,January,Q1,Desktop PC,Computing,Chennai,2,48032,63368,15,96064,91566.76,-4497.24,-4.91,20,Low,Returning,Amit,EMI,4.4,Loss,Medium Discount
+TZ1568,2024-06-04,June,Q2,Desktop PC,Computing,Chennai,2,46356,68447,0,92712,116359.9,23647.9,20.32,60,Adequate,Returning,Vikram,UPI,4.1,Profitable,No Discount
+TZ1569,2024-02-28,February,Q1,Smartphone,Mobile,Hyderabad,4,25955,20421,15,103820,52073.55,-51746.45,-99.37,14,Low,New,Amit,Credit Card,4.7,Loss,Medium Discount
+TZ1570,2024-08-28,August,Q3,Monitor,Display,Chennai,10,19213,27843,15,192130,221282.24,29152.24,13.17,72,Adequate,Loyal,Meera,Cash,4.6,Profitable,Medium Discount
+TZ1571,2024-12-29,December,Q4,Refrigerator,Appliances,Chennai,1,48337,44323,5,48337,46528.07,-1808.93,-3.89,38,Adequate,New,Amit,UPI,3.6,Loss,Low Discount
+TZ1572,2023-04-22,April,Q2,Washing Machine,Appliances,Hyderabad,4,25728,51394,5,102912,146472.9,43560.9,29.74,15,Low,New,Priya,EMI,4.9,Profitable,Low Discount
+TZ1573,2024-10-13,October,Q4,Laptop,Computing,Delhi,3,64686,79816,10,194058,308169.58,114111.58,37.03,34,Adequate,Loyal,Vikram,UPI,3.8,Profitable,Low Discount
+TZ1574,2024-11-28,November,Q4,LED TV,Display,Bangalore,10,59535,39958,25,595350,389590.5,-205759.5,-52.81,141,Overstocked,Returning,Rahul,EMI,3,Loss,High Discount
+TZ1575,2024-06-06,June,Q2,Monitor,Display,Delhi,14,17639,12045,20,246946,148394.4,-98551.6,-66.41,120,Overstocked,New,Rahul,EMI,3.8,Loss,Medium Discount
+TZ1576,2024-01-03,January,Q1,Desktop PC,Computing,Bangalore,1,40416,60292,15,40416,51248.2,10832.2,21.14,50,Adequate,Returning,Meera,UPI,4.1,Profitable,Medium Discount
+TZ1577,2024-03-21,March,Q1,Bluetooth Speaker,Audio,Delhi,11,2420,9280,5,26620,106673.6,80053.6,75.05,22,Low,Loyal,Sneha,Debit Card,4.8,Profitable,Low Discount
+TZ1578,2023-06-07,June,Q2,Smartwatch,Mobile,Delhi,3,3190,5175,0,9570,17077.5,7507.5,43.96,6,Critical,Loyal,Sneha,UPI,5,Profitable,No Discount
+TZ1579,2023-05-20,May,Q2,Desktop PC,Computing,Delhi,7,54886,71611,15,384202,468694,84492,18.03,49,Adequate,New,Sneha,EMI,4.1,Profitable,Medium Discount
+TZ1580,2024-04-05,April,Q2,Monitor,Display,Bangalore,4,14088,23918,30,56352,66970.4,10618.4,15.86,50,Adequate,Loyal,Sneha,Credit Card,3.7,Profitable,High Discount
+TZ1581,2023-10-03,October,Q4,Monitor,Display,Hyderabad,10,20024,11096,10,200240,97367.4,-102872.6,-105.65,122,Overstocked,Returning,Meera,Debit Card,3.7,Loss,Low Discount
+TZ1582,2024-05-08,May,Q2,Air Conditioner,Appliances,Mumbai,2,59498,50312,20,118996,96599.04,-22396.96,-23.19,43,Adequate,New,Vikram,EMI,3.1,Loss,Medium Discount
+TZ1583,2024-04-28,April,Q2,Washing Machine,Appliances,Mumbai,5,41152,56986,15,205760,290628.6,84868.6,29.2,49,Adequate,New,Amit,EMI,4.7,Profitable,Medium Discount
+TZ1584,2024-04-25,April,Q2,Headphones,Audio,Hyderabad,15,9187,11403,10,137805,115455.38,-22349.62,-19.36,36,Adequate,Returning,Amit,Debit Card,3.8,Loss,Low Discount
+TZ1585,2024-12-12,December,Q4,Refrigerator,Appliances,Bangalore,5,35068,27025,20,175340,140530,-34810,-24.77,47,Adequate,New,Vikram,Cash,3.7,Loss,Medium Discount
+TZ1586,2023-10-26,October,Q4,Air Conditioner,Appliances,Hyderabad,1,43796,63769,5,43796,59066.04,15270.04,25.85,18,Low,Loyal,Rahul,Debit Card,3.9,Profitable,Low Discount
+TZ1587,2024-09-22,September,Q3,Smartwatch,Mobile,Bangalore,14,7209,4232,0,100926,59248,-41678,-70.34,7,Critical,Loyal,Meera,Credit Card,4.5,Loss,No Discount
+TZ1588,2024-01-14,January,Q1,Tablet,Computing,Bangalore,4,27889,20924,0,111556,83696,-27860,-33.29,31,Adequate,New,Priya,EMI,4.9,Loss,No Discount
+TZ1589,2023-06-07,June,Q2,Headphones,Audio,Chennai,13,7777,5898,15,101101,55396.96,-45704.04,-82.5,56,Adequate,Loyal,Priya,Credit Card,4.4,Loss,Medium Discount
+TZ1590,2023-12-20,December,Q4,Laptop,Computing,Bangalore,2,38442,55983,15,76884,123722.43,46838.43,37.86,35,Adequate,Returning,Amit,UPI,4.6,Profitable,Medium Discount
+TZ1591,2024-06-29,June,Q2,Smartphone,Mobile,Chennai,11,31121,35563,15,342331,282636.94,-59694.06,-21.12,10,Low,New,Vikram,UPI,3.5,Loss,Medium Discount
+TZ1592,2024-04-04,April,Q2,Monitor,Display,Bangalore,9,9344,13190,30,84096,83097,-999,-1.2,131,Overstocked,Returning,Sneha,EMI,3.9,Loss,High Discount
+TZ1593,2023-10-07,October,Q4,LED TV,Display,Bangalore,5,21440,36734,30,107200,167139.7,59939.7,35.86,100,Adequate,Returning,Meera,Credit Card,3.7,Profitable,High Discount
+TZ1594,2024-08-25,August,Q3,Smartphone,Mobile,Hyderabad,6,30207,21791,10,181242,97078.91,-84163.09,-86.7,19,Low,New,Meera,Cash,4.7,Loss,Low Discount
+TZ1595,2023-01-13,January,Q1,Monitor,Display,Mumbai,9,11404,24612,20,102636,212647.68,110011.68,51.73,78,Adequate,Loyal,Amit,Debit Card,3.2,Profitable,Medium Discount
+TZ1596,2023-01-25,January,Q1,Refrigerator,Appliances,Mumbai,1,32209,62281,5,32209,71000.34,38791.34,54.64,55,Adequate,New,Rahul,EMI,3.7,Profitable,Low Discount
+TZ1597,2024-11-03,November,Q4,Washing Machine,Appliances,Hyderabad,2,44360,26264,10,88720,46093.32,-42626.68,-92.48,26,Adequate,Returning,Sneha,Cash,4.5,Loss,Low Discount
+TZ1598,2023-10-11,October,Q4,Monitor,Display,Bangalore,5,13307,12424,20,66535,64604.8,-1930.2,-2.99,149,Overstocked,New,Sneha,UPI,3.3,Loss,Medium Discount
+TZ1599,2023-03-03,March,Q1,Smartwatch,Mobile,Bangalore,3,10218,5137,15,30654,13099.35,-17554.65,-134.01,8,Critical,Loyal,Sneha,Credit Card,4.5,Loss,Medium Discount
+TZ1600,2023-04-22,April,Q2,Tablet,Computing,Hyderabad,7,19156,35118,0,134092,184369.5,50277.5,27.27,38,Adequate,Loyal,Amit,Cash,3.6,Profitable,No Discount
+TZ1601,2023-03-14,March,Q1,Refrigerator,Appliances,Bangalore,4,19229,55617,10,76916,200221.2,123305.2,61.58,51,Adequate,Loyal,Rahul,Cash,4.5,Profitable,Low Discount
+TZ1602,2023-09-30,September,Q3,Tablet,Computing,Bangalore,7,30829,15121,15,215803,89969.95,-125833.05,-139.86,40,Adequate,Returning,Sneha,Cash,4.3,Loss,Medium Discount
+TZ1603,2023-01-04,January,Q1,Monitor,Display,Chennai,2,19761,20926,20,39522,28459.36,-11062.64,-38.87,101,Overstocked,New,Meera,Cash,3.4,Loss,Medium Discount
+TZ1604,2023-12-15,December,Q4,Desktop PC,Computing,Chennai,5,38311,43574,0,191555,240746.35,49191.35,20.43,34,Adequate,Loyal,Priya,Debit Card,4.5,Profitable,No Discount
+TZ1605,2023-04-20,April,Q2,Washing Machine,Appliances,Bangalore,4,17780,47703,10,71120,171730.8,100610.8,58.59,18,Low,New,Priya,Cash,4.6,Profitable,Low Discount
+TZ1606,2024-08-30,August,Q3,Smartphone,Mobile,Chennai,7,10064,45425,10,70448,267575.96,197127.96,73.67,17,Low,Loyal,Sneha,Cash,3.6,Profitable,Low Discount
+TZ1607,2023-02-27,February,Q1,LED TV,Display,Mumbai,7,22745,33872,30,159215,199167.36,39952.36,20.06,108,Overstocked,Loyal,Vikram,Credit Card,3.7,Profitable,High Discount
+TZ1608,2023-08-27,August,Q3,Desktop PC,Computing,Mumbai,3,57040,74849,0,171120,296402.04,125282.04,42.27,40,Adequate,Loyal,Rahul,Credit Card,4.6,Profitable,No Discount
+TZ1609,2023-05-14,May,Q2,Laptop,Computing,Delhi,1,55141,98787,0,55141,108665.7,53524.7,49.26,39,Adequate,Loyal,Priya,EMI,3.6,Profitable,No Discount
+TZ1610,2023-04-19,April,Q2,Desktop PC,Computing,Chennai,4,29135,45280,15,116540,130859.2,14319.2,10.94,31,Adequate,Loyal,Meera,UPI,4,Profitable,Medium Discount
+TZ1611,2024-12-01,December,Q4,Refrigerator,Appliances,Hyderabad,2,39075,36974,5,78150,68494.33,-9655.67,-14.1,47,Adequate,New,Amit,Cash,3.7,Loss,Low Discount
+TZ1612,2023-05-25,May,Q2,Monitor,Display,Delhi,12,20121,28134,15,241452,315663.48,74211.48,23.51,106,Overstocked,New,Vikram,Cash,3.7,Profitable,Medium Discount
+TZ1613,2024-10-09,October,Q4,Refrigerator,Appliances,Chennai,2,19024,54913,5,38048,115289.84,77241.84,67,10,Low,New,Priya,Cash,4.6,Profitable,Low Discount
+TZ1614,2024-08-30,August,Q3,Smartwatch,Mobile,Chennai,12,10798,15343,5,129576,163541.04,33965.04,20.77,8,Critical,New,Meera,Debit Card,4.3,Profitable,Low Discount
+TZ1615,2024-02-26,February,Q1,Smartphone,Mobile,Delhi,10,30664,12465,5,306640,130259.25,-176380.75,-135.41,17,Low,Loyal,Rahul,Debit Card,4,Loss,Low Discount
+TZ1616,2023-01-05,January,Q1,Bluetooth Speaker,Audio,Delhi,4,1962,3067,10,7848,12145.32,4297.32,35.38,58,Adequate,Loyal,Vikram,Credit Card,4.2,Profitable,Low Discount
+TZ1617,2024-10-03,October,Q4,Washing Machine,Appliances,Delhi,3,16738,31695,5,50214,129172.97,78958.97,61.13,60,Adequate,New,Meera,UPI,4.2,Profitable,Low Discount
+TZ1618,2023-06-13,June,Q2,Washing Machine,Appliances,Mumbai,1,36130,42867,15,36130,43724.34,7594.34,17.37,23,Low,Returning,Amit,Debit Card,4.4,Profitable,Medium Discount
+TZ1619,2024-04-09,April,Q2,Laptop,Computing,Mumbai,1,70216,56526,5,70216,64439.64,-5776.36,-8.96,60,Adequate,New,Sneha,EMI,3.7,Loss,Low Discount
+TZ1620,2023-08-29,August,Q3,Air Conditioner,Appliances,Chennai,5,46362,59463,10,231810,250190.57,18380.57,7.35,57,Adequate,Loyal,Amit,Credit Card,4.7,Profitable,Low Discount
+TZ1621,2023-11-30,November,Q4,Smartphone,Mobile,Mumbai,4,32174,37039,5,128696,219567.19,90871.19,41.39,14,Low,New,Rahul,UPI,4.4,Profitable,Low Discount
+TZ1622,2023-02-25,February,Q1,Monitor,Display,Delhi,4,22909,15834,25,91636,52252.2,-39383.8,-75.37,97,Adequate,New,Sneha,Credit Card,3.6,Loss,High Discount
+TZ1623,2023-10-04,October,Q4,Smartphone,Mobile,Bangalore,3,9051,47268,0,27153,184345.2,157192.2,85.27,10,Low,New,Rahul,UPI,4.2,Profitable,No Discount
+TZ1624,2023-06-25,June,Q2,LED TV,Display,Delhi,15,34343,59559,15,515145,835314.98,320169.98,38.33,131,Overstocked,Loyal,Priya,EMI,5,Profitable,Medium Discount
+TZ1625,2023-08-24,August,Q3,Desktop PC,Computing,Chennai,8,39184,70769,15,313472,449949.3,136477.3,30.33,39,Adequate,Returning,Rahul,UPI,4.6,Profitable,Medium Discount
+TZ1626,2023-09-10,September,Q3,Smartphone,Mobile,Bangalore,7,26987,24575,5,188909,163423.75,-25485.25,-15.59,20,Low,New,Sneha,Cash,3.6,Loss,Low Discount
+TZ1627,2024-04-26,April,Q2,Air Conditioner,Appliances,Hyderabad,1,52898,66807,20,52898,40084.2,-12813.8,-31.97,40,Adequate,Loyal,Rahul,UPI,3.5,Loss,Medium Discount
+TZ1628,2023-03-27,March,Q1,Bluetooth Speaker,Audio,Mumbai,12,6994,8162,5,83928,111656.16,27728.16,24.83,18,Low,Returning,Amit,Credit Card,4.5,Profitable,Low Discount
+TZ1629,2023-04-03,April,Q2,Laptop,Computing,Chennai,5,45603,91091,15,228015,329066.24,101051.24,30.71,46,Adequate,Loyal,Vikram,Cash,5,Profitable,Medium Discount
+TZ1630,2024-04-19,April,Q2,Tablet,Computing,Chennai,3,24137,35539,15,72411,77030.78,4619.78,6,55,Adequate,Loyal,Rahul,Cash,4.1,Profitable,Medium Discount
+TZ1631,2024-12-08,December,Q4,LED TV,Display,Hyderabad,1,34437,47911,20,34437,37370.58,2933.58,7.85,139,Overstocked,Loyal,Vikram,EMI,3.8,Profitable,Medium Discount
+TZ1632,2024-12-02,December,Q4,Desktop PC,Computing,Hyderabad,6,28592,65733,10,171552,346084.25,174532.25,50.43,13,Low,New,Sneha,Debit Card,4.2,Profitable,Low Discount
+TZ1633,2023-02-11,February,Q1,LED TV,Display,Bangalore,3,57478,56620,10,172434,152874,-19560,-12.79,121,Overstocked,Loyal,Priya,Credit Card,5,Loss,Low Discount
+TZ1634,2023-09-02,September,Q3,Bluetooth Speaker,Audio,Mumbai,11,4919,4937,5,54109,61909.98,7800.98,12.6,30,Adequate,Returning,Amit,EMI,4.5,Profitable,Low Discount
+TZ1635,2023-10-11,October,Q4,Laptop,Computing,Mumbai,6,57624,74649,15,345744,593907.44,248163.44,41.78,42,Adequate,Loyal,Rahul,UPI,4.6,Profitable,Medium Discount
+TZ1636,2024-11-25,November,Q4,Bluetooth Speaker,Audio,Bangalore,8,6086,7531,0,48688,78322.4,29634.4,37.84,22,Low,Returning,Rahul,Cash,4.1,Profitable,No Discount
+TZ1637,2023-07-03,July,Q3,Smartwatch,Mobile,Mumbai,2,5699,8521,0,11398,22495.44,11097.44,49.33,6,Critical,Returning,Priya,Credit Card,4.3,Profitable,No Discount
+TZ1638,2024-10-04,October,Q4,Laptop,Computing,Bangalore,7,79721,80483,5,558047,695775.53,137728.53,19.79,40,Adequate,Returning,Sneha,UPI,4.6,Profitable,Low Discount
+TZ1639,2023-01-22,January,Q1,Smartwatch,Mobile,Delhi,2,3361,18283,5,6722,38211.47,31489.47,82.41,18,Low,Loyal,Amit,UPI,4.4,Profitable,Low Discount
+TZ1640,2024-11-02,November,Q4,Washing Machine,Appliances,Bangalore,4,34443,53744,20,137772,223575.04,85803.04,38.38,39,Adequate,Returning,Vikram,Credit Card,3.9,Profitable,Medium Discount
+TZ1641,2023-11-10,November,Q4,Tablet,Computing,Bangalore,4,27867,27186,10,111468,127230.48,15762.48,12.39,59,Adequate,New,Priya,Debit Card,3.9,Profitable,Low Discount
+TZ1642,2023-06-20,June,Q2,Refrigerator,Appliances,Delhi,5,36693,34945,10,183465,172977.75,-10487.25,-6.06,55,Adequate,Loyal,Meera,Credit Card,3.7,Loss,Low Discount
+TZ1643,2023-04-30,April,Q2,Laptop,Computing,Bangalore,3,63894,62066,10,191682,167578.2,-24103.8,-14.38,21,Low,New,Vikram,Cash,4.5,Loss,Low Discount
+TZ1644,2023-12-19,December,Q4,Tablet,Computing,Bangalore,8,29690,20327,10,237520,190260.72,-47259.28,-24.84,17,Low,New,Sneha,UPI,4.7,Loss,Low Discount
+TZ1645,2024-04-14,April,Q2,LED TV,Display,Delhi,1,50792,53253,20,50792,46862.64,-3929.36,-8.38,132,Overstocked,Loyal,Amit,UPI,3.9,Loss,Medium Discount
+TZ1646,2024-08-10,August,Q3,Washing Machine,Appliances,Delhi,5,38872,47973,15,194360,246701.15,52341.15,21.22,54,Adequate,New,Meera,UPI,4.9,Profitable,Medium Discount
+TZ1647,2023-05-23,May,Q2,Washing Machine,Appliances,Hyderabad,1,25095,20625,20,25095,12375,-12720,-102.79,49,Adequate,New,Sneha,Debit Card,3.1,Loss,Medium Discount
+TZ1648,2023-02-26,February,Q1,Refrigerator,Appliances,Delhi,5,52500,37558,15,262500,175583.65,-86916.35,-49.5,22,Low,New,Rahul,EMI,4.8,Loss,Medium Discount
+TZ1649,2024-11-24,November,Q4,Washing Machine,Appliances,Mumbai,5,27924,31743,20,139620,198076.32,58456.32,29.51,30,Adequate,Loyal,Vikram,EMI,3.9,Profitable,Medium Discount
+TZ1650,2024-11-13,November,Q4,LED TV,Display,Chennai,3,43025,44224,25,129075,109951.92,-19123.08,-17.39,97,Adequate,New,Amit,Debit Card,3.4,Loss,High Discount
+TZ1651,2024-04-01,April,Q2,Bluetooth Speaker,Audio,Mumbai,4,6962,8778,15,27848,35814.24,7966.24,22.24,38,Adequate,Returning,Priya,UPI,4.6,Profitable,Medium Discount
+TZ1652,2024-02-29,February,Q1,Tablet,Computing,Hyderabad,2,16706,21808,10,33412,29440.8,-3971.2,-13.49,40,Adequate,Loyal,Amit,Cash,4.9,Loss,Low Discount
+TZ1653,2024-08-27,August,Q3,Monitor,Display,Mumbai,1,21417,30932,20,21417,32664.19,11247.19,34.43,103,Overstocked,New,Vikram,UPI,3.7,Profitable,Medium Discount
+TZ1654,2023-05-21,May,Q2,Smartphone,Mobile,Delhi,14,20509,28970,15,287126,379217.3,92091.3,24.28,3,Critical,Returning,Vikram,Debit Card,4.2,Profitable,Medium Discount
+TZ1655,2024-04-19,April,Q2,Smartphone,Mobile,Mumbai,13,8080,20094,10,105040,282119.76,177079.76,62.77,11,Low,Loyal,Meera,UPI,3.7,Profitable,Low Discount
+TZ1656,2024-11-12,November,Q4,Smartwatch,Mobile,Chennai,3,11059,18856,5,33177,59382.26,26205.26,44.13,2,Critical,New,Amit,UPI,5,Profitable,Low Discount
+TZ1657,2023-03-10,March,Q1,Refrigerator,Appliances,Bangalore,5,49489,60065,20,247445,240260,-7185,-2.99,26,Adequate,Loyal,Meera,UPI,4,Loss,Medium Discount
+TZ1658,2023-05-03,May,Q2,LED TV,Display,Hyderabad,12,52700,21149,20,632400,152272.8,-480127.2,-315.31,70,Adequate,Loyal,Rahul,Credit Card,3.3,Loss,Medium Discount
+TZ1659,2024-12-10,December,Q4,Tablet,Computing,Bangalore,3,13733,23934,10,41199,84008.34,42809.34,50.96,36,Adequate,Loyal,Amit,Cash,3.9,Profitable,Low Discount
+TZ1660,2024-06-26,June,Q2,Washing Machine,Appliances,Mumbai,5,21350,31009,5,106750,176751.3,70001.3,39.6,48,Adequate,New,Vikram,Debit Card,4.8,Profitable,Low Discount
+TZ1661,2024-12-02,December,Q4,Smartwatch,Mobile,Bangalore,11,14435,15277,10,158785,196614.99,37829.99,19.24,5,Critical,Loyal,Vikram,Debit Card,4.7,Profitable,Low Discount
+TZ1662,2023-01-14,January,Q1,Tablet,Computing,Hyderabad,5,24222,40519,15,121110,129154.31,8044.31,6.23,36,Adequate,Returning,Priya,Cash,3.8,Profitable,Medium Discount
+TZ1663,2024-05-30,May,Q2,Smartphone,Mobile,Delhi,13,37394,46612,0,486122,666551.6,180429.6,27.07,15,Low,Returning,Rahul,Cash,4.7,Profitable,No Discount
+TZ1664,2023-01-18,January,Q1,Headphones,Audio,Bangalore,5,7440,4277,15,37200,18177.25,-19022.75,-104.65,48,Adequate,Loyal,Amit,Credit Card,4.6,Loss,Medium Discount
+TZ1665,2023-01-30,January,Q1,Air Conditioner,Appliances,Mumbai,2,33435,41329,10,66870,89270.64,22400.64,25.09,29,Adequate,New,Priya,Credit Card,5,Profitable,Low Discount
+TZ1666,2024-03-11,March,Q1,Air Conditioner,Appliances,Mumbai,1,26232,63736,20,26232,61186.56,34954.56,57.13,12,Low,New,Rahul,Cash,3.8,Profitable,Medium Discount
+TZ1667,2024-06-09,June,Q2,Refrigerator,Appliances,Mumbai,4,25793,39581,5,103172,180489.36,77317.36,42.84,14,Low,Returning,Meera,Cash,4.6,Profitable,Low Discount
+TZ1668,2023-05-07,May,Q2,Refrigerator,Appliances,Delhi,5,31108,35109,15,155540,164134.58,8594.58,5.24,11,Low,New,Priya,Debit Card,4.9,Profitable,Medium Discount
+TZ1669,2023-12-23,December,Q4,LED TV,Display,Delhi,14,47809,71170,30,669326,997376.38,328050.38,32.89,80,Adequate,Loyal,Vikram,Cash,3.1,Profitable,High Discount
+TZ1670,2024-08-15,August,Q3,Laptop,Computing,Hyderabad,4,47553,63471,5,190212,198981.58,8769.58,4.41,58,Adequate,Loyal,Rahul,Cash,4.9,Profitable,Low Discount
+TZ1671,2024-05-31,May,Q2,Air Conditioner,Appliances,Chennai,3,37132,60813,5,111396,147319.49,35923.49,24.38,21,Low,Returning,Sneha,UPI,3.8,Profitable,Low Discount
+TZ1672,2023-08-22,August,Q3,Monitor,Display,Mumbai,13,18298,14050,25,237874,180823.5,-57050.5,-31.55,64,Adequate,Loyal,Priya,UPI,3.8,Loss,High Discount
+TZ1673,2024-12-22,December,Q4,Smartwatch,Mobile,Hyderabad,12,3665,5347,10,43980,56303.91,12323.91,21.89,17,Low,New,Sneha,Debit Card,4.2,Profitable,Low Discount
+TZ1674,2023-11-16,November,Q4,Washing Machine,Appliances,Chennai,2,33150,45691,15,66300,85830.54,19530.54,22.75,37,Adequate,New,Rahul,UPI,4.9,Profitable,Medium Discount
+TZ1675,2024-01-12,January,Q1,Tablet,Computing,Mumbai,8,34023,18446,15,272184,150519.36,-121664.64,-80.83,38,Adequate,Loyal,Meera,Cash,3.7,Loss,Medium Discount
+TZ1676,2024-02-09,February,Q1,Monitor,Display,Hyderabad,2,13528,12120,20,27056,14544,-12512,-86.03,75,Adequate,Returning,Priya,EMI,3.8,Loss,Medium Discount
+TZ1677,2024-02-18,February,Q1,Desktop PC,Computing,Delhi,7,57709,50252,10,403963,348246.36,-55716.64,-16,58,Adequate,Loyal,Sneha,Debit Card,4.2,Loss,Low Discount
+TZ1678,2024-09-09,September,Q3,Monitor,Display,Chennai,9,17138,14829,25,154242,85081.39,-69160.61,-81.29,63,Adequate,New,Amit,UPI,3.5,Loss,High Discount
+TZ1679,2024-10-05,October,Q4,Tablet,Computing,Mumbai,2,13731,42207,0,27462,131685.84,104223.84,79.15,41,Adequate,Loyal,Rahul,Credit Card,4.1,Profitable,No Discount
+TZ1680,2024-11-26,November,Q4,LED TV,Display,Delhi,5,55761,60844,10,278805,391531.14,112726.14,28.79,147,Overstocked,New,Meera,EMI,4.7,Profitable,Low Discount
+TZ1681,2024-04-22,April,Q2,Smartphone,Mobile,Bangalore,11,24315,42129,10,267465,417077.1,149612.1,35.87,19,Low,Returning,Vikram,EMI,3.5,Profitable,Low Discount
+TZ1682,2023-02-02,February,Q1,Monitor,Display,Mumbai,7,22749,20307,25,159243,127934.1,-31308.9,-24.47,106,Overstocked,Returning,Rahul,Cash,3.2,Loss,High Discount
+TZ1683,2024-11-06,November,Q4,Smartwatch,Mobile,Delhi,8,10056,6203,10,80448,63866.09,-16581.91,-25.96,14,Low,Returning,Rahul,EMI,4.5,Loss,Low Discount
+TZ1684,2024-11-06,November,Q4,Bluetooth Speaker,Audio,Hyderabad,10,4848,9297,5,48480,86113.46,37633.46,43.7,42,Adequate,New,Sneha,Debit Card,4.2,Profitable,Low Discount
+TZ1685,2024-01-22,January,Q1,Refrigerator,Appliances,Bangalore,3,39003,27025,5,117009,77021.25,-39987.75,-51.92,47,Adequate,New,Priya,Debit Card,4,Loss,Low Discount
+TZ1686,2024-08-20,August,Q3,Laptop,Computing,Bangalore,7,41379,73059,10,289653,506298.87,216645.87,42.79,32,Adequate,Returning,Amit,Cash,4.5,Profitable,Low Discount
+TZ1687,2023-09-11,September,Q3,Smartphone,Mobile,Bangalore,10,10783,14292,10,107830,128628,20798,16.17,5,Critical,Returning,Priya,Cash,4.3,Profitable,Low Discount
+TZ1688,2023-02-08,February,Q1,Headphones,Audio,Chennai,10,9933,8900,10,99330,68085,-31245,-45.89,11,Low,Loyal,Sneha,EMI,3.5,Loss,Low Discount
+TZ1689,2023-11-21,November,Q4,Monitor,Display,Hyderabad,7,18565,28760,10,129955,176658.3,46703.3,26.44,112,Overstocked,New,Meera,Credit Card,4,Profitable,Low Discount
+TZ1690,2024-05-29,May,Q2,Washing Machine,Appliances,Bangalore,2,35146,38629,15,70292,65669.3,-4622.7,-7.04,37,Adequate,New,Sneha,Cash,4.8,Loss,Medium Discount
+TZ1691,2024-07-02,July,Q3,Smartphone,Mobile,Bangalore,5,9557,29485,15,47785,137842.38,90057.38,65.33,9,Critical,Loyal,Meera,Cash,4.6,Profitable,Medium Discount
+TZ1692,2024-08-15,August,Q3,Desktop PC,Computing,Hyderabad,6,42915,36408,15,257490,153186.66,-104303.34,-68.09,37,Adequate,New,Amit,Cash,4.5,Loss,Medium Discount
+TZ1693,2023-11-06,November,Q4,Bluetooth Speaker,Audio,Bangalore,7,6435,6633,5,45045,57342.28,12297.28,21.45,36,Adequate,Returning,Amit,EMI,4.3,Profitable,Low Discount
+TZ1694,2024-11-18,November,Q4,Bluetooth Speaker,Audio,Delhi,15,1152,9957,5,17280,202898.77,185618.77,91.48,46,Adequate,Returning,Priya,UPI,3.9,Profitable,Low Discount
+TZ1695,2024-10-15,October,Q4,Bluetooth Speaker,Audio,Hyderabad,14,7300,8606,0,102200,117471.9,15271.9,13,43,Adequate,New,Amit,UPI,3.7,Profitable,No Discount
+TZ1696,2023-06-04,June,Q2,Air Conditioner,Appliances,Bangalore,4,51886,52883,5,207544,200955.4,-6588.6,-3.28,50,Adequate,New,Sneha,Debit Card,4.7,Loss,Low Discount
+TZ1697,2024-10-23,October,Q4,Tablet,Computing,Bangalore,4,25299,22814,0,101196,118632.8,17436.8,14.7,19,Low,New,Rahul,Credit Card,4.7,Profitable,No Discount
+TZ1698,2023-11-14,November,Q4,Headphones,Audio,Chennai,9,8645,8914,0,77805,88649.73,10844.73,12.23,22,Low,New,Amit,Credit Card,3.5,Profitable,No Discount
+TZ1699,2023-10-12,October,Q4,Washing Machine,Appliances,Hyderabad,2,36112,21767,20,72224,33956.52,-38267.48,-112.7,60,Adequate,New,Rahul,Cash,3.3,Loss,Medium Discount
+TZ1700,2023-11-02,November,Q4,Desktop PC,Computing,Chennai,6,30918,58010,5,185508,365375.99,179867.99,49.23,25,Adequate,New,Vikram,EMI,4.9,Profitable,Low Discount
+TZ1701,2024-06-18,June,Q2,Washing Machine,Appliances,Hyderabad,5,23251,51535,5,116255,183593.44,67338.44,36.68,25,Adequate,Loyal,Rahul,Debit Card,4,Profitable,Low Discount
+TZ1702,2024-08-21,August,Q3,Air Conditioner,Appliances,Chennai,2,52713,46287,10,105426,77901.02,-27524.98,-35.33,16,Low,New,Priya,Debit Card,4.2,Loss,Low Discount
+TZ1703,2023-09-18,September,Q3,Refrigerator,Appliances,Mumbai,4,52961,47556,5,211844,216855.36,5011.36,2.31,30,Adequate,Loyal,Sneha,UPI,4.5,Profitable,Low Discount
+TZ1704,2023-10-12,October,Q4,Tablet,Computing,Bangalore,8,24050,41914,10,192400,392315.04,199915.04,50.96,11,Low,Loyal,Vikram,Cash,4.8,Profitable,Low Discount
+TZ1705,2024-11-09,November,Q4,Laptop,Computing,Delhi,5,71223,70211,10,356115,451807.79,95692.79,21.18,50,Adequate,Loyal,Amit,Cash,4.3,Profitable,Low Discount
+TZ1706,2023-08-31,August,Q3,Headphones,Audio,Chennai,1,7938,6186,10,7938,5205.52,-2732.48,-52.49,15,Low,New,Amit,Credit Card,4.8,Loss,Low Discount
+TZ1707,2023-06-14,June,Q2,Headphones,Audio,Bangalore,15,8156,14932,0,122340,223980,101640,45.38,27,Adequate,New,Sneha,UPI,4.6,Profitable,No Discount
+TZ1708,2023-12-07,December,Q4,Air Conditioner,Appliances,Chennai,1,35508,49102,5,35508,51544.82,16036.82,31.11,32,Adequate,Returning,Vikram,EMI,4.6,Profitable,Low Discount
+TZ1709,2024-04-09,April,Q2,Air Conditioner,Appliances,Mumbai,1,37041,73297,20,37041,70365.12,33324.12,47.36,60,Adequate,Loyal,Priya,Cash,3.4,Profitable,Medium Discount
+TZ1710,2024-10-05,October,Q4,Smartwatch,Mobile,Bangalore,10,4347,5815,5,43470,71815.25,28345.25,39.47,9,Critical,Loyal,Meera,Credit Card,4.8,Profitable,Low Discount
+TZ1711,2024-12-03,December,Q4,Monitor,Display,Bangalore,8,23675,14374,20,189400,119591.68,-69808.32,-58.37,72,Adequate,Loyal,Vikram,Debit Card,3.8,Loss,Medium Discount
+TZ1712,2023-07-23,July,Q3,Desktop PC,Computing,Chennai,6,36920,57788,15,221520,275562.08,54042.08,19.61,46,Adequate,New,Rahul,Cash,4.9,Profitable,Medium Discount
+TZ1713,2024-10-24,October,Q4,Refrigerator,Appliances,Delhi,1,48305,35993,15,48305,43749.49,-4555.51,-10.41,54,Adequate,New,Rahul,UPI,4.4,Loss,Medium Discount
+TZ1714,2024-09-06,September,Q3,Smartwatch,Mobile,Delhi,2,9028,6787,0,18056,14931.4,-3124.6,-20.93,2,Critical,Loyal,Vikram,UPI,4.7,Loss,No Discount
+TZ1715,2024-04-09,April,Q2,Washing Machine,Appliances,Chennai,1,22355,32313,10,22355,24719.44,2364.44,9.57,60,Adequate,Returning,Amit,UPI,4.1,Profitable,Low Discount
+TZ1716,2024-03-17,March,Q1,Smartphone,Mobile,Hyderabad,4,35003,28544,5,140012,81350.4,-58661.6,-72.11,15,Low,New,Sneha,Credit Card,3.5,Loss,Low Discount
+TZ1717,2023-09-26,September,Q3,Smartphone,Mobile,Hyderabad,8,37731,26273,10,301848,141874.2,-159973.8,-112.76,20,Low,Loyal,Meera,UPI,3.6,Loss,Low Discount
+TZ1718,2024-04-25,April,Q2,Tablet,Computing,Bangalore,7,34506,21953,15,241542,130620.35,-110921.65,-84.92,55,Adequate,Returning,Meera,EMI,3.9,Loss,Medium Discount
+TZ1719,2023-04-08,April,Q2,Bluetooth Speaker,Audio,Mumbai,1,3726,5347,15,3726,5453.94,1727.94,31.68,32,Adequate,Loyal,Meera,EMI,4.6,Profitable,Medium Discount
+TZ1720,2023-02-16,February,Q1,Laptop,Computing,Bangalore,7,54825,70866,10,383775,446455.8,62680.8,14.04,18,Low,Loyal,Rahul,EMI,3.8,Profitable,Low Discount
+TZ1721,2023-06-23,June,Q2,Bluetooth Speaker,Audio,Chennai,15,3778,9169,5,56670,111059.51,54389.51,48.97,15,Low,Returning,Meera,EMI,4.1,Profitable,Low Discount
+TZ1722,2023-09-24,September,Q3,Desktop PC,Computing,Bangalore,1,33380,64716,10,33380,58244.4,24864.4,42.69,57,Adequate,Returning,Sneha,Debit Card,4.9,Profitable,Low Discount
+TZ1723,2023-09-27,September,Q3,Refrigerator,Appliances,Bangalore,5,38513,51558,10,192565,232011,39446,17,30,Adequate,Loyal,Sneha,Credit Card,4.3,Profitable,Low Discount
+TZ1724,2024-11-04,November,Q4,Washing Machine,Appliances,Chennai,1,21190,28740,5,21190,30169.81,8979.81,29.76,24,Low,New,Rahul,UPI,3.9,Profitable,Low Discount
+TZ1725,2024-12-23,December,Q4,Headphones,Audio,Chennai,2,9608,2668,15,19216,5011.84,-14204.16,-283.41,32,Adequate,Loyal,Vikram,UPI,4.2,Loss,Medium Discount
+TZ1726,2023-04-26,April,Q2,Air Conditioner,Appliances,Delhi,1,47911,38132,10,47911,37750.68,-10160.32,-26.91,28,Adequate,New,Priya,EMI,4.7,Loss,Low Discount
+TZ1727,2024-07-30,July,Q3,Washing Machine,Appliances,Hyderabad,2,34121,19270,10,68242,28615.95,-39626.05,-138.48,36,Adequate,New,Priya,UPI,4.5,Loss,Low Discount
+TZ1728,2023-12-03,December,Q4,Laptop,Computing,Bangalore,2,60832,69481,0,121664,180650.6,58986.6,32.65,30,Adequate,New,Rahul,Cash,4.2,Profitable,No Discount
+TZ1729,2024-12-25,December,Q4,Washing Machine,Appliances,Chennai,4,35589,36650,5,142356,153893.35,11537.35,7.5,31,Adequate,New,Meera,EMI,4.9,Profitable,Low Discount
+TZ1730,2023-11-29,November,Q4,Air Conditioner,Appliances,Hyderabad,2,38852,35190,15,77704,58327.43,-19376.57,-33.22,30,Adequate,New,Meera,Cash,4.3,Loss,Medium Discount
+TZ1731,2024-09-08,September,Q3,Monitor,Display,Mumbai,7,16361,15833,15,114527,113047.62,-1479.38,-1.31,148,Overstocked,Returning,Rahul,Cash,4.8,Loss,Medium Discount
+TZ1732,2023-06-16,June,Q2,Monitor,Display,Chennai,5,13050,13951,20,65250,47433.4,-17816.6,-37.56,112,Overstocked,Returning,Meera,Debit Card,3.9,Loss,Medium Discount
+TZ1733,2024-09-09,September,Q3,Tablet,Computing,Bangalore,2,24040,31798,5,48080,60416.2,12336.2,20.42,41,Adequate,Returning,Sneha,UPI,3.9,Profitable,Low Discount
+TZ1734,2024-09-06,September,Q3,Monitor,Display,Mumbai,13,21845,22066,30,283985,240960.72,-43024.28,-17.86,73,Adequate,Returning,Meera,UPI,3.1,Loss,High Discount
+TZ1735,2024-06-09,June,Q2,LED TV,Display,Chennai,11,29695,62441,15,326645,496249.85,169604.85,34.18,113,Overstocked,Loyal,Meera,EMI,3.6,Profitable,Medium Discount
+TZ1736,2024-04-24,April,Q2,Monitor,Display,Mumbai,15,23650,19843,15,354750,303597.9,-51152.1,-16.85,66,Adequate,Loyal,Amit,Credit Card,4.3,Loss,Medium Discount
+TZ1737,2023-10-30,October,Q4,Refrigerator,Appliances,Mumbai,5,23015,25955,5,115075,192326.55,77251.55,40.17,42,Adequate,Returning,Sneha,Cash,4.2,Profitable,Low Discount
+TZ1738,2024-08-05,August,Q3,Smartwatch,Mobile,Bangalore,5,12593,5339,0,62965,29364.5,-33600.5,-114.43,5,Critical,Loyal,Meera,UPI,3.8,Loss,No Discount
+TZ1739,2023-07-06,July,Q3,Monitor,Display,Mumbai,2,21639,19753,20,43278,41718.34,-1559.66,-3.74,125,Overstocked,Loyal,Sneha,UPI,3.6,Loss,Medium Discount
+TZ1740,2023-09-29,September,Q3,LED TV,Display,Delhi,4,27129,25126,30,108516,77388.08,-31127.92,-40.22,83,Adequate,Loyal,Rahul,UPI,3.5,Loss,High Discount
+TZ1741,2023-01-06,January,Q1,Monitor,Display,Mumbai,1,13627,31489,25,13627,28340.1,14713.1,51.92,108,Overstocked,Loyal,Sneha,EMI,3.7,Profitable,High Discount
+TZ1742,2023-11-07,November,Q4,Refrigerator,Appliances,Hyderabad,3,43886,42834,5,131658,119024.98,-12633.02,-10.61,18,Low,New,Rahul,Credit Card,3.7,Loss,Low Discount
+TZ1743,2023-01-17,January,Q1,Air Conditioner,Appliances,Delhi,1,38712,63530,10,38712,62894.7,24182.7,38.45,51,Adequate,New,Sneha,EMI,3.8,Profitable,Low Discount
+TZ1744,2023-11-05,November,Q4,Headphones,Audio,Delhi,8,8412,2357,0,67296,26964.08,-40331.92,-149.58,20,Low,New,Meera,UPI,4.9,Loss,No Discount
+TZ1745,2024-04-27,April,Q2,Laptop,Computing,Chennai,4,48194,64322,15,192776,185890.58,-6885.42,-3.7,13,Low,Returning,Rahul,Cash,4.4,Loss,Medium Discount
+TZ1746,2024-12-31,December,Q4,Monitor,Display,Chennai,14,24243,28961,30,339402,313618.67,-25783.33,-8.22,143,Overstocked,Loyal,Amit,Cash,3.5,Loss,High Discount
+TZ1747,2024-05-12,May,Q2,Bluetooth Speaker,Audio,Hyderabad,12,6009,9493,5,72108,81165.15,9057.15,11.16,55,Adequate,New,Vikram,Cash,4.1,Profitable,Low Discount
+TZ1748,2023-11-20,November,Q4,Bluetooth Speaker,Audio,Mumbai,5,6310,8334,15,31550,55254.42,23704.42,42.9,17,Low,Returning,Vikram,Debit Card,4.2,Profitable,Medium Discount
+TZ1749,2024-03-22,March,Q1,Laptop,Computing,Delhi,5,47596,75752,10,237980,374972.4,136992.4,36.53,38,Adequate,New,Vikram,Credit Card,4.4,Profitable,Low Discount
+TZ1750,2024-12-02,December,Q4,LED TV,Display,Hyderabad,14,58054,50701,15,812756,588258.35,-224497.65,-38.16,87,Adequate,Loyal,Meera,UPI,4.9,Loss,Medium Discount
+TZ1751,2024-11-20,November,Q4,Washing Machine,Appliances,Bangalore,4,41206,29618,10,164824,138612.24,-26211.76,-18.91,28,Adequate,Loyal,Meera,Cash,4.5,Loss,Low Discount
+TZ1752,2023-05-13,May,Q2,Tablet,Computing,Delhi,3,31849,31127,0,95547,102719.1,7172.1,6.98,60,Adequate,Returning,Sneha,Debit Card,3.9,Profitable,No Discount
+TZ1753,2024-07-24,July,Q3,Laptop,Computing,Mumbai,6,52092,68399,5,312552,514634.08,202082.08,39.27,21,Low,Loyal,Rahul,Cash,4,Profitable,Low Discount
+TZ1754,2023-04-27,April,Q2,Refrigerator,Appliances,Delhi,1,54830,37686,20,54830,33163.68,-21666.32,-65.33,26,Adequate,Returning,Amit,Cash,3.8,Loss,Medium Discount
+TZ1755,2024-07-24,July,Q3,Smartwatch,Mobile,Delhi,14,14307,18314,0,200298,310239.16,109941.16,35.44,3,Critical,Returning,Sneha,Cash,5,Profitable,No Discount
+TZ1756,2024-09-17,September,Q3,Refrigerator,Appliances,Mumbai,5,20750,56246,5,103750,320602.2,216852.2,67.64,20,Low,Loyal,Rahul,Credit Card,4.9,Profitable,Low Discount
+TZ1757,2023-06-10,June,Q2,Air Conditioner,Appliances,Bangalore,4,58154,64662,5,232616,245715.6,13099.6,5.33,19,Low,Loyal,Amit,Debit Card,4.7,Profitable,Low Discount
+TZ1758,2023-05-06,May,Q2,Smartphone,Mobile,Chennai,7,33205,10431,5,232435,58961.23,-173473.77,-294.22,17,Low,Returning,Amit,EMI,3.8,Loss,Low Discount
+TZ1759,2023-09-30,September,Q3,LED TV,Display,Chennai,6,56251,63581,15,337506,275623.63,-61882.37,-22.45,69,Adequate,Loyal,Sneha,Credit Card,3.7,Loss,Medium Discount
+TZ1760,2024-03-15,March,Q1,Monitor,Display,Chennai,15,23032,26913,20,345480,274512.6,-70967.4,-25.85,53,Adequate,Returning,Priya,Cash,3.7,Loss,Medium Discount
+TZ1761,2024-06-13,June,Q2,Desktop PC,Computing,Mumbai,6,45631,58322,5,273786,398922.48,125136.48,31.37,37,Adequate,New,Sneha,Cash,4.5,Profitable,Low Discount
+TZ1762,2024-10-18,October,Q4,Tablet,Computing,Hyderabad,1,32696,38375,10,32696,33674.06,978.06,2.9,36,Adequate,Returning,Meera,EMI,4.8,Profitable,Low Discount
+TZ1763,2023-11-18,November,Q4,LED TV,Display,Mumbai,14,33335,78996,30,466690,1207690.85,741000.85,61.36,128,Overstocked,New,Meera,UPI,3.4,Profitable,High Discount
+TZ1764,2023-07-30,July,Q3,Bluetooth Speaker,Audio,Hyderabad,13,6064,8744,10,78832,84401.46,5569.46,6.6,60,Adequate,Loyal,Sneha,Credit Card,4.8,Profitable,Low Discount
+TZ1765,2023-03-28,March,Q1,Laptop,Computing,Hyderabad,6,60558,92520,5,363348,395523,32175,8.13,43,Adequate,Loyal,Amit,Credit Card,3.6,Profitable,Low Discount
+TZ1766,2024-07-19,July,Q3,Smartwatch,Mobile,Hyderabad,6,13415,6621,0,80490,32773.95,-47716.05,-145.59,2,Critical,Loyal,Vikram,Debit Card,3.9,Loss,No Discount
+TZ1767,2023-11-08,November,Q4,Air Conditioner,Appliances,Chennai,5,32237,35928,15,161185,168726.87,7541.87,4.47,26,Adequate,Loyal,Vikram,Debit Card,3.7,Profitable,Medium Discount
+TZ1768,2024-10-28,October,Q4,Desktop PC,Computing,Chennai,5,25341,61697,10,126705,306788.33,180083.33,58.7,25,Adequate,Loyal,Vikram,EMI,4.6,Profitable,Low Discount
+TZ1769,2024-10-04,October,Q4,Washing Machine,Appliances,Hyderabad,5,22662,41959,15,113310,173867.61,60557.61,34.83,28,Adequate,Loyal,Meera,EMI,4.5,Profitable,Medium Discount
+TZ1770,2024-01-22,January,Q1,Bluetooth Speaker,Audio,Delhi,2,3685,9961,5,7370,20818.49,13448.49,64.6,59,Adequate,Returning,Sneha,Cash,3.7,Profitable,Low Discount
+TZ1771,2024-03-11,March,Q1,Monitor,Display,Mumbai,2,10037,23922,15,20074,48800.88,28726.88,58.87,110,Overstocked,New,Sneha,Cash,4.1,Profitable,Medium Discount
+TZ1772,2024-06-22,June,Q2,Monitor,Display,Hyderabad,9,20936,18640,30,188424,88074,-100350,-113.94,113,Overstocked,Loyal,Sneha,UPI,3.7,Loss,High Discount
+TZ1773,2024-05-16,May,Q2,Air Conditioner,Appliances,Chennai,2,34459,65147,10,68918,99674.91,30756.91,30.86,41,Adequate,Loyal,Sneha,Credit Card,5,Profitable,Low Discount
+TZ1774,2024-06-09,June,Q2,Bluetooth Speaker,Audio,Mumbai,12,2741,8961,15,32892,109682.64,76790.64,70.01,12,Low,Loyal,Priya,EMI,4.1,Profitable,Medium Discount
+TZ1775,2023-05-02,May,Q2,Refrigerator,Appliances,Chennai,1,25921,47221,15,25921,34117.17,8196.17,24.02,12,Low,Loyal,Priya,Cash,4.1,Profitable,Medium Discount
+TZ1776,2024-01-19,January,Q1,Smartwatch,Mobile,Bangalore,8,3458,16963,5,27664,128918.8,101254.8,78.54,6,Critical,Loyal,Sneha,Cash,4.9,Profitable,Low Discount
+TZ1777,2023-11-09,November,Q4,Smartwatch,Mobile,Delhi,3,11008,4034,0,33024,17305.86,-15718.14,-90.83,19,Low,Returning,Rahul,Cash,4.1,Loss,No Discount
+TZ1778,2024-08-09,August,Q3,Smartwatch,Mobile,Hyderabad,8,8534,16801,15,68272,94253.61,25981.61,27.57,17,Low,Loyal,Vikram,Credit Card,4.6,Profitable,Medium Discount
+TZ1779,2024-05-31,May,Q2,Washing Machine,Appliances,Chennai,4,36863,48430,10,147452,148195.8,743.8,0.5,56,Adequate,Returning,Rahul,EMI,4.5,Profitable,Low Discount
+TZ1780,2024-02-24,February,Q1,Monitor,Display,Delhi,15,20956,21108,30,314340,243797.4,-70542.6,-28.93,55,Adequate,Loyal,Sneha,Debit Card,3.6,Loss,High Discount
+TZ1781,2023-06-19,June,Q2,Air Conditioner,Appliances,Mumbai,5,45240,68768,5,226200,391977.6,165777.6,42.29,51,Adequate,Loyal,Rahul,Credit Card,4.9,Profitable,Low Discount
+TZ1782,2024-07-08,July,Q3,Refrigerator,Appliances,Mumbai,5,52193,35412,20,260965,186975.36,-73989.64,-39.57,42,Adequate,New,Rahul,EMI,3.2,Loss,Medium Discount
+TZ1783,2023-01-20,January,Q1,Smartwatch,Mobile,Delhi,4,14560,17744,15,58240,66362.56,8122.56,12.24,4,Critical,Loyal,Vikram,Debit Card,4.1,Profitable,Medium Discount
+TZ1784,2023-02-16,February,Q1,Headphones,Audio,Mumbai,6,8660,4957,15,51960,30336.84,-21623.16,-71.28,11,Low,Loyal,Amit,UPI,3.9,Loss,Medium Discount
+TZ1785,2023-04-28,April,Q2,Desktop PC,Computing,Hyderabad,3,43700,41439,5,131100,88575.86,-42524.14,-48.01,26,Adequate,New,Priya,Debit Card,4.9,Loss,Low Discount
+TZ1786,2024-11-25,November,Q4,Tablet,Computing,Mumbai,6,17946,15890,0,107676,148730.4,41054.4,27.6,29,Adequate,Returning,Rahul,Debit Card,3.7,Profitable,No Discount
+TZ1787,2023-11-28,November,Q4,Smartwatch,Mobile,Chennai,14,4981,4849,5,69734,71263.33,1529.33,2.15,9,Critical,Loyal,Vikram,Credit Card,4.2,Profitable,Low Discount
+TZ1788,2024-05-31,May,Q2,Monitor,Display,Mumbai,5,9986,20431,25,49930,91939.5,42009.5,45.69,120,Overstocked,Returning,Rahul,UPI,3,Profitable,High Discount
+TZ1789,2024-10-10,October,Q4,Smartphone,Mobile,Mumbai,5,26155,48415,0,130775,377637,246862,65.37,9,Critical,Loyal,Meera,Credit Card,4,Profitable,No Discount
+TZ1790,2024-02-21,February,Q1,Headphones,Audio,Mumbai,14,11916,10199,5,166824,162776.04,-4047.96,-2.49,60,Adequate,New,Amit,EMI,5,Loss,Low Discount
+TZ1791,2023-09-09,September,Q3,Bluetooth Speaker,Audio,Chennai,15,5547,8901,0,83205,113487.75,30282.75,26.68,10,Low,Returning,Vikram,Debit Card,4.5,Profitable,No Discount
+TZ1792,2023-06-21,June,Q2,Laptop,Computing,Mumbai,8,52911,84181,10,423288,727323.84,304035.84,41.8,53,Adequate,Returning,Amit,Credit Card,4.4,Profitable,Low Discount
+TZ1793,2024-06-06,June,Q2,Smartwatch,Mobile,Mumbai,3,11750,13225,0,35250,47610,12360,25.96,11,Low,New,Sneha,Cash,4.7,Profitable,No Discount
+TZ1794,2024-07-23,July,Q3,Smartwatch,Mobile,Chennai,4,13001,12270,10,52004,41300.82,-10703.18,-25.92,12,Low,Loyal,Amit,UPI,3.9,Loss,Low Discount
+TZ1795,2024-11-09,November,Q4,LED TV,Display,Bangalore,4,45133,59289,20,180532,246642.24,66110.24,26.8,52,Adequate,Loyal,Priya,Cash,3.6,Profitable,Medium Discount
+TZ1796,2023-01-05,January,Q1,Laptop,Computing,Delhi,7,71424,90645,15,499968,593271.53,93303.53,15.73,58,Adequate,Returning,Vikram,Cash,4.7,Profitable,Medium Discount
+TZ1797,2024-10-26,October,Q4,Washing Machine,Appliances,Mumbai,5,16014,48175,5,80070,356976.75,276906.75,77.57,32,Adequate,Returning,Vikram,Debit Card,4.1,Profitable,Low Discount
+TZ1798,2024-12-14,December,Q4,Laptop,Computing,Mumbai,8,59279,57647,15,474232,611519.38,137287.38,22.45,10,Low,New,Meera,Cash,4.6,Profitable,Medium Discount
+TZ1799,2024-11-27,November,Q4,Air Conditioner,Appliances,Bangalore,2,30896,72202,15,61792,159566.42,97774.42,61.28,55,Adequate,New,Priya,UPI,5,Profitable,Medium Discount
+TZ1800,2023-02-07,February,Q1,Smartwatch,Mobile,Chennai,15,14535,15582,5,218025,188736.98,-29288.02,-15.52,2,Critical,New,Meera,UPI,3.7,Loss,Low Discount
+TZ1801,2023-10-12,October,Q4,Refrigerator,Appliances,Hyderabad,4,29172,59161,10,116688,207655.11,90967.11,43.81,52,Adequate,Loyal,Vikram,EMI,4.3,Profitable,Low Discount
+TZ1802,2023-03-08,March,Q1,Refrigerator,Appliances,Delhi,1,26351,40014,10,26351,39613.86,13262.86,33.48,43,Adequate,Loyal,Amit,Credit Card,4.8,Profitable,Low Discount
+TZ1803,2023-01-24,January,Q1,Air Conditioner,Appliances,Hyderabad,5,41575,68707,20,207875,206121,-1754,-0.85,10,Low,Returning,Meera,Cash,3.9,Loss,Medium Discount
+TZ1804,2023-11-27,November,Q4,Monitor,Display,Chennai,5,11988,26983,25,59940,111810.81,51870.81,46.39,113,Overstocked,Returning,Vikram,Cash,3.9,Profitable,High Discount
+TZ1805,2023-08-18,August,Q3,Laptop,Computing,Bangalore,7,69892,74416,10,489244,515702.88,26458.88,5.13,10,Low,Returning,Priya,Debit Card,3.6,Profitable,Low Discount
+TZ1806,2024-08-08,August,Q3,Laptop,Computing,Delhi,7,39878,61382,5,279146,493910.26,214764.26,43.48,20,Low,Returning,Amit,Cash,4.4,Profitable,Low Discount
+TZ1807,2023-04-10,April,Q2,Laptop,Computing,Chennai,7,36574,83832,10,256018,448920.36,192902.36,42.97,26,Adequate,New,Rahul,UPI,3.9,Profitable,Low Discount
+TZ1808,2023-12-15,December,Q4,Laptop,Computing,Bangalore,4,39778,95839,15,159112,423608.38,264496.38,62.44,58,Adequate,New,Meera,UPI,4.4,Profitable,Medium Discount
+TZ1809,2023-03-29,March,Q1,Laptop,Computing,Mumbai,7,55531,90440,0,388717,759696,370979,48.83,60,Adequate,New,Rahul,UPI,3.6,Profitable,No Discount
+TZ1810,2024-09-17,September,Q3,Washing Machine,Appliances,Chennai,1,18336,22656,5,18336,18294.72,-41.28,-0.23,28,Adequate,Returning,Sneha,Cash,4.4,Loss,Low Discount
+TZ1811,2024-02-25,February,Q1,Smartphone,Mobile,Hyderabad,13,29617,10695,15,385021,88634.81,-296386.19,-334.39,14,Low,Returning,Sneha,EMI,4.4,Loss,Medium Discount
+TZ1812,2023-12-14,December,Q4,Washing Machine,Appliances,Mumbai,4,31948,40508,10,127792,227492.93,99700.93,43.83,16,Low,New,Rahul,EMI,4.6,Profitable,Low Discount
+TZ1813,2024-08-30,August,Q3,Smartphone,Mobile,Hyderabad,3,28885,43351,10,86655,96564.35,9909.35,10.26,13,Low,Returning,Sneha,EMI,4.2,Profitable,Low Discount
+TZ1814,2023-09-06,September,Q3,Tablet,Computing,Mumbai,1,16183,25212,15,16183,25716.24,9533.24,37.07,42,Adequate,Loyal,Amit,Debit Card,4.4,Profitable,Medium Discount
+TZ1815,2024-07-08,July,Q3,Tablet,Computing,Delhi,8,22114,34769,10,176912,302907.53,125995.53,41.6,28,Adequate,Returning,Rahul,EMI,4.4,Profitable,Low Discount
+TZ1816,2024-11-25,November,Q4,Tablet,Computing,Mumbai,4,28616,41843,0,114464,261100.32,146636.32,56.16,37,Adequate,Returning,Priya,Credit Card,4.5,Profitable,No Discount
+TZ1817,2023-07-26,July,Q3,Desktop PC,Computing,Bangalore,4,56177,62631,10,224708,248018.76,23310.76,9.4,47,Adequate,Loyal,Amit,EMI,3.9,Profitable,Low Discount
+TZ1818,2023-12-03,December,Q4,Tablet,Computing,Mumbai,8,13382,31250,5,107056,370500,263444,71.1,10,Low,Loyal,Priya,Credit Card,4.2,Profitable,Low Discount
+TZ1819,2023-08-07,August,Q3,Smartphone,Mobile,Chennai,12,33177,31726,15,398124,302570.86,-95553.14,-31.58,8,Critical,Returning,Priya,Cash,4,Loss,Medium Discount
+TZ1820,2023-03-17,March,Q1,LED TV,Display,Mumbai,9,22549,29332,20,202941,253428.48,50487.48,19.92,106,Overstocked,New,Meera,EMI,3.9,Profitable,Medium Discount
+TZ1821,2024-01-04,January,Q1,Laptop,Computing,Mumbai,4,47964,63618,5,191856,290098.08,98242.08,33.87,24,Low,Returning,Meera,Credit Card,4,Profitable,Low Discount
+TZ1822,2024-07-21,July,Q3,Smartphone,Mobile,Delhi,4,8704,21539,10,34816,93823.88,59007.88,62.89,5,Critical,New,Meera,Credit Card,4.1,Profitable,Low Discount
+TZ1823,2023-04-24,April,Q2,LED TV,Display,Delhi,5,44897,35738,20,224485,157247.2,-67237.8,-42.76,97,Adequate,Loyal,Priya,EMI,4,Loss,Medium Discount
+TZ1824,2024-09-30,September,Q3,Monitor,Display,Mumbai,2,12732,14285,15,25464,29141.4,3677.4,12.62,74,Adequate,Loyal,Sneha,Debit Card,4,Profitable,Medium Discount
+TZ1825,2024-03-15,March,Q1,Washing Machine,Appliances,Delhi,1,40004,57490,10,40004,56915.1,16911.1,29.71,44,Adequate,Returning,Priya,Debit Card,3.9,Profitable,Low Discount
+TZ1826,2024-10-06,October,Q4,Smartwatch,Mobile,Delhi,14,11327,19866,15,158578,338059.72,179481.72,53.09,8,Critical,Loyal,Rahul,UPI,4.7,Profitable,Medium Discount
+TZ1827,2024-09-21,September,Q3,Desktop PC,Computing,Delhi,7,58368,56527,15,408576,369969.21,-38606.79,-10.44,43,Adequate,Returning,Priya,Debit Card,4.6,Loss,Medium Discount
+TZ1828,2024-06-22,June,Q2,Air Conditioner,Appliances,Chennai,4,56048,49585,20,224192,134871.2,-89320.8,-66.23,50,Adequate,Loyal,Meera,Cash,3.2,Loss,Medium Discount
+TZ1829,2023-07-27,July,Q3,Headphones,Audio,Delhi,7,5081,7013,15,35567,50490.09,14923.09,29.56,34,Adequate,Loyal,Priya,Debit Card,3.9,Profitable,Medium Discount
+TZ1830,2023-03-28,March,Q1,Tablet,Computing,Mumbai,5,26565,32000,10,132825,172800,39975,23.13,24,Low,Loyal,Rahul,UPI,4.3,Profitable,Low Discount
+TZ1831,2023-12-11,December,Q4,Monitor,Display,Chennai,8,22172,23400,20,177376,165484.8,-11891.2,-7.19,113,Overstocked,Returning,Amit,UPI,3,Loss,Medium Discount
+TZ1832,2024-03-28,March,Q1,Smartphone,Mobile,Bangalore,11,10486,33533,0,115346,368863,253517,68.73,11,Low,Loyal,Vikram,EMI,4.5,Profitable,No Discount
+TZ1833,2023-10-11,October,Q4,Smartphone,Mobile,Mumbai,2,10337,33608,0,20674,104856.96,84182.96,80.28,19,Low,New,Amit,Credit Card,4.5,Profitable,No Discount
+TZ1834,2023-09-14,September,Q3,Smartwatch,Mobile,Bangalore,4,14561,13896,5,58244,52804.8,-5439.2,-10.3,19,Low,Returning,Rahul,Debit Card,3.9,Loss,Low Discount
+TZ1835,2023-12-21,December,Q4,Monitor,Display,Chennai,14,8389,25466,30,117446,275771.31,158325.31,57.41,147,Overstocked,New,Sneha,Credit Card,3.2,Profitable,High Discount
+TZ1836,2023-08-03,August,Q3,Headphones,Audio,Delhi,9,11117,14877,15,100053,137708.95,37655.95,27.34,56,Adequate,Returning,Amit,Cash,4,Profitable,Medium Discount
+TZ1837,2023-07-12,July,Q3,Monitor,Display,Chennai,4,22374,24744,30,89496,64779.79,-24716.21,-38.15,53,Adequate,Returning,Priya,EMI,3.9,Loss,High Discount
+TZ1838,2023-11-09,November,Q4,Air Conditioner,Appliances,Mumbai,4,48243,54270,10,192972,304780.32,111808.32,36.68,36,Adequate,Returning,Meera,UPI,4.6,Profitable,Low Discount
+TZ1839,2024-12-08,December,Q4,Bluetooth Speaker,Audio,Bangalore,6,5808,1880,0,34848,14664,-20184,-137.64,18,Low,New,Amit,EMI,4.4,Loss,No Discount
+TZ1840,2024-09-09,September,Q3,Refrigerator,Appliances,Hyderabad,4,42990,36382,20,171960,87316.8,-84643.2,-96.94,14,Low,Loyal,Sneha,Credit Card,3.5,Loss,Medium Discount
+TZ1841,2023-12-03,December,Q4,Refrigerator,Appliances,Chennai,3,24110,34234,5,72330,107811.42,35481.42,32.91,53,Adequate,Loyal,Priya,Cash,4.7,Profitable,Low Discount
+TZ1842,2024-09-09,September,Q3,Headphones,Audio,Mumbai,3,4760,3138,15,14280,9602.28,-4677.72,-48.71,28,Adequate,New,Priya,Debit Card,4.5,Loss,Medium Discount
+TZ1843,2023-03-13,March,Q1,Headphones,Audio,Mumbai,6,9995,2180,5,59970,14911.2,-45058.8,-302.18,30,Adequate,Returning,Sneha,Credit Card,5,Loss,Low Discount
+TZ1844,2023-05-13,May,Q2,Bluetooth Speaker,Audio,Chennai,8,7087,2626,15,56696,15178.28,-41517.72,-273.53,23,Low,New,Priya,Debit Card,4.1,Loss,Medium Discount
+TZ1845,2024-12-27,December,Q4,Washing Machine,Appliances,Chennai,2,34782,56689,15,69564,106490.29,36926.29,34.68,47,Adequate,New,Vikram,UPI,3.9,Profitable,Medium Discount
+TZ1846,2023-01-08,January,Q1,Tablet,Computing,Chennai,2,25082,34819,5,50164,56232.68,6068.68,10.79,43,Adequate,Returning,Vikram,UPI,4.2,Profitable,Low Discount
+TZ1847,2024-08-12,August,Q3,Laptop,Computing,Mumbai,5,77355,74904,10,386775,444929.76,58154.76,13.07,54,Adequate,Loyal,Amit,UPI,4.4,Profitable,Low Discount
+TZ1848,2023-06-29,June,Q2,Monitor,Display,Delhi,3,22158,25002,25,66474,61879.95,-4594.05,-7.42,134,Overstocked,New,Meera,EMI,3.1,Loss,High Discount
+TZ1849,2024-12-16,December,Q4,Laptop,Computing,Delhi,3,52942,86162,10,158826,332671.48,173845.48,52.26,52,Adequate,New,Meera,Credit Card,4.9,Profitable,Low Discount
+TZ1850,2024-02-26,February,Q1,Bluetooth Speaker,Audio,Mumbai,6,1626,3223,10,9756,20885.04,11129.04,53.29,36,Adequate,Returning,Priya,Debit Card,3.8,Profitable,Low Discount
+TZ1851,2023-02-15,February,Q1,Headphones,Audio,Mumbai,2,11967,13378,15,23934,27291.12,3357.12,12.3,34,Adequate,Returning,Meera,UPI,4.8,Profitable,Medium Discount
+TZ1852,2024-02-11,February,Q1,Laptop,Computing,Mumbai,5,42515,91471,5,212575,521384.7,308809.7,59.23,30,Adequate,Loyal,Meera,UPI,4.2,Profitable,Low Discount
+TZ1853,2023-03-11,March,Q1,Desktop PC,Computing,Hyderabad,4,53686,41191,15,214744,105037.05,-109706.95,-104.45,27,Adequate,New,Priya,Cash,4.4,Loss,Medium Discount
+TZ1854,2023-07-01,July,Q3,Smartwatch,Mobile,Mumbai,9,9403,6759,0,84627,80296.92,-4330.08,-5.39,2,Critical,Loyal,Amit,Credit Card,4.2,Loss,No Discount
+TZ1855,2023-07-02,July,Q3,Smartphone,Mobile,Mumbai,15,30119,44884,5,451785,844268.04,392483.04,46.49,16,Low,Loyal,Rahul,EMI,4.5,Profitable,Low Discount
+TZ1856,2024-11-06,November,Q4,Desktop PC,Computing,Chennai,5,54097,35435,0,270485,195778.38,-74706.62,-38.16,13,Low,Returning,Priya,Credit Card,4.1,Loss,No Discount
+TZ1857,2023-09-02,September,Q3,Smartphone,Mobile,Mumbai,1,21817,11831,0,21817,14197.2,-7619.8,-53.67,12,Low,New,Meera,Cash,3.8,Loss,No Discount
+TZ1858,2023-04-09,April,Q2,Washing Machine,Appliances,Delhi,2,16442,46242,5,32884,96645.78,63761.78,65.97,30,Adequate,Returning,Vikram,Credit Card,4.4,Profitable,Low Discount
+TZ1859,2024-07-08,July,Q3,Monitor,Display,Chennai,2,15615,17005,10,31230,28619.42,-2610.58,-9.12,95,Adequate,Returning,Priya,Cash,4.1,Loss,Low Discount
+TZ1860,2023-11-20,November,Q4,Laptop,Computing,Chennai,4,65066,59424,0,260264,262654.08,2390.08,0.91,52,Adequate,Returning,Meera,EMI,4.1,Profitable,No Discount
+TZ1861,2023-03-10,March,Q1,Smartphone,Mobile,Chennai,5,33150,49247,15,165750,177904.79,12154.79,6.83,5,Critical,Loyal,Vikram,EMI,3.8,Profitable,Medium Discount
+TZ1862,2023-04-08,April,Q2,Refrigerator,Appliances,Bangalore,4,26711,44761,10,106844,161139.6,54295.6,33.69,50,Adequate,Loyal,Amit,UPI,3.6,Profitable,Low Discount
+TZ1863,2023-01-19,January,Q1,Refrigerator,Appliances,Hyderabad,4,43059,56490,10,172236,152523,-19713,-12.92,42,Adequate,Loyal,Meera,Cash,3.8,Loss,Low Discount
+TZ1864,2024-09-23,September,Q3,Desktop PC,Computing,Bangalore,4,53082,47961,0,212328,191844,-20484,-10.68,13,Low,New,Amit,UPI,3.9,Loss,No Discount
+TZ1865,2023-06-05,June,Q2,Monitor,Display,Delhi,11,9242,17800,30,101662,150766,49104,32.57,106,Overstocked,Loyal,Amit,Credit Card,3.3,Profitable,High Discount
+TZ1866,2024-10-21,October,Q4,Laptop,Computing,Hyderabad,7,77470,98261,10,542290,603568.19,61278.19,10.15,58,Adequate,New,Priya,Debit Card,4,Profitable,Low Discount
+TZ1867,2023-07-30,July,Q3,Bluetooth Speaker,Audio,Mumbai,15,6447,5568,5,96705,104734.08,8029.08,7.67,48,Adequate,Returning,Vikram,Debit Card,3.8,Profitable,Low Discount
+TZ1868,2024-10-06,October,Q4,Laptop,Computing,Mumbai,8,39586,57613,0,316688,719010.24,402322.24,55.96,50,Adequate,New,Priya,Credit Card,3.6,Profitable,No Discount
+TZ1869,2024-08-29,August,Q3,Bluetooth Speaker,Audio,Delhi,4,5156,2780,15,20624,11436.92,-9187.08,-80.33,56,Adequate,Returning,Amit,Credit Card,4.6,Loss,Medium Discount
+TZ1870,2023-09-08,September,Q3,Monitor,Display,Delhi,10,16158,19932,20,161580,175401.6,13821.6,7.88,123,Overstocked,Returning,Meera,Credit Card,3.3,Profitable,Medium Discount
+TZ1871,2024-05-07,May,Q2,Desktop PC,Computing,Bangalore,7,49754,42994,15,348278,255814.3,-92463.7,-36.14,38,Adequate,Returning,Vikram,EMI,4.6,Loss,Medium Discount
+TZ1872,2023-06-09,June,Q2,Headphones,Audio,Mumbai,13,7749,9002,0,100737,140431.2,39694.2,28.27,58,Adequate,Returning,Vikram,EMI,3.7,Profitable,No Discount
+TZ1873,2023-06-29,June,Q2,Smartwatch,Mobile,Chennai,8,8011,11431,10,64088,69957.72,5869.72,8.39,14,Low,Loyal,Vikram,UPI,3.6,Profitable,Low Discount
+TZ1874,2023-05-20,May,Q2,Air Conditioner,Appliances,Chennai,2,35140,44427,5,70280,71749.6,1469.6,2.05,10,Low,Loyal,Meera,Debit Card,4.2,Profitable,Low Discount
+TZ1875,2024-03-01,March,Q1,Monitor,Display,Bangalore,7,24041,20086,30,168287,98421.4,-69865.6,-70.99,59,Adequate,Returning,Rahul,Cash,3.4,Loss,High Discount
+TZ1876,2024-08-02,August,Q3,Tablet,Computing,Delhi,7,20364,40272,10,142548,306993.46,164445.46,53.57,42,Adequate,Loyal,Sneha,Debit Card,4.5,Profitable,Low Discount
+TZ1877,2024-10-28,October,Q4,Monitor,Display,Chennai,12,16086,17941,25,193032,178423.24,-14608.76,-8.19,54,Adequate,Returning,Meera,Cash,3.7,Loss,High Discount
+TZ1878,2024-10-22,October,Q4,Tablet,Computing,Bangalore,8,34317,19828,10,274536,185590.08,-88945.92,-47.93,25,Adequate,Loyal,Vikram,Credit Card,3.5,Loss,Low Discount
+TZ1879,2023-04-05,April,Q2,Washing Machine,Appliances,Chennai,4,38136,57414,5,152544,185447.22,32903.22,17.74,43,Adequate,New,Sneha,Credit Card,4.7,Profitable,Low Discount
+TZ1880,2023-09-16,September,Q3,Air Conditioner,Appliances,Bangalore,5,59943,57086,15,299715,242615.5,-57099.5,-23.53,56,Adequate,Returning,Meera,Cash,3.7,Loss,Medium Discount
+TZ1881,2024-08-09,August,Q3,LED TV,Display,Delhi,5,28731,69039,25,143655,313264.46,169609.46,54.14,139,Overstocked,Returning,Rahul,Credit Card,3.8,Profitable,High Discount
+TZ1882,2023-01-02,January,Q1,Desktop PC,Computing,Mumbai,7,59403,59318,10,415821,448444.08,32623.08,7.27,56,Adequate,Returning,Priya,Credit Card,4.1,Profitable,Low Discount
+TZ1883,2024-12-21,December,Q4,Tablet,Computing,Delhi,8,17963,31469,0,143704,360005.36,216301.36,60.08,38,Adequate,Loyal,Priya,Credit Card,3.8,Profitable,No Discount
+TZ1884,2023-07-07,July,Q3,Smartphone,Mobile,Bangalore,15,36561,36790,15,548415,515979.75,-32435.25,-6.29,5,Critical,Loyal,Priya,Cash,3.9,Loss,Medium Discount
+TZ1885,2024-01-22,January,Q1,Desktop PC,Computing,Bangalore,2,47423,33944,5,94846,64493.6,-30352.4,-47.06,40,Adequate,Returning,Meera,Cash,3.5,Loss,Low Discount
+TZ1886,2023-09-30,September,Q3,Laptop,Computing,Hyderabad,1,41346,58832,0,41346,44124,2778,6.3,34,Adequate,Loyal,Vikram,Debit Card,4.9,Profitable,No Discount
+TZ1887,2024-04-29,April,Q2,LED TV,Display,Hyderabad,7,37056,44299,20,259392,186055.8,-73336.2,-39.42,90,Adequate,New,Amit,UPI,3.4,Loss,Medium Discount
+TZ1888,2023-02-28,February,Q1,LED TV,Display,Bangalore,13,21565,20202,25,280345,196969.5,-83375.5,-42.33,139,Overstocked,Returning,Meera,Credit Card,3,Loss,High Discount
+TZ1889,2023-05-06,May,Q2,Bluetooth Speaker,Audio,Bangalore,12,7155,5572,10,85860,60177.6,-25682.4,-42.68,38,Adequate,Loyal,Meera,UPI,4.3,Loss,Low Discount
+TZ1890,2024-11-07,November,Q4,Smartphone,Mobile,Mumbai,11,39376,31114,0,433136,533916.24,100780.24,18.88,13,Low,New,Meera,Debit Card,4.5,Profitable,No Discount
+TZ1891,2023-08-28,August,Q3,Refrigerator,Appliances,Chennai,4,23332,45828,20,93328,137117.38,43789.38,31.94,40,Adequate,Loyal,Meera,Cash,3.7,Profitable,Medium Discount
+TZ1892,2023-10-28,October,Q4,Refrigerator,Appliances,Delhi,2,52082,60479,5,104164,164321.44,60157.44,36.61,18,Low,Returning,Rahul,Debit Card,4.7,Profitable,Low Discount
+TZ1893,2024-07-15,July,Q3,Headphones,Audio,Delhi,15,8811,3895,15,132165,60090.11,-72074.89,-119.94,52,Adequate,Loyal,Priya,Credit Card,3.8,Loss,Medium Discount
+TZ1894,2024-11-06,November,Q4,Air Conditioner,Appliances,Mumbai,1,53501,33915,10,53501,47616.66,-5884.34,-12.36,30,Adequate,Returning,Amit,Credit Card,4.6,Loss,Low Discount
+TZ1895,2024-11-12,November,Q4,Headphones,Audio,Mumbai,11,3724,10757,15,40964,156901.6,115937.6,73.89,15,Low,Loyal,Amit,Credit Card,4.9,Profitable,Medium Discount
+TZ1896,2024-09-07,September,Q3,Desktop PC,Computing,Bangalore,7,50011,74855,15,350077,445387.25,95310.25,21.4,24,Low,New,Amit,Cash,3.9,Profitable,Medium Discount
+TZ1897,2023-04-25,April,Q2,Desktop PC,Computing,Bangalore,4,32609,69541,10,130436,250347.6,119911.6,47.9,18,Low,Returning,Sneha,EMI,4.6,Profitable,Low Discount
+TZ1898,2023-11-15,November,Q4,Laptop,Computing,Hyderabad,4,60437,72767,10,241748,255412.17,13664.17,5.35,59,Adequate,Returning,Meera,Credit Card,4.3,Profitable,Low Discount
+TZ1899,2024-09-08,September,Q3,Refrigerator,Appliances,Delhi,1,43907,23602,20,43907,20769.76,-23137.24,-111.4,30,Adequate,New,Amit,Credit Card,3.5,Loss,Medium Discount
+TZ1900,2024-04-11,April,Q2,Tablet,Computing,Hyderabad,5,16779,39479,0,83895,148046.25,64151.25,43.33,48,Adequate,Returning,Amit,EMI,5,Profitable,No Discount
+TZ1901,2023-05-07,May,Q2,Smartwatch,Mobile,Hyderabad,8,13339,17577,5,106712,100188.9,-6523.1,-6.51,17,Low,Returning,Meera,UPI,3.6,Loss,Low Discount
+TZ1902,2023-12-08,December,Q4,Tablet,Computing,Delhi,4,34950,39108,0,139800,223697.76,83897.76,37.5,59,Adequate,New,Sneha,UPI,3.9,Profitable,No Discount
+TZ1903,2024-11-06,November,Q4,Tablet,Computing,Mumbai,7,23056,28842,15,161392,267711.44,106319.44,39.71,32,Adequate,Returning,Sneha,Cash,4.3,Profitable,Medium Discount
+TZ1904,2023-10-17,October,Q4,Smartwatch,Mobile,Delhi,12,11978,10451,0,143736,179339.16,35603.16,19.85,6,Critical,Returning,Vikram,Cash,4.8,Profitable,No Discount
+TZ1905,2024-12-27,December,Q4,Smartwatch,Mobile,Chennai,11,5681,13456,5,62491,155379.8,92888.8,59.78,16,Low,Loyal,Sneha,Debit Card,4.8,Profitable,Low Discount
+TZ1906,2023-08-03,August,Q3,Smartphone,Mobile,Delhi,12,29339,10598,10,352068,138494.66,-213573.34,-154.21,20,Low,New,Meera,Credit Card,4.1,Loss,Low Discount
+TZ1907,2024-03-13,March,Q1,Washing Machine,Appliances,Delhi,1,18147,42303,20,18147,37226.64,19079.64,51.25,21,Low,New,Rahul,EMI,3.7,Profitable,Medium Discount
+TZ1908,2024-08-30,August,Q3,Monitor,Display,Delhi,11,21238,18028,10,233618,215957.41,-17660.59,-8.18,65,Adequate,New,Sneha,UPI,4,Loss,Low Discount
+TZ1909,2024-09-02,September,Q3,Tablet,Computing,Chennai,2,27193,43340,15,54386,62626.3,8240.3,13.16,27,Adequate,Loyal,Meera,UPI,4.1,Profitable,Medium Discount
+TZ1910,2023-05-03,May,Q2,Desktop PC,Computing,Mumbai,2,57061,74035,5,114122,168799.8,54677.8,32.39,11,Low,Loyal,Vikram,EMI,4.2,Profitable,Low Discount
+TZ1911,2024-12-11,December,Q4,Air Conditioner,Appliances,Mumbai,5,36868,57163,20,184340,356697.12,172357.12,48.32,51,Adequate,Loyal,Sneha,Debit Card,3.6,Profitable,Medium Discount
+TZ1912,2023-04-12,April,Q2,LED TV,Display,Mumbai,12,50226,32116,25,602712,346852.8,-255859.2,-73.77,139,Overstocked,New,Sneha,EMI,3.8,Loss,High Discount
+TZ1913,2024-06-26,June,Q2,Headphones,Audio,Mumbai,9,11080,10830,0,99720,116964,17244,14.74,58,Adequate,New,Meera,Cash,3.8,Profitable,No Discount
+TZ1914,2024-09-05,September,Q3,Air Conditioner,Appliances,Delhi,1,54309,52597,5,54309,54963.86,654.86,1.19,12,Low,New,Vikram,Credit Card,4.5,Profitable,Low Discount
+TZ1915,2023-03-31,March,Q1,Bluetooth Speaker,Audio,Bangalore,14,7169,2073,0,100366,29022,-71344,-245.83,17,Low,Loyal,Amit,Debit Card,4.9,Loss,No Discount
+TZ1916,2023-06-25,June,Q2,Monitor,Display,Mumbai,4,17850,11512,30,71400,38680.32,-32719.68,-84.59,150,Overstocked,Returning,Meera,EMI,3.4,Loss,High Discount
+TZ1917,2024-08-13,August,Q3,Headphones,Audio,Bangalore,9,7269,11931,5,65421,112211.05,46790.05,41.7,54,Adequate,New,Meera,Cash,3.9,Profitable,Low Discount
+TZ1918,2023-07-12,July,Q3,Tablet,Computing,Bangalore,4,16397,34731,5,65588,145175.58,79587.58,54.82,47,Adequate,Returning,Amit,Credit Card,4.6,Profitable,Low Discount
+TZ1919,2024-03-08,March,Q1,Desktop PC,Computing,Hyderabad,5,42083,57020,5,210415,203133.75,-7281.25,-3.58,35,Adequate,Returning,Rahul,Debit Card,4.5,Loss,Low Discount
+TZ1920,2024-12-12,December,Q4,Tablet,Computing,Hyderabad,4,14312,35629,10,57248,125057.79,67809.79,54.22,50,Adequate,Loyal,Meera,Credit Card,4.6,Profitable,Low Discount
+TZ1921,2024-07-31,July,Q3,Washing Machine,Appliances,Hyderabad,5,20375,46504,10,101875,172646.1,70771.1,40.99,30,Adequate,Returning,Sneha,Cash,4.9,Profitable,Low Discount
+TZ1922,2023-09-11,September,Q3,Desktop PC,Computing,Bangalore,2,59830,39208,15,119660,66653.6,-53006.4,-79.53,14,Low,Returning,Meera,Cash,4,Loss,Medium Discount
+TZ1923,2023-12-08,December,Q4,Smartwatch,Mobile,Delhi,14,6698,8483,0,93772,169829.66,76057.66,44.78,5,Critical,Returning,Priya,UPI,4.9,Profitable,No Discount
+TZ1924,2023-05-07,May,Q2,Tablet,Computing,Hyderabad,5,31294,41913,15,156470,133597.69,-22872.31,-17.12,16,Low,Loyal,Amit,EMI,4.8,Loss,Medium Discount
+TZ1925,2024-07-18,July,Q3,Smartwatch,Mobile,Hyderabad,2,3785,6797,10,7570,10093.55,2523.55,25,14,Low,New,Amit,EMI,4.3,Profitable,Low Discount
+TZ1926,2024-02-17,February,Q1,Headphones,Audio,Hyderabad,3,5744,2155,5,17232,4606.31,-12625.69,-274.1,52,Adequate,New,Priya,UPI,4.4,Loss,Low Discount
+TZ1927,2023-10-01,October,Q4,Laptop,Computing,Bangalore,4,79447,84891,15,317788,375218.22,57430.22,15.31,55,Adequate,Returning,Priya,UPI,5,Profitable,Medium Discount
+TZ1928,2024-04-24,April,Q2,Bluetooth Speaker,Audio,Bangalore,5,4504,5248,10,22520,23616,1096,4.64,50,Adequate,New,Amit,UPI,4.7,Profitable,Low Discount
+TZ1929,2023-04-03,April,Q2,Washing Machine,Appliances,Mumbai,1,38919,34731,5,38919,39593.34,674.34,1.7,20,Low,Loyal,Rahul,Cash,4.6,Profitable,Low Discount
+TZ1930,2024-07-21,July,Q3,Headphones,Audio,Mumbai,7,9834,13973,5,68838,122654.99,53816.99,43.88,40,Adequate,Returning,Vikram,EMI,4.5,Profitable,Low Discount
+TZ1931,2024-02-20,February,Q1,Laptop,Computing,Hyderabad,4,35477,91803,15,141908,234097.65,92189.65,39.38,54,Adequate,Loyal,Meera,Debit Card,3.9,Profitable,Medium Discount
+TZ1932,2024-11-08,November,Q4,Bluetooth Speaker,Audio,Hyderabad,1,5975,8850,5,5975,8197.31,2222.31,27.11,53,Adequate,Loyal,Priya,Credit Card,3.6,Profitable,Low Discount
+TZ1933,2023-05-17,May,Q2,Bluetooth Speaker,Audio,Bangalore,1,4462,9618,15,4462,8175.3,3713.3,45.42,20,Low,Returning,Rahul,Debit Card,4.9,Profitable,Medium Discount
+TZ1934,2023-09-13,September,Q3,Bluetooth Speaker,Audio,Mumbai,5,3450,9415,10,17250,50841,33591,66.07,26,Adequate,New,Rahul,EMI,4.1,Profitable,Low Discount
+TZ1935,2023-11-09,November,Q4,Washing Machine,Appliances,Hyderabad,1,30173,50999,5,30173,47237.82,17064.82,36.13,32,Adequate,New,Vikram,UPI,4,Profitable,Low Discount
+TZ1936,2023-12-29,December,Q4,Desktop PC,Computing,Mumbai,6,37200,58349,10,223200,491531.98,268331.98,54.59,10,Low,New,Sneha,UPI,3.8,Profitable,Low Discount
+TZ1937,2024-06-25,June,Q2,Bluetooth Speaker,Audio,Delhi,7,2014,9485,0,14098,73034.5,58936.5,80.7,19,Low,Loyal,Amit,Credit Card,4.2,Profitable,No Discount
+TZ1938,2024-01-19,January,Q1,Smartwatch,Mobile,Bangalore,7,5984,12788,10,41888,80564.4,38676.4,48.01,5,Critical,Returning,Meera,UPI,3.7,Profitable,Low Discount
+TZ1939,2023-12-29,December,Q4,Air Conditioner,Appliances,Chennai,1,48542,45006,5,48542,47245.05,-1296.95,-2.75,22,Low,Returning,Rahul,Credit Card,4.1,Loss,Low Discount
+TZ1940,2023-12-06,December,Q4,Laptop,Computing,Delhi,4,66411,88597,10,265644,456097.36,190453.36,41.76,17,Low,Returning,Sneha,EMI,4.2,Profitable,Low Discount
+TZ1941,2024-11-29,November,Q4,Air Conditioner,Appliances,Delhi,3,51206,64889,20,153618,222699.05,69081.05,31.02,18,Low,New,Rahul,Cash,3.1,Profitable,Medium Discount
+TZ1942,2023-12-19,December,Q4,Bluetooth Speaker,Audio,Mumbai,13,6606,5374,0,85878,108984.72,23106.72,21.2,53,Adequate,Returning,Sneha,EMI,4.6,Profitable,No Discount
+TZ1943,2024-03-20,March,Q1,Headphones,Audio,Bangalore,5,9461,3353,15,47305,14250.25,-33054.75,-231.96,25,Adequate,Loyal,Priya,EMI,3.8,Loss,Medium Discount
+TZ1944,2023-10-15,October,Q4,Desktop PC,Computing,Bangalore,4,53125,45003,15,212500,198913.26,-13586.74,-6.83,55,Adequate,New,Meera,EMI,4.4,Loss,Medium Discount
+TZ1945,2023-07-13,July,Q3,Refrigerator,Appliances,Delhi,2,25894,31670,20,51788,61313.12,9525.12,15.54,12,Low,Returning,Priya,Credit Card,3.4,Profitable,Medium Discount
+TZ1946,2024-09-23,September,Q3,Smartphone,Mobile,Mumbai,14,9669,34926,15,135366,498743.28,363377.28,72.86,18,Low,Returning,Meera,Credit Card,3.8,Profitable,Medium Discount
+TZ1947,2024-03-12,March,Q1,Headphones,Audio,Mumbai,9,8497,12549,0,76473,135529.2,59056.2,43.57,29,Adequate,New,Amit,Debit Card,3.9,Profitable,No Discount
+TZ1948,2023-12-26,December,Q4,Air Conditioner,Appliances,Chennai,2,45961,35116,10,91922,69845.72,-22076.28,-31.61,12,Low,New,Rahul,Debit Card,3.8,Loss,Low Discount
+TZ1949,2024-04-28,April,Q2,Smartwatch,Mobile,Hyderabad,2,10059,7028,10,20118,9487.8,-10630.2,-112.04,17,Low,Returning,Amit,Debit Card,3.7,Loss,Low Discount
+TZ1950,2024-11-16,November,Q4,Laptop,Computing,Hyderabad,3,56706,68630,10,170118,180668.48,10550.48,5.84,57,Adequate,Loyal,Vikram,EMI,4.1,Profitable,Low Discount
+TZ1951,2024-10-27,October,Q4,Smartwatch,Mobile,Delhi,10,9292,5429,0,92920,77634.7,-15285.3,-19.69,6,Critical,Loyal,Meera,EMI,3.7,Loss,No Discount
+TZ1952,2024-08-23,August,Q3,Washing Machine,Appliances,Delhi,2,38090,48213,5,76180,110841.69,34661.69,31.27,14,Low,Loyal,Vikram,Debit Card,4,Profitable,Low Discount
+TZ1953,2024-04-30,April,Q2,Smartphone,Mobile,Hyderabad,12,13035,12871,5,156420,110047.05,-46372.95,-42.14,8,Critical,Returning,Vikram,Debit Card,4.8,Loss,Low Discount
+TZ1954,2024-07-27,July,Q3,LED TV,Display,Bangalore,8,56278,67010,10,450224,530719.2,80495.2,15.17,105,Overstocked,New,Sneha,UPI,4.3,Profitable,Low Discount
+TZ1955,2024-05-30,May,Q2,Laptop,Computing,Delhi,5,43449,63982,0,217245,351901,134656,38.27,46,Adequate,New,Meera,Credit Card,4.6,Profitable,No Discount
+TZ1956,2024-02-12,February,Q1,Headphones,Audio,Hyderabad,14,9912,3228,5,138768,32199.3,-106568.7,-330.97,38,Adequate,Loyal,Sneha,EMI,4.7,Loss,Low Discount
+TZ1957,2024-02-15,February,Q1,Refrigerator,Appliances,Bangalore,2,30062,23235,10,60124,41823,-18301,-43.76,46,Adequate,New,Vikram,Cash,4.8,Loss,Low Discount
+TZ1958,2024-06-09,June,Q2,Headphones,Audio,Hyderabad,12,10102,6240,10,121224,50544,-70680,-139.84,24,Low,Returning,Meera,Debit Card,4.3,Loss,Low Discount
+TZ1959,2023-06-25,June,Q2,Smartphone,Mobile,Mumbai,9,15805,29126,0,142245,314560.8,172315.8,54.78,6,Critical,Returning,Priya,Debit Card,4.8,Profitable,No Discount
+TZ1960,2023-02-22,February,Q1,Washing Machine,Appliances,Delhi,2,32517,26614,5,65034,55623.26,-9410.74,-16.92,51,Adequate,Returning,Meera,EMI,5,Loss,Low Discount
+TZ1961,2023-11-29,November,Q4,Desktop PC,Computing,Hyderabad,5,33756,58761,10,168780,257813.89,89033.89,34.53,30,Adequate,New,Meera,Cash,4.7,Profitable,Low Discount
+TZ1962,2023-08-13,August,Q3,Air Conditioner,Appliances,Bangalore,2,41776,33024,5,83552,69020.16,-14531.84,-21.05,56,Adequate,Loyal,Meera,UPI,4.9,Loss,Low Discount
+TZ1963,2023-09-21,September,Q3,Washing Machine,Appliances,Hyderabad,5,21755,47979,10,108775,161929.12,53154.12,32.83,30,Adequate,Returning,Priya,EMI,4.4,Profitable,Low Discount
+TZ1964,2024-02-09,February,Q1,Tablet,Computing,Chennai,4,26218,27079,5,104872,87465.17,-17406.83,-19.9,40,Adequate,New,Sneha,Credit Card,4.2,Loss,Low Discount
+TZ1965,2023-06-30,June,Q2,Smartphone,Mobile,Hyderabad,8,38911,21823,10,311288,117844.2,-193443.8,-164.15,2,Critical,Returning,Priya,Credit Card,4.7,Loss,Low Discount
+TZ1966,2024-12-04,December,Q4,Refrigerator,Appliances,Delhi,1,27405,27721,20,27405,31712.82,4307.82,13.58,25,Adequate,Returning,Meera,UPI,3.1,Profitable,Medium Discount
+TZ1967,2024-06-23,June,Q2,Tablet,Computing,Mumbai,2,24382,27582,0,48764,66196.8,17432.8,26.33,17,Low,New,Meera,Cash,3.7,Profitable,No Discount
+TZ1968,2023-03-27,March,Q1,Smartwatch,Mobile,Delhi,11,12824,4221,0,141064,51074.1,-89989.9,-176.19,5,Critical,Loyal,Meera,Debit Card,4.8,Loss,No Discount
+TZ1969,2023-03-29,March,Q1,Smartphone,Mobile,Delhi,8,32892,46887,15,263136,350714.76,87578.76,24.97,7,Critical,Returning,Amit,UPI,3.7,Profitable,Medium Discount
+TZ1970,2023-02-27,February,Q1,Bluetooth Speaker,Audio,Bangalore,11,5453,3516,0,59983,38676,-21307,-55.09,12,Low,New,Vikram,Debit Card,3.7,Loss,No Discount
+TZ1971,2024-03-01,March,Q1,Tablet,Computing,Mumbai,4,12786,22427,15,51144,91502.16,40358.16,44.11,34,Adequate,New,Amit,Debit Card,3.8,Profitable,Medium Discount
+TZ1972,2024-12-01,December,Q4,Monitor,Display,Mumbai,8,13556,13608,15,108448,144353.66,35905.66,24.87,63,Adequate,Returning,Amit,Cash,4.4,Profitable,Medium Discount
+TZ1973,2023-05-02,May,Q2,LED TV,Display,Mumbai,15,17840,59616,15,267600,912124.8,644524.8,70.66,72,Adequate,Returning,Vikram,Debit Card,4.4,Profitable,Medium Discount
+TZ1974,2024-11-26,November,Q4,Monitor,Display,Delhi,15,17881,30472,20,268215,522899.52,254684.52,48.71,94,Adequate,New,Amit,UPI,3.7,Profitable,Medium Discount
+TZ1975,2023-09-29,September,Q3,Air Conditioner,Appliances,Mumbai,1,34741,74982,10,34741,80980.56,46239.56,57.1,30,Adequate,New,Sneha,UPI,4.6,Profitable,Low Discount
+TZ1976,2024-05-04,May,Q2,Desktop PC,Computing,Mumbai,7,43250,41480,0,302750,348432,45682,13.11,30,Adequate,New,Priya,UPI,4,Profitable,No Discount
+TZ1977,2024-05-21,May,Q2,Monitor,Display,Chennai,12,21564,29717,20,258768,242490.72,-16277.28,-6.71,67,Adequate,Loyal,Priya,UPI,3.4,Loss,Medium Discount
+TZ1978,2024-05-24,May,Q2,Bluetooth Speaker,Audio,Hyderabad,8,5362,5270,15,42896,26877,-16019,-59.6,15,Low,Loyal,Meera,UPI,4.3,Loss,Medium Discount
+TZ1979,2024-12-11,December,Q4,Air Conditioner,Appliances,Delhi,1,40413,55704,5,40413,75673.88,35260.88,46.6,23,Low,New,Amit,EMI,4.2,Profitable,Low Discount
+TZ1980,2023-05-17,May,Q2,Desktop PC,Computing,Mumbai,6,48649,41132,10,291894,266535.36,-25358.64,-9.51,39,Adequate,New,Vikram,UPI,3.9,Loss,Low Discount
+TZ1981,2023-08-18,August,Q3,Laptop,Computing,Delhi,2,44376,69737,0,88752,168763.54,80011.54,47.41,54,Adequate,Returning,Amit,Cash,4.6,Profitable,No Discount
+TZ1982,2024-11-09,November,Q4,Refrigerator,Appliances,Mumbai,4,28366,24978,10,113464,140276.45,26812.45,19.11,33,Adequate,New,Rahul,Credit Card,3.6,Profitable,Low Discount
+TZ1983,2024-08-05,August,Q3,Monitor,Display,Delhi,13,13977,25393,15,181701,339517.11,157816.11,46.48,145,Overstocked,Loyal,Meera,Debit Card,4.2,Profitable,Medium Discount
+TZ1984,2023-12-12,December,Q4,Headphones,Audio,Mumbai,5,3322,4554,0,16610,35521.2,18911.2,53.24,51,Adequate,New,Vikram,Credit Card,4.3,Profitable,No Discount
+TZ1985,2023-01-12,January,Q1,Monitor,Display,Chennai,11,22886,28158,20,251746,210621.84,-41124.16,-19.53,123,Overstocked,Loyal,Amit,Credit Card,3.4,Loss,Medium Discount
+TZ1986,2023-06-10,June,Q2,Smartwatch,Mobile,Mumbai,9,9185,19582,5,82665,200911.32,118246.32,58.85,8,Critical,Returning,Vikram,Cash,3.8,Profitable,Low Discount
+TZ1987,2023-07-08,July,Q3,Air Conditioner,Appliances,Hyderabad,5,30059,62699,20,150295,206906.7,56611.7,27.36,30,Adequate,Loyal,Meera,UPI,3.8,Profitable,Medium Discount
+TZ1988,2023-06-18,June,Q2,Laptop,Computing,Bangalore,7,47761,62689,0,334327,438823,104496,23.81,16,Low,New,Amit,EMI,4.7,Profitable,No Discount
+TZ1989,2023-12-10,December,Q4,Laptop,Computing,Delhi,5,45666,80492,0,228330,575517.8,347187.8,60.33,14,Low,New,Vikram,Cash,4.6,Profitable,No Discount
+TZ1990,2023-11-13,November,Q4,Smartphone,Mobile,Hyderabad,4,28918,12121,5,115672,44908.31,-70763.69,-157.57,10,Low,New,Vikram,EMI,3.6,Loss,Low Discount
+TZ1991,2024-05-10,May,Q2,Laptop,Computing,Mumbai,6,41108,65224,0,246648,469612.8,222964.8,47.48,32,Adequate,Returning,Sneha,EMI,3.8,Profitable,No Discount
+TZ1992,2024-02-05,February,Q1,Air Conditioner,Appliances,Bangalore,2,31381,53713,20,62762,85940.8,23178.8,26.97,57,Adequate,Loyal,Rahul,EMI,3.8,Profitable,Medium Discount
+TZ1993,2023-06-03,June,Q2,Laptop,Computing,Hyderabad,7,66257,83427,0,463799,437991.75,-25807.25,-5.89,28,Adequate,New,Priya,UPI,3.6,Loss,No Discount
+TZ1994,2024-10-02,October,Q4,Desktop PC,Computing,Delhi,4,34231,42554,10,136924,219067.99,82143.99,37.5,38,Adequate,New,Amit,Debit Card,4,Profitable,Low Discount
+TZ1995,2024-03-17,March,Q1,Laptop,Computing,Chennai,4,48685,85002,0,194740,289006.8,94266.8,32.62,19,Low,Loyal,Meera,UPI,3.6,Profitable,No Discount
+TZ1996,2023-01-16,January,Q1,Tablet,Computing,Bangalore,2,28348,18083,15,56696,30741.1,-25954.9,-84.43,30,Adequate,New,Amit,Credit Card,3.6,Loss,Medium Discount
+TZ1997,2024-08-13,August,Q3,LED TV,Display,Bangalore,2,19661,31743,25,39322,52375.95,13053.95,24.92,83,Adequate,Returning,Amit,UPI,3.7,Profitable,High Discount
+TZ1998,2023-05-24,May,Q2,Desktop PC,Computing,Hyderabad,8,27594,55820,10,220752,301428,80676,26.76,35,Adequate,Returning,Vikram,Credit Card,4.2,Profitable,Low Discount
+TZ1999,2024-06-08,June,Q2,Refrigerator,Appliances,Bangalore,3,23471,67708,20,70413,162499.2,92086.2,56.67,42,Adequate,Returning,Amit,Cash,3.6,Profitable,Medium Discount
+,,,,,,,,,,,,,,,,,,,,,Loss,No Discount
+,,,,,,,,,,,,,,,,,,,,,Loss,No Discount
