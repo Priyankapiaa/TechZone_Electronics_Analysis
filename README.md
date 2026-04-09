@@ -17,6 +17,18 @@ TechZone Electronics is a mid-sized electronics retail chain operating across 5 
 | SQL Server (SSMS) | Business queries & aggregation |
 | Power BI | Interactive 3-page dashboard |
 
+## 🖼️ Dashboard Preview
+
+### **Page 1 – Business Overview**
+![Dashboard Page 1](images/page1.png)
+
+### **Page 2 – Profitability Analysis**
+![Dashboard Page 2](images/page2.png)
+
+### **Page 3 – Summary Dashboard**
+![Dashboard Page 3](images/page3.png)
+
+
 ## 📊 Key Findings
 - Computing is the most profitable category — 22.39% margin
 - Display category has only 4.74% margin despite ₹37M revenue
